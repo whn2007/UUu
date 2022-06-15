@@ -1,0 +1,41 @@
+@import './variables.scss';
+
+.about {
+    margin: 0;
+    padding: 0;
+    background-color: $white;
+    .aboutHeader{
+        margin-top: 4em;
+        margin-bottom: 10em;
+        display: flex;
+        justify-content: center;
+
+        .aboutTitle{
+            h1{
+                text-align: center;
+                margin-bottom: 0%;
+                font-size: 4em;
+                color: $darkRed;
+            }
+            h2{
+                text-align: center;
+                margin: 0;
+                padding: 0;
+                font-size: 1.5em;
+                color: $darkRed;
+            }
+        }
+
+    }
+    .aboutList{
+        display: grid;
+        width: 100%;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-bottom: 8em;
+
+        .aboutItem{
+
+        }
+    }
+
+}

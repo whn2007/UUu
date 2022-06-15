@@ -30,7 +30,7 @@ function Home() {
         <div className="textBlock">
           <h1>'I'm One of One'</h1>
           <p>What does it mean to be one of one? <br/> 
-          Being one of one is having the drive to accomplish 
+          It means to have the drive to accomplish 
           your goals with relentlessness. It is the ability to
           go all in spite of what anyone might think about you.
           That's what it means to be one of one. Stoopid!

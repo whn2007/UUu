@@ -2,16 +2,16 @@ import React from "react";
 import { AboutList } from "../helpers/AboutList";
 import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
-import "../styles/About.css";
+import "../styles/About.scss";
 
 function About() {
   return (
     <div className="about">
       <div className="aboutHeader">
-        <h1>THE FOUNDERS</h1>
-        <h2>
-          Meet the team spearheading this project.
-        </h2>
+        <div className="aboutTitle">
+          <h1>The Team</h1>
+          <h2>Meet the people who are going to change the world.</h2>
+        </div>
       </div>
 
       <div className="aboutList">

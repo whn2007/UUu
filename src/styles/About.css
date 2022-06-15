@@ -1,37 +1,8 @@
-.about{
-    margin: 0;
-    padding: 0;
-    background-color: black;
-    background-size: 120%;
-    background-repeat: no-repeat;
-    background-position: 0em -55em;
-}
-
-.aboutHeader{
-    margin-top: 20em;
-    margin-bottom: 15em;
-    text-align: center;
-}
-
-.aboutHeader h1{
-    color: #FFD800;
-    padding: 0.3em;
-    font-size: 3rem;
-}
-
-.aboutHeader h2{
-    font-size: 1.8rem;
-    color: white;
-}
 
 .aboutList{
     padding-left: 5em;
     padding-right: 5em;
     margin-bottom: 10em;
-    width: 100%;
-    height: auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
 }
 
 /*              Item Styling                        */

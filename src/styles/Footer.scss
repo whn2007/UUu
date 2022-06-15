@@ -1,56 +1,46 @@
+@import './variables';
+
 .footer {
   width: 100%;
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding-bottom: 3.5rem;
+  background-color: $tan;
+  bottom: 0;
 
-  background-image: url("../assets/bg-footer.jpeg");
-  background-size: 700px 155px;
-  background-repeat: no-repeat;
-  background-position: bottom center;
-
-  strong {
-    color: var(--primary);
+  .socialMedia {
+    svg{
+      cursor: pointer;
+      color: $darkRed;
+      font-size: 2.5rem;
+      &:hover{
+        color: $red;
+        transition: 0.2s ease-in-out;
+      }
+    }
   }
-}
-
-.socialMedia svg {
-  cursor: pointer;
-  color: var(--white);
-  margin: 0.1em;
-  font-size: 3rem;
+  p{
+    color: $black;
+    margin: 0.3em 0em 0.5em 0em;
+  }
 }
 
 
 @media only screen and (max-width: 767px) {
-  .footer{
-    margin-left: 3em;
-  }
 
-  .socialMedia svg {
-    margin: 0.2em;
-  }  
 }
 
 /* tablets */
 
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
-  .footer{
-    margin-left: 15em;
-  }
 
-  .socialMedia svg {
-    margin: 0.2em;
-  }  
 }
 
 /* Full size screen */
 
 @media only screen and (min-width: 1024px) {
   .socialMedia svg {
-    margin: 0.2em;
+    margin-top: 0.1em;
   }
 }
 

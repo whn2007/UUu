@@ -1,13 +1,18 @@
-body {
-  --black: #000;
-  --white: #fff;
-  --primary: #ffd800;
+$black: #27242d;
+$grey: #636a74;
+$white: #fffbfb;
+$peach: #ffd5cc;
+$tan: #fdeed4;
+$light_tan: #fef4e4;
+$brown: #6C3F31;
+$red: #ce0913;
+$darkRed: #b50710;
 
-  --textcolor: var(--white);
-  --bg-color: var(--black);
+body {
+  --primary: #ffd800;
 
   --font-weight-base: 500;
   --font-weight-bold: 700;
-  --font-weight-bolder: 900;
+  --font-weight-bolder: 800;
   --font-family-base: "Montserrat", Arial, sans-serif;
 }

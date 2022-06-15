@@ -15,12 +15,12 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" exact element={<Home />} />
-          <Route path="/namer-community" exact element={<Home />} />
+          <Route path="/UUu" exact element={<Home />} />
           <Route path="/mission" exact element={<Mission />} />
           <Route path="/about" exact element={<About />} />
           <Route path="*" exact element={<Home/>} />
         </Routes>
-        <Footer />
+        <Footer className = "footer"/>
       </Router>
     </div>
   );

@@ -2,7 +2,6 @@ import React from "react";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import InstagramIcon from "@material-ui/icons/Instagram";
 import YouTubeIcon from "@material-ui/icons/YouTube";
-import FacebookIcon from "@material-ui/icons/Facebook";
 import "../styles/Footer.scss";
 
 function Footer() {
@@ -20,7 +19,7 @@ function Footer() {
         </a>
       </div>
       <p>
-        &copy; 2022 <strong>Namer Community</strong>
+        &copy; 2022 <strong>UUu Clan</strong>
       </p>
     </div>
   );

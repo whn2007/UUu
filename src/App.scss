@@ -1,14 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;0,900;1,500;1,700;1,900&display=swap");
-@import "./styles/variables";
-@import "./styles/reboot";
-@import "./styles/text-intro";
-@import "./styles/cards";
+@import './styles/variables';
 
 .App {
   width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
+  font-family: 'Montserrat';
 }
 
 body {
@@ -36,71 +34,23 @@ h4 {
   font-weight: var(--font-weight-bold);
 }
 
+.footer{
+  position:fixed
+}
+
 button,
 .btn {
-  color: var(--black);
-  background-color: var(--primary);
+  color: $black;
+  background-color: $tan;
   font-weight: var(--font-weight-bold);
   border: none;
   border-radius: 1.7rem;
   padding: 0.5em 1.5em;
-  -moz-appearance: none;
-  -webkit-appearance: none;
   appearance: none;
 
   &:hover {
-    background-color: #ffe867;
+    background-color: $light_tan;
     transition: 0.2s ease-in;
   }
 }
 
-.container {
-  width: 100%;
-  max-width: 1088px;
-  margin: 0 auto;
-}
-
-.bg-wrapper-secondary {
-  background-color: #101010;
-}
-
-.transform-left {
-  transform: perspective(1500px) rotateY(30deg);
-  transition: transform 1s ease 0s;
-
-  &:hover {
-    transform: perspective(3000px) rotateY(5deg);
-  }
-}
-
-.transform-right {
-  transform: perspective(1500px) rotateY(-30deg);
-  transition: transform 1s ease 0s;
-
-  &:hover {
-    transform: perspective(3000px) rotateY(-5deg);
-  }
-}
-
-.mb-0 {
-  margin-bottom: 0 !important;
-}
-
-.heading {
-  justify-content: center;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  margin-top: 11em;
-
-  & > * {
-    position: relative;
-    z-index: 10;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .heading {
-    margin-top: 8rem;
-  }
-}

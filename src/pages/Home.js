@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
 import "../styles/Home.scss";
 import Johnny from '../assets/profilepics/jaywuzer.png'
@@ -23,15 +24,22 @@ function Home() {
 
       <div className="founder">
         <div className="profile">
-          <h2>The Founder</h2>
           <img src = {Johnny}/>
+          <h2>The Founder</h2>
         </div>
         <div className="textBlock">
           <h1>'I'm One of One'</h1>
-          <p>What does it mean to be one of one?
-             - Johnny Wu</p>
+          <p>What does it mean to be one of one? <br/> 
+          Being one of one is having the drive to accomplish 
+          your goals with relentlessness. It is the ability to
+          go all in spite of what anyone might think about you.
+          That's what it means to be one of one. Stoopid!
+
+          <h2>- Johnny Wu</h2></p>
         </div>
       </div>
+
+      <Footer className = "footer"/>
 
     </div>
   );

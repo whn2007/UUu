@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 import Symbol1 from "../assets/symbol1.png";
 import Symbol2 from "../assets/symbol2.png";
 import Symbol3 from "../assets/symbol3.png";
@@ -123,6 +124,8 @@ function Menu() {
           </div>
         </div>
       </div>
+
+      <Footer className = "footer"/>
     </div>
   );
 }

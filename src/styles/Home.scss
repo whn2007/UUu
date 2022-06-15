@@ -10,13 +10,13 @@
         background-image: url('../assets/background1.jpeg');
         background-repeat: no-repeat;
         background-size: 100%;
-        height: 90vh;
+        height: 40em;
         display: flex;
         flex-direction: column;
         text-align: center;
 
         .top{  
-            margin-top: 11em;
+            margin-top: 10.5em;
             h2{
                 margin:0;
                 font-size: 3rem;
@@ -35,7 +35,8 @@
             }
             button{
                 cursor: pointer;
-                font-size: 1rem;
+                margin: 0.1em;
+                font-size: 1.2rem;
             }
         }
 
@@ -47,7 +48,7 @@
         align-content: center;
         margin-top: 5em;
         
-        height: 70vh;
+        height: 25em;
 
         .profile{
             h2{
@@ -55,13 +56,21 @@
                 color: $brown;
             }
             img{
-                width: 8em;
+                width: 12em;
             }
         }
         
         .textBlock{
             margin-left: 5em;
             h1{
+                color: $darkRed;
+            }
+            p{
+                width: 25em;
+                line-height: 1.4em;
+            }
+            h2{
+                font-size: 1rem;
                 color: $darkRed;
             }
         }

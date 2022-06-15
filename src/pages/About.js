@@ -1,5 +1,6 @@
 import React from "react";
 import { AboutList } from "../helpers/AboutList";
+import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
 import "../styles/About.css";
 
@@ -26,13 +27,7 @@ function About() {
           );
         })}
       </div>
-
-      <div className="supporters">
-        <h1>THE SUPPORTERS</h1>
-        <h2>
-          A big thanks to the people <br/> supporting this project.
-        </h2>
-      </div>
+      <Footer className = "footer"/>
     </div>
   );
 }

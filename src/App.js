@@ -1,6 +1,5 @@
 import "./App.scss";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop"
 import Home from "./pages/Home";
 import Mission from "./pages/Mission";
@@ -20,7 +19,6 @@ function App() {
           <Route path="/about" exact element={<About />} />
           <Route path="*" exact element={<Home/>} />
         </Routes>
-        <Footer className = "footer"/>
       </Router>
     </div>
   );

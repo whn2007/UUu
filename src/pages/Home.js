@@ -14,7 +14,7 @@ function Home() {
             <h3>To Change the World</h3>
             <h4> While Also Having Fun! </h4>
             <Link to="/mission">
-              <button>Learn More</button>
+              <button>Our Values</button>
             </Link>
           </div>
     
@@ -22,8 +22,14 @@ function Home() {
       </div>
 
       <div className="founder">
-        <h2>Meet the founder</h2>
-        <img src = {Johnny}/>
+        <div className="left">
+          <h2>Meet the founder</h2>
+          <img src = {Johnny}/>
+        </div>
+        <div className="right">
+          <h2>Meet the founder</h2>
+          <img src = {Johnny}/>
+        </div>
       </div>
 
     </div>

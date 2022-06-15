@@ -1,12 +1,11 @@
 import React from "react";
 import { AboutList } from "../helpers/AboutList";
 import AboutItem from "../components/AboutItem";
-import HalfMoon from "../assets/bg-otherhalfmoon.png";
 import "../styles/About.css";
 
 function About() {
   return (
-    <div className="about" style={{ backgroundImage: `url(${HalfMoon})` }}>
+    <div className="about">
       <div className="aboutHeader">
         <h1>THE FOUNDERS</h1>
         <h2>

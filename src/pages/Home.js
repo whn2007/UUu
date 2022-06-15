@@ -12,7 +12,7 @@ function Home() {
           <div className="top">
             <h2>Our Goal: <br/></h2>
             <h3>To Change the World</h3>
-            <h4> While Also Having Fun! </h4>
+            <h1> While Also Having Fun! </h1>
             <Link to="/mission">
               <button>Our Values</button>
             </Link>
@@ -22,13 +22,14 @@ function Home() {
       </div>
 
       <div className="founder">
-        <div className="left">
-          <h2>Meet the founder</h2>
+        <div className="profile">
+          <h2>The Founder</h2>
           <img src = {Johnny}/>
         </div>
-        <div className="right">
-          <h2>Meet the founder</h2>
-          <img src = {Johnny}/>
+        <div className="textBlock">
+          <h1>'I'm One of One'</h1>
+          <p>What does it mean to be one of one?
+             - Johnny Wu</p>
         </div>
       </div>
 

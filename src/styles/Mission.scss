@@ -7,6 +7,7 @@
     .header{
         display: flex;
         justify-content: center;
+        margin-bottom: 7em;
         h1{
             margin: 0;
             margin-top: 2em;
@@ -17,10 +18,11 @@
 
     .value{
         display: flex;
-        height: 20em;
+        height: max(25em);
+        margin-bottom: 5em;
         h1{
             font-size: 4rem;
-            color: $black;
+            color: black;
         }
         h2{
             margin: 0;
@@ -32,6 +34,34 @@
             font-size: 1.2rem;
             color: $black;
         }
+
+        .integrity{
+            background-image: url('../assets/sincere.png');
+            background-size: 25em;
+            background-position: 50%;
+            background-repeat: no-repeat;
+        }
+
+        .simple{
+            background-image: url('../assets/simplicity.png');
+            background-size: 35em;
+            background-position: 50%;
+            background-repeat: no-repeat;
+        }
+
+        .fun{
+            background-image: url('../assets/fun.png');
+            background-size: 35em;
+            background-position: 50%;
+            background-repeat: no-repeat;
+        }
+
+        .unique{
+            background-image: url('../assets/unique.png');
+            background-size: 35em;
+            background-position: 50%;
+            background-repeat: no-repeat;
+        }   
         
         .left{  
             width: 50%;
@@ -47,6 +77,8 @@
             align-items: center;
             justify-content: center;
         }
+
+
     }
 
 }

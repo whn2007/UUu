@@ -8,16 +8,17 @@ function Mission() {
     <div className="mission">
       <div className="header">
         <h1>Our Values</h1>
+        <p></p>
       </div>
 
       <div className="value">
-        <div className="left">
+        <div className="left integrity">
           <h1>Integrity</h1>
         </div>
         <div className="right">
-          <h2>Always act with integrity.</h2>
-          <p>Without integrity, changing the world will be impossible. <br/>
-            The world is dying, and it needs honest people to save it.
+          <h2>Act With Integrity.</h2>
+          <p>There is too much hate and evil in this world. The <br/>
+            Earth is dying, and it needs honest people to save it.
           </p>
         </div>
       </div>
@@ -29,18 +30,18 @@ function Mission() {
           Goals are accomplished faster, so keep it simple!
           </p>
         </div>
-        <div className="right">
+        <div className="right simple">
           <h1>K.I.S.S.</h1>
         </div>
       </div>
 
       <div className="value">
-        <div className="left">
+        <div className="left fun">
           <h1>Have Fun</h1>
         </div>
         <div className="right">
-          <h2>Always Enjoy What You Do.</h2>
-          <p></p>
+          <h2>Enjoy Life.</h2>
+          <p>Life is too short. Have fun with everything.</p>
         </div>
       </div>
 
@@ -50,7 +51,7 @@ function Mission() {
           <p>Be the best at what you do, and get sh#t done.
           </p>
         </div>
-        <div className="right">
+        <div className="right unique">
           <h1>Be 1/1</h1>
         </div>
       </div>

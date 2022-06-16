@@ -1,0 +1,52 @@
+@import './variables.scss';
+
+.mission{
+    margin: 0;
+    padding: 0;
+    margin-top: 4em;
+    .header{
+        display: flex;
+        justify-content: center;
+        h1{
+            margin: 0;
+            margin-top: 2em;
+            color: $darkRed;
+            font-size: 4em;
+        }
+    }
+
+    .value{
+        display: flex;
+        height: 20em;
+        h1{
+            font-size: 4rem;
+            color: $black;
+        }
+        h2{
+            margin: 0;
+            font-size: 2rem;
+            color: $black;
+        }
+        p{
+            margin: 0.3em;
+            font-size: 1.2rem;
+            color: $black;
+        }
+        
+        .left{  
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .right{
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+
+}

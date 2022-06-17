@@ -5,36 +5,51 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: $tan;
+  background-color: black;
   bottom: 0;
 
   .socialMedia {
     svg{
       cursor: pointer;
-      color: $darkRed;
+      color: $red;
       font-size: 2.5rem;
       &:hover{
-        color: $red;
+        color: $darkRed;
         transition: 0.2s ease-in-out;
       }
     }
   }
   p{
-    color: $black;
+    color: $grey;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
 }
 
 
-@media only screen and (max-width: 767px) {
-
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+  .socialMedia{
+    a{
+      padding: 0.3em;
+      font-size: 2rem;
+    }
+    svg{
+      margin-top: 0.3em;
+    }
+  }
 }
 
 /* tablets */
 
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
-
+  .socialMedia{
+    a{
+      padding: 1em;
+    }
+    svg{
+      margin-top: 0.5em;
+    }
+  }
 }
 
 /* Full size screen */
@@ -47,7 +62,6 @@
     svg{
       margin-top: 0.5em;
     }
-
   }
 }
 

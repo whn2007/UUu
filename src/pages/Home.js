@@ -12,7 +12,7 @@ function Home() {
         <div className="intro">
           <div className="top">
             <h2>Our Goal: <br/></h2>
-            <h3>To Change the World</h3>
+            <h3>Bring World Peace</h3>
             <h1> While Also Having Fun! </h1>
             <Link to="/mission">
               <button>Our Values {'>'}</button>
@@ -28,13 +28,9 @@ function Home() {
           <h2>The Founder</h2>
         </div>
         <div className="textBlock">
-          <h1>'I'm 1 / 1 !'</h1>
-          <p>What does it mean to be one of one? <br/> 
-          It means to have the drive to accomplish 
-          your goals with relentlessness. <br/> It is the ability to
-          go all in spite of what anyone might think about you. <br/>
-          That's what it means to be one of one. Stoopid!
-
+          <h1>'I'm 1/1 !'</h1>
+          <p>"1/1 just means you grinded in one direction long enough <br/>
+          that everyone else around you has dropped out, <br/> so you're the only one left".
           <h2>- Johnny Wu</h2></p>
         </div>
       </div>

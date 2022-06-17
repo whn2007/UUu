@@ -17,9 +17,7 @@ function Mission() {
         </div>
         <div className="right">
           <h2>Act With Integrity.</h2>
-          <p>There is too much hate and evil in this world. The <br/>
-            Earth is dying, and it needs honest people to save it.
-          </p>
+          <p>Be honest, and the world will open up for you.</p>
         </div>
       </div>
 

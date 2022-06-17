@@ -20,18 +20,17 @@
             h2{
                 margin:0;
                 font-size: 3rem;
-                color: $brown;
+                color: $black;
             }
             h3{
                 margin: 0em;
-                font-size: 3rem;
-                color: $brown
-                ;
+                font-size: 4rem;
+                color: $black;
             }
             h1{
                 margin: 0.3em;
                 font-size: 2.3rem;
-                color: $brown;
+                color: $black;
             }
             button{
                 cursor: pointer;
@@ -51,7 +50,7 @@
         .profile{
             h2{
                 font-size: 1.9rem;
-                color: $brown;
+                color: $black;
             }
             img{
                 width: 12em;
@@ -62,14 +61,15 @@
             margin-left: 5em;
             h1{
                 font-size: 2rem;
-                color: $darkRed;
+                color: $red;
             }
             p{
+                font-size: 1.5rem;
                 line-height: 1.4em;
             }
             h2{
-                font-size: 1rem;
-                color: $darkRed;
+                font-size: 1.5rem;
+                color: $red;
             }
         }
     }
@@ -88,17 +88,14 @@
                 h2{
                     margin:0;
                     font-size: 2rem;
-                    color: $brown;
                 }
                 h3{
                     margin: 0em;
                     font-size: 2rem;
-                    color: $brown;
                 }
                 h1{
                     margin: 0.3em;
                     font-size: 1.2rem;
-                    color: $brown;
                 }
                 button{
                     cursor: pointer;
@@ -119,7 +116,6 @@
                 margin-left: 1em;
                 h2{
                     font-size: 1.2rem;
-                    color: $brown;
                 }
                 img{
                     width: 7em;
@@ -130,7 +126,6 @@
                 margin-left: 3em;
                 h1{
                     font-size: 1.5rem;
-                    color: $darkRed;
                 }
                 p{
                     font-size: 1rem;
@@ -138,7 +133,6 @@
                 }
                 h2{
                     font-size: 1rem;
-                    color: $darkRed;
                 }
             }
         }
@@ -158,17 +152,14 @@
                 h2{
                     margin:0;
                     font-size: 3rem;
-                    color: $brown;
                 }
                 h3{
                     margin: 0em;
                     font-size: 3rem;
-                    color: $brown;
                 }
                 h1{
                     margin: 0.3em;
                     font-size: 1.4rem;
-                    color: $brown;
                 }
                 button{
                     cursor: pointer;
@@ -188,7 +179,6 @@
                 margin-left: 1em;
                 h2{
                     font-size: 2rem;
-                    color: $brown;
                 }
                 img{
                     width: 14em;
@@ -199,7 +189,7 @@
                 margin-left: 3em;
                 h1{
                     font-size: 2rem;
-                    color: $darkRed;
+                    color: $red;
                 }
                 p{
                     font-size: 1.5rem;
@@ -207,8 +197,15 @@
                 }
                 h2{
                     font-size: 1.5rem;
-                    color: $darkRed;
                 }
+            }
+        }
+    }
+
+    @media all and (min-width: 1024px){
+        .founder{
+            .textBlock{
+                margin-top: 1.5em;
             }
         }
     }

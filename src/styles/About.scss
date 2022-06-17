@@ -79,5 +79,60 @@
             }
         }
     }
+    @media all and (min-width: 375px) and (max-width: 767px) {
+        .aboutHeader{
+            .aboutTitle{
+                h1{
+                    font-size: 2.5rem;
+                }
+                h2{
+                    font-size: 2rem;
+                }
+            }
+    
+        }
+        .aboutList{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            width: max(100vw);
+            margin: 0;
+            margin-bottom: 5em;
+    
+            .aboutItem{
+                width: 50vw;
+                height: auto;
+                margin-bottom: 10em;
+    
+                .description{
+                    svg{
+                        font-size: 2.5rem;
+                        color: $darkRed;
+                        &:hover{
+                            color: $red;
+                        }
+                    }
+                }
+                
+                img{
+                    width: 6em;
+                    height: 6em;
+                }
+                h1{
+                    font-size: 1.2rem;
+                }
+                p{
+                    font-size: 0.9rem;
+                }
+            }
+        }
+    }
+
+    @media all and (min-width: 768px) and (max-width: 1023px) {
+
+    }
+
+    @media all and (min-width: 1024px){
+
+    }
 
 }

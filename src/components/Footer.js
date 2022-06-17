@@ -10,16 +10,16 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="" target="_blank">
+        <a href="https://twitter.com/UUuLLC" target="_blank">
           <TwitterIcon />
         </a>
-        <a href="" target="_blank">
+        <a href="https://instagram.com/jaywuzer?igshid=YmMyMTA2M2Y=" target="_blank">
           <InstagramIcon />
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.linkedin.com/company/uuu-llc/" target="_blank">
           <LinkedInIcon />
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g" target="_blank">
           <YouTubeIcon />
         </a>
       </div>

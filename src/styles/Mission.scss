@@ -18,7 +18,7 @@
         p{
             margin: 0.5em;
             font-size: 1.5rem;
-            color: $darkRed;
+            color: $red;
         }
     }
 
@@ -85,6 +85,90 @@
         }
 
 
+    }
+    @media all and (min-width: 375px) and (max-width: 767px) {
+        .header{
+            h1{
+                margin-top: 2em;
+                color: $darkRed;
+                font-size: 2rem;
+            }
+            p{
+                font-size: 0.8rem;
+                color: $red;
+            }
+        }
+        .value{
+            display: flex;
+            height: max(10em);
+            margin-bottom: 5em;
+            h1{
+                font-size: 2rem;
+            }
+            h2{
+                font-size: 1.2rem;
+            }
+            p{
+                font-size: 1rem;
+            }
+    
+            .integrity{
+                background-size: 10em;
+            }
+    
+            .simple{
+                background-size: 10em;
+            }
+    
+            .fun{
+                background-size: 10em;
+            }
+    
+            .unique{
+                background-size: 10em;
+            }   
+        }
+    }
+
+    @media all and (min-width: 768px) and (max-width: 1024px) {
+        .value{
+            display: flex;
+            height: max(20em);
+            margin-bottom: 5em;
+            
+            .left{
+                h2{
+                    font-size: 1.9rem;
+                }
+                p{
+                    font-size: 1.2rem;
+                }
+            }
+
+            .right{
+
+            }
+            
+            .integrity{
+                background-size: 15em;
+            }
+    
+            .simple{
+                background-size: 25em;
+            }
+    
+            .fun{
+                background-size: 25em;
+            }
+    
+            .unique{
+                background-size: 25em;
+            }   
+        }
+    }
+
+    @media all and (min-width: 1024px){
+    
     }
 
 }

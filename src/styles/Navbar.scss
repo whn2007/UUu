@@ -9,6 +9,13 @@
   position: fixed;
   z-index: 1000;
 
+  .hiddenLinks{
+    color: $black;
+    &:hover{
+      color: $grey;
+    }
+  }
+
   #open{
     img {
       display: none;
@@ -84,52 +91,70 @@
   /* smartphones */
 
   @media all and (min-width: 375px) and (max-width: 767px){
-    .navbar{
-      .leftSide{
+    .leftSide{
+      .hiddenLinks{
+        margin-left: -2em;
+        a{
+          padding: 0.4em;
+        }
+      }
+    }
 
-      }
-      .rightSide{
-        margin-right: 6;
+    .rightSide{
+      a{
+        display: none;
       }
     }
   
   }
   
-  @media all and (min-width: 768px){
-    .navbar .rightSide a{
-      display: none;
+  @media all and (min-width: 768px) and (max-width: 1023px){
+    .leftSide{
+      .hiddenLinks{
+        margin-left: -2em;
+        a{
+          padding: 0.4em;
+        }
+      }
     }
-    .navbar .leftSide img{
-      margin-left: 5em;
+
+    .rightSide{
+      a{
+        display: none;
+      }
     }
   
-    .hiddenLinks{
-      font-size: 1.5rem;
-      margin-left: 2em;
-    }
   }
   
   
   
-  @media all and (min-width: 1280px){
-    .navbar .rightSide {
+  @media all and (min-width: 1024px){
+    .leftSide{
+      a{
+        img{
+          margin-left: 0.5em;
+        }
+      }
+    }
+
+    .rightSide{
       margin-right: 4em;
+      a{
+        font-size: 1.2rem;
+        display: inherit;
+      }
+      button {
+        display: none;
+      }
+      .hiddenLinks {
+        display: none;
+      }
     }
   
-    .navbar .rightSide a {
-      font-size: 1.2rem;
-    }
     .navbar .leftSide {
       padding-left: 3em;
       font-size: 1.2em;
     }
   
-    .navbar .rightSide button {
-      display: none;
-    }
-  
-    .hiddenLinks {
-      display: none;
-    }
   }
 }

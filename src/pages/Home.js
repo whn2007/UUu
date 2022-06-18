@@ -29,7 +29,7 @@ function Home() {
         </div>
         <div className="textBlock">
           <h1>'I'm 1/1!'</h1>
-          <p>"1/1 just means you grinded in one direction long enough <br/>
+          <p>"1/1 just means you grinded in one direction so long <br/>
           that everyone else around you has dropped out, <br/> so you're the only one left".
           <h2>- Johnny Wu</h2></p>
         </div>

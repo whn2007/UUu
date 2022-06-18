@@ -1,0 +1,30 @@
+@import './variables.scss';
+
+.johnny{
+    .intro{
+        margin-top: 3.5em;
+        background-image: url('../assets/background2.jpg');
+        background-size: 100%;
+        background-position: center 0;
+        background-repeat: no-repeat;
+        height: 137vh;
+        
+        .title{
+            text-align: center;
+            padding-top: 9em;
+            h2{
+                margin: 0;
+                font-size: 3rem;
+                color: $red;
+            }
+            h1{
+                margin: 0;
+                font-size: 4rem;
+                color: $red;
+            }
+        }
+
+        
+
+    }
+}

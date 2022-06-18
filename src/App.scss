@@ -2,8 +2,9 @@
 @import './styles/variables';
 
 .App {
-  width: 100vw;
+  width: auto;
   height: auto;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   font-family: 'Montserrat';

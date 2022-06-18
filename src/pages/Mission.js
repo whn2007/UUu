@@ -24,9 +24,7 @@ function Mission() {
       <div className="value">
         <div className="left">
           <h2>Keep It Simple Stoopid!</h2>
-          <p>Keeping it simple gets rid of hesitation and doubts. <br/>
-          Goals are accomplished faster, so keep it simple!
-          </p>
+          <p>Keeping it simple gets rid of hesitation and doubts.</p>
         </div>
         <div className="right simple">
           <h1>K.I.S.S.</h1>

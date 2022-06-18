@@ -10,13 +10,13 @@
         background-repeat: no-repeat;
         background-size: 100%;
         width: 100vw;
-        height: 40em;
+        height: 59em;
         display: flex;
         flex-direction: column;
         text-align: center;
 
         .top{  
-            margin-top: 10.5em;
+            margin-top: 9em;
             h2{
                 margin:0;
                 font-size: 3rem;
@@ -74,17 +74,18 @@
         }
     }
 
+    /* smartphones portrait*/
     @media all and (min-width: 375px) and (max-width: 767px) and (orientation:portrait) {
         .intro{
-            background-size: 120vh;
-            background-position: -15em 0em;
+            background-size: 140vh;
+            background-position: -24em 0em;
             height: 100vh;
             display: flex;
             flex-direction: column;
             text-align: center;
     
             .top{  
-                margin-top: 10.5em;
+                margin-top: 9em;
                 h2{
                     margin:0;
                     font-size: 2rem;
@@ -108,7 +109,7 @@
         .founder{
             display: flex;
             justify-content: center;
-            min-height: 25em;
+            min-height: 20em;
             margin-top: 1em;
     
             .profile{
@@ -137,15 +138,18 @@
             }
         }
     }
-    @media all and (min-width: 375px) and (max-width: 767px) and (orientation:landscape) {
+    /* smartphones landscape*/
+    @media all and (min-width: 667px) and (max-width: 1023px) and (orientation:landscape) {
         .intro{
-            height: 100vh;
+            background-size: 110vw;
+            background-position: -2em 0em;
+            height: 155vh;
             display: flex;
             flex-direction: column;
             text-align: center;
     
             .top{  
-                margin-top: 5em;
+                margin-top: 3em;
                 h2{
                     margin:0;
                     font-size: 2rem;
@@ -169,9 +173,8 @@
         .founder{
             display: flex;
             justify-content: center;
-            min-height: 25em;
+            min-height: 18em;
             margin-top: 5em;
-            margin-bottom: 3em;
     
             .profile{
                 margin-left: 1em;
@@ -198,12 +201,12 @@
             }
         }
     }
-
+    /* tablets portrait*/
     @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:portrait){
         .intro{
-            background-size: 130vh;
-            background-position: -20em 0em;
-            height: 100vh;
+            background-size: 140vh;
+            background-position: -26em 0em;
+            height: 95vh;
             display: flex;
             flex-direction: column;
             text-align: center;
@@ -234,7 +237,7 @@
             display: flex;
             justify-content: center;
             min-height: 25em;
-            margin-bottom: 3em;
+            margin-bottom: 4em;
     
             .profile{
                 margin-left: 1em;
@@ -262,27 +265,28 @@
             }
         }
     }
-
-    @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:landscape){
+    /* tablets landscape*/
+    @media all and (min-width: 1024px) and (orientation:landscape) {
         .intro{
+            background-size: 100%;
             height: 100vh;
             display: flex;
             flex-direction: column;
             text-align: center;
     
             .top{  
-                margin-top: 5em;
+                margin-top: 9em;
                 h2{
                     margin:0;
-                    font-size: 3rem;
+                    font-size: 2rem;
                 }
                 h3{
                     margin: 0em;
-                    font-size: 3rem;
+                    font-size: 2rem;
                 }
                 h1{
                     margin: 0.3em;
-                    font-size: 1.4rem;
+                    font-size: 1.2rem;
                 }
                 button{
                     cursor: pointer;
@@ -295,8 +299,8 @@
         .founder{
             display: flex;
             justify-content: center;
-            min-height: 25em;
-            margin-bottom: 3em;
+            min-height: 20em;
+            margin-top: 1em;
     
             .profile{
                 margin-left: 1em;
@@ -310,12 +314,12 @@
             
             .textBlock{
                 margin-left: 3em;
+                margin-top: -1.5em;
                 h1{
                     font-size: 2rem;
-                    color: $red;
                 }
                 p{
-                    font-size: 1.5rem;
+                    font-size: 1rem;
                     line-height: 1.4em;
                 }
                 h2{
@@ -325,11 +329,19 @@
         }
     }
 
+    /*computers*/
     @media all and (min-width: 1024px){
+        .intro{
+            height: 135vh;
+        }
         .founder{
+            min-height: 25em;
+            margin-top: 5em;
             .textBlock{
                 margin-top: 1.5em;
             }
         }
     }
+    
+    /*larger mobile landscapes*/
 }

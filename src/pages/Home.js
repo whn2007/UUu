@@ -3,6 +3,7 @@ import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
 import "../styles/Home.scss";
 import Johnny from '../assets/profilepics/jaywuzer.png'
+import TextBubble from '../assets/textbubble.png'
 
 function Home() {
   return (
@@ -14,9 +15,11 @@ function Home() {
             <h2>Our Goal: <br/></h2>
             <h3>Bring World Peace</h3>
             <h1> While Also Having Fun! </h1>
-            <Link to="/mission">
-              <button>Our Values {'>'}</button>
-            </Link>
+            <div>
+              <Link to="/mission">
+                <button>Our Values {'>'}</button>
+              </Link>
+            </div>
           </div>
     
         </div>

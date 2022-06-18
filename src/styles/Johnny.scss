@@ -23,8 +23,51 @@
                 color: $red;
             }
         }
-
-        
-
     }
+
+    .links{
+        margin-top: 5em;
+        .links-intro{
+            text-align: center;
+            h1{
+                margin: 0;
+                font-size: 3rem;
+                color: $darkRed;
+            }
+            h2{
+                margin: 0.5rem;
+                font-size: 2rem;
+                color: $red;
+            }
+
+        }
+
+        .story{
+            margin-top: 5em;
+            display: flex;
+            .origin{
+                width: 50%;
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+
+                h2{
+                    font-size: 2.5rem;
+                    color: $black;
+                }
+
+                .origin-story{
+                    width: 33vw;
+                }
+
+                .life-mission{
+                    width: 33vw;
+                }
+            } 
+        }        
+
+       
+    }
+
+
 }

@@ -26,20 +26,20 @@ function Johnny() {
         </div>
 
         <div className='story'>
-            <div className='origin'>
-              <h2>Origin Story</h2>
-              <a href='https://twitter.com/JayWuzer/status/1537534817302028288' target='_blank'>
-                <img className='origin-story' src = {Origin}/>
-              </a>
-            </div>
-
-            <div className='origin'>
-              <h2>Life Mission</h2>
-              <a href='https://twitter.com/JayWuzer/status/1537575282583818240' target='_blank'>
-                <img className='life-mission' src = {LifeMission}/>
-              </a>
-            </div>
+          <div className='origin'>
+            <h2>Origin Story</h2>
+            <a href='https://twitter.com/JayWuzer/status/1537534817302028288' target='_blank'>
+              <img className='origin-story' src = {Origin}/>
+            </a>
           </div>
+
+          <div className='origin'>
+            <h2>Life Mission</h2>
+            <a href='https://twitter.com/JayWuzer/status/1537575282583818240' target='_blank'>
+              <img className='life-mission' src = {LifeMission}/>
+            </a>
+          </div>
+        </div>
       </div>
 
       <div className='wisdom'>

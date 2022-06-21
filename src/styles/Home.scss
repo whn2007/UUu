@@ -53,6 +53,7 @@
             h2{
                 font-size: 1.9rem;
                 color: $black;
+                text-align: center;
             }
             img{
                 width: 12em;
@@ -79,11 +80,11 @@
     /* smartphones portrait*/
     @media all and (min-width: 375px) and (max-width: 767px) and (orientation:portrait) {
         .intro{
-            background-size: 140vh;
-            height: 100vh;
+            background-size: 105vh;
+            height: 75vh;
     
             .top{  
-                margin-top: 7em;
+                margin-top: 1em;
                 h2{
                     font-size: 2rem;
                 }
@@ -108,7 +109,7 @@
             .profile{
                 margin-left: 1em;
                 h2{
-                    font-size: 1.2rem;
+                    font-size: 1.5rem;
                 }
                 img{
                     width: 7em;
@@ -116,7 +117,7 @@
             }
             
             .textBlock{
-                margin-left: 3em;
+                margin-left: 1.5em;
                 margin-top: -1.5em;
                 h1{
                     font-size: 1.5rem;
@@ -134,11 +135,11 @@
     /* smartphones landscape*/
     @media all and (min-width: 667px) and (max-width: 1023px) and (orientation:landscape) {
         .intro{
-            background-size: 110vw;
-            height: 155vh;
+            background-size: 100vw;
+            height: 144vh;
     
             .top{  
-                margin-top: 3em;
+                margin-top: 0.5em;
                 h2{
                     font-size: 2rem;
                 }
@@ -188,18 +189,15 @@
             height: 95vh;
     
             .top{  
-                margin-top: 10em;
+                margin-top: 3em;
                 h2{
-                    font-size: 3rem;
+                    font-size: 4rem;
                 }
                 h3{
-                    font-size: 3rem;
-                }
-                h1{
-                    font-size: 2rem;
+                    font-size: 4rem;
                 }
                 button{
-                    font-size: 1rem;
+                    font-size: 1.5rem;
                 }
             }
         }
@@ -213,7 +211,7 @@
             .profile{
                 margin-left: 1em;
                 h2{
-                    font-size: 2rem;
+                    font-size: 2.5rem;
                 }
                 img{
                     width: 14em;
@@ -221,17 +219,17 @@
             }
             
             .textBlock{
-                margin-left: 3em;
+                margin-left: 2em;
                 h1{
-                    font-size: 2rem;
+                    font-size: 2.5rem;
                     color: $red;
                 }
                 p{
-                    font-size: 1.5rem;
+                    font-size: 2rem;
                     line-height: 1.4em;
                 }
                 h2{
-                    font-size: 1.5rem;
+                    font-size: 2rem;
                 }
             }
         }
@@ -240,10 +238,11 @@
     /* tablets landscape*/
     @media all and (min-width: 1024px) and (orientation:landscape) {
         .intro{
+            background-size: 100em;
             height: 100vh;
     
             .top{  
-                margin-top: 2em;
+                margin-top: 0em;
                 h2{
                     font-size: 2rem;
                 }
@@ -262,7 +261,7 @@
         .founder{    
             .profile{
                 h2{
-                    font-size: 2rem;
+                    font-size: 2.5rem;
                 }
                 img{
                     width: 14em;
@@ -287,8 +286,9 @@
     /*computers*/
     @media all and (min-width: 1024px){
         .intro{
-            height: 135vh;
+            height: 150vh;
             .top{  
+                margin-top: 3em;
                 h2{
                     font-size: 3.5rem;
                 }

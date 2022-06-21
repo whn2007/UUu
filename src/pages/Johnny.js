@@ -71,11 +71,11 @@ function Johnny() {
         <h1>Socials</h1>
         <h2>Learn More About the Founder</h2>
         <div className='icons'>
-          <a href='' target='_blank'> <TwitterIcon/> </a>
-          <a href='' target='_blank'> <InstagramIcon/> </a>
-          <a href='' target='_blank'> <LinkedInIcon/> </a>
-          <a href='' target='_blank'> <img src={TwitchIcon}/> </a>
-          <a href='' target='_blank'> <YouTubeIcon/> </a>
+          <a href='https://twitter.com/JayWuzer' target='_blank'> <TwitterIcon/> </a>
+          <a href='https://instagram.com/jaywuzer?igshid=YmMyMTA2M2Y=' target='_blank'> <InstagramIcon/> </a>
+          <a href='https://www.linkedin.com/in/jaywuzer/' target='_blank'> <LinkedInIcon/> </a>
+          <a href='https://www.twitch.tv/jaywuzer' target='_blank'> <img src={TwitchIcon}/> </a>
+          <a href='https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g' target='_blank'> <YouTubeIcon/> </a>
         </div>
       </div>
 

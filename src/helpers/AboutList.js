@@ -17,7 +17,7 @@ export const AboutList = [
     link: "https://twitter.com/williamxnguyen",
   },
   {
-    name: "Poku/",
+    name: "121k/",
     image: Supporter,
     description: "Chief Video Editor",
     link: "https://twitter.com/pokudi_",

@@ -5,27 +5,27 @@ import Supporter from "../assets/profilepics/121k.png";
 
 export const AboutList = [
   {
-    name: "Johnny Wu",
+    name: "Lord Boss JayWuzer",
     image: JohnnyWu,
-    description: "Founder and CEO",
+    description: "General of the UUu",
     link: "https://twitter.com/JayWuzer",
   },
   {
     name: "William Nguyen",
     image: WilliamNguyen,
-    description: "Chief Technology Officer",
+    description: "General",
     link: "https://twitter.com/williamxnguyen",
-  },
-  {
-    name: "121k/",
-    image: Supporter,
-    description: "Chief Video Editor",
-    link: "https://twitter.com/pokudi_",
   },
   {
     name: "RunDavidMc/",
     image: RunDavidMC,
-    description: "Chief Animator",
+    description: "Lieutenant General",
     link: "https://twitter.com/RunDavidMC",
+  },
+  {
+    name: "121k/",
+    image: Supporter,
+    description: "Major General",
+    link: "https://twitter.com/pokudi_",
   },
 ];

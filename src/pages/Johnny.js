@@ -14,17 +14,11 @@ function Johnny() {
     <div className='johnny'>
       <div className='intro'>
         <div className='title'>
-          <h2>Meet the Founder</h2>
           <h1>Lord Jaywuzer</h1>
         </div>
       </div>
       
       <div className='links'>
-        <div className='links-intro'>
-          <h1>The Brilliance Behind the Madness</h1>
-          <h2>Peer into the mind of a genius.</h2>
-        </div>
-
         <div className='story'>
           <div className='origin'>
             <h2>Origin Story</h2>
@@ -44,7 +38,6 @@ function Johnny() {
 
       <div className='wisdom'>
         <h1>Wisdom</h1>
-        <h2>What a man learns in a lifetime Lord Jaywuzer learns in a moment.</h2>
         <div className='wise-tweets'>
 
           <a className='tweet' href='https://twitter.com/JayWuzer/status/1537503058267058176' target="_blank">

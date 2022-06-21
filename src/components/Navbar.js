@@ -21,14 +21,14 @@ function Navbar() {
           <Link to="/"> Home </Link>
           <Link to="/mission"> Values </Link>
           <Link to="/about"> About </Link>
-          <Link to="/founder"> Founder </Link>
+          <Link to="/founder"> Boss </Link>
         </div>
       </div>
       <div className="rightSide">
         <Link to="/"> Home </Link>
         <Link to="/mission"> Values </Link>
         <Link to="/about"> About </Link>
-        <Link to="/founder"> Founder </Link>
+        <Link to="/founder"> Boss </Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>

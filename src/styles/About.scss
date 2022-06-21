@@ -30,7 +30,7 @@
     .aboutList{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        margin-bottom: 5em;
+        margin-bottom: 0em;
         margin-left: 7em;
 
         .aboutItem{
@@ -78,7 +78,28 @@
                 color: $black;
             }
         }
+    
     }
+    .originPitch{
+        text-align: center;
+        margin-bottom: 10em;
+        h1{
+            color: $darkRed;
+            font-size: 4rem;
+            margin: 0em;
+            margin-bottom: 0.5em;
+        }
+        button{
+            color: $black;
+            margin: 0.5em;
+            font-size: 1.5em;
+        }
+        .pitch{
+            border: 1px solid $black;
+            width: max(85vw);
+        }
+    }
+
     @media all and (min-width: 375px) and (max-width: 767px) {
         .aboutHeader{
             margin-bottom: 3em;
@@ -87,7 +108,7 @@
                     font-size: 2rem;
                 }
                 h2{
-                    font-size: 1rem;
+                    font-size: 0.8rem;
                 }
             }
     
@@ -115,11 +136,24 @@
                     height: 6em;
                 }
                 h1{
-                    font-size: 1.2rem;
+                    font-size: 1rem;
                 }
                 p{
                     font-size: 0.9rem;
                 }
+            }
+        }
+        .originPitch{
+            margin-bottom: 5em;
+            h1{
+                font-size: 2rem;
+                margin-bottom: 0.5em;
+            }
+            button{
+                color: $black;
+                font-size: 1em;
+            }
+            .pitch{
             }
         }
     }
@@ -158,11 +192,24 @@
                     height: 10em;
                 }
                 h1{
-                    font-size: 1.8rem;
+                    font-size: 1.4rem;
                 }
                 p{
-                    font-size: 1.2rem;
+                    font-size: 1.3rem;
                 }
+            }
+        }
+        .originPitch{
+            margin-bottom: 5em;
+            h1{
+                font-size: 3rem;
+                margin-bottom: 0.5em;
+            }
+            button{
+                color: $black;
+                font-size: 1.5em;
+            }
+            .pitch{
             }
         }
     }

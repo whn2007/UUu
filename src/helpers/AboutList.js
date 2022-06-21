@@ -7,25 +7,25 @@ export const AboutList = [
   {
     name: "Lord Boss JayWuzer",
     image: JohnnyWu,
-    description: "General of the UUu",
+    description: "CEO",
     link: "https://twitter.com/JayWuzer",
   },
   {
     name: "William Nguyen",
     image: WilliamNguyen,
-    description: "General",
+    description: "CTO",
     link: "https://twitter.com/williamxnguyen",
   },
   {
     name: "RunDavidMc/",
     image: RunDavidMC,
-    description: "Lieutenant General",
+    description: "Cofounder",
     link: "https://twitter.com/RunDavidMC",
   },
   {
     name: "121k/",
     image: Supporter,
-    description: "Major General",
+    description: "Cofounder",
     link: "https://twitter.com/pokudi_",
   },
 ];

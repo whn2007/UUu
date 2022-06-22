@@ -17,15 +17,15 @@ export const AboutList = [
     link: "https://twitter.com/williamxnguyen",
   },
   {
-    name: "RunDavidMc/",
+    name: "RunDavidMC/",
     image: RunDavidMC,
-    description: "Cofounder",
+    description: "Co-founder",
     link: "https://twitter.com/RunDavidMC",
   },
   {
     name: "121k/",
     image: Supporter,
-    description: "Cofounder",
+    description: "Co-founder",
     link: "https://twitter.com/pokudi_",
   },
 ];

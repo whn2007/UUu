@@ -2,8 +2,12 @@ import React from "react";
 import { AboutList } from "../helpers/AboutList";
 import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
-import OriginPitch from "../assets/originpost.png"
+import OriginPitch from "../assets/proposal1.png"
+import OriginPitch2 from "../assets/proposal2.png"
+import OriginPitch3 from "../assets/proposal3.png"
+import Proposal from "../assets/proposal.pdf"
 import "../styles/About.scss";
+import Fundraising from "../assets/fundraising.jpeg"
 
 function About() {
   return (
@@ -11,10 +15,14 @@ function About() {
       <div className="aboutHeader">
         <div className="aboutTitle">
           <h1>Founders</h1>
-          <h2>Join us if you want to eliminate your know-do-gap, which will make you 1/1. <br/>
-          We will enable World Peace.</h2>
+          <h2>We will enable World Peace, together.</h2>
         </div>
       </div>
+
+      <div className="fundraising">
+        <img src={Fundraising}/>
+        <h2>"William Nguyen & Lord Johnny Wu, CEO & CTO of UUu LLC"</h2>
+      </div> 
 
       <div className="aboutList">
         {AboutList.map((aboutItem, key) => {
@@ -31,11 +39,12 @@ function About() {
       </div>
 
       <div className="originPitch">
-        <h1>Origin Pitch</h1>
-        <a href="https://www.linkedin.com/feed/update/urn:li:activity:6945087402625388544/" 
-        target="_blank">
+        <h1>Letter from Lord JayWuzer/</h1>
+        <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
-          <button>Learn More {'>'}</button>
+          <img src={OriginPitch2} className="pitch"/>
+          <img src={OriginPitch3} className="pitch"/>
+          <button>Learn More</button>
         </a>
       </div>
 

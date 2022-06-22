@@ -16,7 +16,7 @@ function Home() {
             <h3>World Peace</h3>
             <div>
               <Link to="/mission">
-                <button>Our Values {'>'}</button>
+                <button>Our Values</button>
               </Link>
             </div>
           </div>
@@ -30,8 +30,8 @@ function Home() {
           <h2>Boss</h2>
         </div>
         <div className="textBlock">
-          <h1>"1/1!"</h1>
-          <p>1/1 just means you grinded in one direction so long <br/>
+          <h1>"1/1"</h1>
+          <p>"1/1 just means you grinded in one direction so long <br/>
             that everyone else around you has dropped out, <br/>
             so you're the only one left. If you love what you do, <br/>
             then you will naturally become 1/1. <br/>

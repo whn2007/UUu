@@ -20,6 +20,9 @@ function Footer() {
         <a href="https://www.linkedin.com/company/uuu-llc/" target="_blank">
           <LinkedInIcon />
         </a>
+        <a href="https://www.reddit.com/user/JayWuzer/" target="_blank">
+          <RedditIcon/>
+        </a>
         <a href="https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g" target="_blank">
           <YouTubeIcon />
         </a>

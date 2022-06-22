@@ -6,7 +6,7 @@
 
     .aboutHeader{
         margin-top: 7em;
-        margin-bottom: 9em;
+        margin-bottom: 7em;
         display: flex;
         justify-content: center;
 
@@ -21,22 +21,36 @@
                 text-align: center;
                 margin: 0;
                 padding: 0;
-                font-size: 1.5rem;
+                font-size: 2rem;
                 color: $red;
             }
         }
 
     }
+
+    .fundraising{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10em;
+        img{
+            width: max(70vw);
+        }
+        h2{
+            padding: 1em;
+            margin: 0;
+            font-size: max(1.5em);
+        }
+    }
+
     .aboutList{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         margin-bottom: 0em;
-        margin-left: 7em;
 
         .aboutItem{
             text-decoration: none;
-            width: 20em;
-            height: 20em;
             margin-bottom: 10em;
 
             .profilePic{
@@ -108,10 +122,18 @@
                     font-size: 2rem;
                 }
                 h2{
-                    font-size: 0.8rem;
+                    font-size: 1rem;
                 }
             }
     
+        }
+        .fundraising{
+            margin-bottom: 5em;
+            img{
+            }
+            h2{
+                font-size: max(0.5em);
+            }
         }
         .aboutList{
             display: grid;
@@ -160,6 +182,7 @@
 
     @media all and (min-width: 768px) and (max-width: 1023px) {
         .aboutHeader{
+            margin-bottom: 5em;
             .aboutTitle{
                 h1{
                     font-size: 3rem;
@@ -169,6 +192,14 @@
                 }
             }
     
+        }
+        .fundraising{
+            margin-bottom: 7em;
+            img{
+            }
+            h2{
+                font-size: max(1.2em);
+            }
         }
         .aboutList{
             display: grid;

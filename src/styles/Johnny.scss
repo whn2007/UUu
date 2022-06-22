@@ -122,6 +122,36 @@
         }
     }
 
+    .interests{
+        text-align: center;
+        margin-top: 10em;
+        h1{
+            margin: 0;
+            font-size: max(3rem);
+            color: $darkRed;
+        }
+        .interesting-tweets{
+            margin-top: 4em;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            .tweet{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: 1px solid $black;
+                border-radius: 1em;
+                margin: 1em;
+                text-decoration: none;
+                padding: 1em;
+                p{
+                    color: $black;
+                    font-size: max(1.5rem);
+                    line-height: 1.5em;
+                }
+            }
+        }
+    }
+
     .socials{
         margin-top: 8em;
         margin-bottom: 10em;
@@ -166,7 +196,7 @@
             height: 105vh;
                       
             .title{
-                padding-top: 9em;
+                padding-top: 11em;
                 h2{
                     font-size: 2rem;
                 }
@@ -226,6 +256,50 @@
             }
         }
 
+        .inspiration{
+            margin-top: 10em;
+            h1{
+                font-size: max(3rem);
+            }
+            .inspiring-tweets{
+                margin-top: 2em;
+                display: flex;
+                flex-direction: column;
+                .tweet{
+                    margin: 0em;
+                    margin-bottom: 1.5em;
+                    width: 91.5vw;
+                    padding: 1em;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.5rem);
+                    }
+                }
+            }
+        }
+
+        .interests{
+            margin-top: 10em;
+            h1{
+                font-size: max(3rem);
+            }
+            .interesting-tweets{
+                margin-top: 2em;
+                display: flex;
+                flex-direction: column;
+                .tweet{
+                    margin: 0em;
+                    margin-bottom: 1.5em;
+                    width: 91.5vw;
+                    padding: 1em;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.5rem);
+                    }
+                }
+            }
+        }
+
         .socials{
             margin-top: 8em;
             margin-bottom: 10em;
@@ -242,10 +316,10 @@
                 a{
                     margin: 1em;
                     img{
-                        width: 2.8rem;
+                        width: 2rem;
                     }
                     svg{
-                        font-size: 2.8rem;
+                        font-size: 2rem;
                         color: $red;
                         &:hover{
                             color: $darkRed;
@@ -254,6 +328,7 @@
                 }
             }
         }
+        
     }
 
     /* smartphones landscape*/
@@ -262,7 +337,7 @@
             height: 160vh;
                         
             .title{
-                padding-top: 3em;
+                padding-top: 5em;
                 h2{
                     font-size: 3rem;
                 }
@@ -307,7 +382,51 @@
                         margin: 0.5em;
                         font-size: max(1.5rem);
                     }
-                    h2{
+                }
+            }
+        }
+
+        .inspiration{
+            margin-top: 10em;
+            h1{
+                font-size: max(3rem);
+            }
+            .inspiring-tweets{
+                margin-top: 4em;
+                display: block;
+                flex-direction: column;
+                
+                .tweet{
+                    margin: 1em;
+                    margin-bottom: 1.5em;
+                    padding: 0.5em;
+                    width: 94vw;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.5rem);
+                    }
+                }
+            }
+        }
+
+        .interests{
+            margin-top: 10em;
+            h1{
+                font-size: max(3rem);
+            }
+            .interesting-tweets{
+                margin-top: 4em;
+                display: block;
+                flex-direction: column;
+                
+                .tweet{
+                    margin: 1em;
+                    margin-bottom: 1.5em;
+                    padding: 0.5em;
+                    width: 94vw;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.5rem);
                     }
                 }
             }
@@ -347,7 +466,7 @@
             height: 105vh;
                       
             .title{
-                padding-top: 9em;
+                padding-top: 12em;
                 h2{
                     font-size: 4rem;
                 }
@@ -407,6 +526,58 @@
                 }
             }
         }
+
+        .inspiration{
+            margin-top: 10em;
+            h1{
+                font-size: max(4rem);
+            }
+            .inspiring-tweets{
+                margin-top: 5em;
+                display: flex;
+                flex-direction: column;
+                .tweet{
+                    margin: 0em;
+                    margin-bottom: 4em;
+                    width: 96vw;
+                    padding: 1em;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.7rem);
+                    }
+                    h2{
+                        font-size: 1.3em;
+                        margin: 0.5em;
+                    }
+                }
+            }
+        }
+
+        .interests{
+            margin-top: 10em;
+            h1{
+                font-size: max(4rem);
+            }
+            .interesting-tweets{
+                margin-top: 5em;
+                display: flex;
+                flex-direction: column;
+                .tweet{
+                    margin: 0em;
+                    margin-bottom: 4em;
+                    width: 96vw;
+                    padding: 1em;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.7rem);
+                    }
+                    h2{
+                        font-size: 1.3em;
+                        margin: 0.5em;
+                    }
+                }
+            }
+        }
         
         .socials{
             margin-top: 4em;
@@ -422,7 +593,7 @@
                 margin-top: 3em;
 
                 a{
-                    margin: 2em;
+                    margin: 1.5em;
                     img{
                         width: 5rem;
                     }
@@ -482,7 +653,7 @@
                     padding: 1em;
                     p{
                         margin: 0.5em;
-                        font-size: max(1.5rem);
+                        font-size: max(1.3rem);
                     }
                     h2{
                         font-size: 1.3em;
@@ -501,7 +672,26 @@
                     padding: 1em;
                     p{
                         margin: 0.5em;
-                        font-size: max(1.5rem);
+                        font-size: max(1.3rem);
+                    }
+                    h2{
+                        font-size: 1.3em;
+                        margin: 0.5em;
+                    }
+                }
+            }
+        }
+
+        .interests{
+            h1{
+                font-size: max(4rem);
+            }
+            .interesting-tweets{
+                .tweet{
+                    padding: 1em;
+                    p{
+                        margin: 0.5em;
+                        font-size: max(1.3rem);
                     }
                     h2{
                         font-size: 1.3em;

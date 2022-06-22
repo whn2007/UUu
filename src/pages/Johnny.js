@@ -8,6 +8,7 @@ import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import YouTubeIcon from '@material-ui/icons/YouTube';
 import TwitchIcon from "../assets/twitch.png"
+import RedditIcon from '@material-ui/icons/Reddit';
 
 function Johnny() {
   return (
@@ -77,6 +78,64 @@ function Johnny() {
             Fully.
             </p>
           </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538531433328697344' 
+          target='_blank'>
+            <p>
+              I will overcome both Alexander Hamilton and 诸葛亮's legacies, simultaneously.
+            </p>
+          </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538524510122483714' 
+          target='_blank'>
+            <p>
+            When people encounter something unknown and new, there are only 3 reactions: <br/>
+            1. Fear <br/>
+            2. Apathy <br/>
+            3. Curiosity <br/>
+            To be human is to be curious. Let's all be more human!
+            </p>
+          </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538331005148606464' 
+          target='_blank'>
+            <p>
+            The 2 things you must never lack: <br/>
+            1. Action <br/>
+            2. Faith <br/>
+            </p>
+          </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538268696245809152' 
+          target='_blank'>
+            <p>
+              Big dreams, small pockets.
+            </p>
+          </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538235756828733440' 
+          target='_blank'>
+            <p>
+            Relationships become stronger after reconciling a big fight. <br/>
+            The bigger the fight, the stronger the reconciliation, <br/>
+             and the stronger the bond becomes.
+            </p>
+          </a>
+
+          <a className='tweet' 
+          href='https://twitter.com/JayWuzer/status/1538217871515324416' 
+          target='_blank'>
+            <p>
+            Misunderstandings are the MOST tragic situation possible. <br/>
+            Just look at Romeo and Juliet. <br/>
+            That's why communication is of utmost importance, ALWAYS. 
+            </p>
+          </a>
         </div>
       </div>
 
@@ -89,6 +148,37 @@ function Johnny() {
             </p>
           </a>
 
+          <a className='tweet' href='https://twitter.com/JayWuzer/status/1538202935967944704' target="_blank">
+            <p>"Moderation in everything, including moderation."<br/>
+            Saving the world begins at the individual level. <br/>
+            I will take care of my friends, make sure they are doing what they love
+            for the rest of their lives, and then scale up from there.
+            By the time I'm 40, I will have scaled up to the entire global population. <br/>
+            But first, you.
+            </p>
+          </a>
+
+          <a className='tweet' href='https://twitter.com/JayWuzer/status/1538219576160161792' target="_blank">
+            <p>You must be vulnerable to gain trust. <br/>
+            I maximize my vulnerability to maximize trust. <br/>
+            Because trust in people is what matters. <br/>
+            Faith in people is what matters. <br/>
+            Have more faith.
+            </p>
+          </a>
+
+        </div>
+      </div>
+
+      <div className='interests'>
+        <h1>Interests</h1>
+        <div className='interesting-tweets'>
+          <a className='tweet' href='https://twitter.com/JayWuzer/status/1538270289804468224' target="_blank">
+            <p>"My favorite animal is the Orca."<br/>
+            Probably one of the reasons why I wear black and white all the time LOL. <br/>
+            Shout out to @TierZoo!
+            </p>
+          </a>
         </div>
       </div>
       
@@ -100,6 +190,7 @@ function Johnny() {
           <a href='https://instagram.com/jaywuzer?igshid=YmMyMTA2M2Y=' target='_blank'> <InstagramIcon/> </a>
           <a href='https://www.linkedin.com/in/jaywuzer/' target='_blank'> <LinkedInIcon/> </a>
           <a href='https://www.twitch.tv/jaywuzer' target='_blank'> <img src={TwitchIcon}/> </a>
+          <a href='https://www.linkedin.com/in/jaywuzer/' target='_blank'> <RedditIcon/> </a>
           <a href='https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g' target='_blank'> <YouTubeIcon/> </a>
         </div>
       </div>

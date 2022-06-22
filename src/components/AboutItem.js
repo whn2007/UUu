@@ -1,12 +1,15 @@
 import React from "react";
 import TwitterIcon from "@material-ui/icons/Twitter";
 
-function AboutItem({ image, name, description, link }) {
+function AboutItem({ image, stars, name, description, link }) {
   return (
     <div className="aboutItem">
       <div className="profileBackground"/>
       <div className="profilePic">
         <img src={image} alt={name}></img>
+      </div>
+      <div className="starsContainer">
+        <img src={stars} className= 'stars'/>
       </div>
       <div className="description">
         <h1>{name}</h1>

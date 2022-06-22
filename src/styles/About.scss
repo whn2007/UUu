@@ -58,6 +58,15 @@
                 justify-content: center;
             }
 
+            .starsContainer{
+                display: flex;
+                justify-content: center;
+                .stars{
+                    margin-top: 0.7em;
+                    height: max(2em);
+                    width: auto
+                }
+            }
 
             .description{
                 display: flex;
@@ -146,6 +155,13 @@
                 width: 50vw;
                 height: auto;
                 margin-bottom: 4em;
+
+                .starsContainer{
+                    .stars{
+                        margin-top: 0.7em;
+                        height: max(1em);
+                    }
+                }
     
                 .description{
                     svg{
@@ -211,6 +227,13 @@
                 width: 33vw;
                 height: auto;
                 margin-bottom: 5em;
+
+                .starsContainer{
+                    .stars{
+                        margin-top: 0.7em;
+                        height: max(1.5em);
+                    }
+                }
     
                 .description{
                     svg{

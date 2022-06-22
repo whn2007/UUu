@@ -30,6 +30,7 @@ function About() {
             <AboutItem
               key={key}
               image={aboutItem.image}
+              stars = {aboutItem.stars}
               name={aboutItem.name}
               description={aboutItem.description}
               link={aboutItem.link}

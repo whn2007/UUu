@@ -17,14 +17,14 @@ function Mission() {
         </div>
         <div className="right">
           <h2>Act With Integrity.</h2>
-          <p>Be honest, and the world will open up for you.</p>
+          <p>Working for the net-positive sake of World Peace is paramount, and above all else, no matter our personal differences, we will not encroach on the integrity of World Peace.</p>
         </div>
       </div>
 
       <div className="value">
         <div className="left">
           <h2>Keep It Simple Stoopid!</h2>
-          <p>Keeping it simple gets rid of hesitation and doubts.</p>
+          <p>It is commitment to forward progress that counts!</p>
         </div>
         <div className="right simple">
           <h1>K.I.S.S.</h1>
@@ -37,14 +37,14 @@ function Mission() {
         </div>
         <div className="right">
           <h2>Enjoy Life.</h2>
-          <p>Life is too short. Have fun with everything.</p>
+          <p>Big Tymin'!</p>
         </div>
       </div>
 
       <div className="value">
         <div className="left">
           <h2>Be Unique</h2>
-          <p>Be the best at what you do, and get sh#t done.
+          <p>With that said, let’s work together so we can enable World Peace already :{')'}
           </p>
         </div>
         <div className="right unique">

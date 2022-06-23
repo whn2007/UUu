@@ -86,12 +86,12 @@
 
   }
   
-  
-  
   /* smartphones */
 
   @media all and (min-width: 375px) and (max-width: 767px){
     .leftSide{
+      white-space: nowrap;
+      font-size: 0.8em;
       .hiddenLinks{
         margin-left: -2em;
         a{
@@ -119,6 +119,7 @@
     }
 
     .rightSide{
+      white-space: nowrap;
       a{
         display: none;
       }
@@ -138,6 +139,7 @@
     }
 
     .rightSide{
+      white-space: nowrap;
       margin-right: 4em;
       a{
         font-size: 1.2rem;

@@ -15,7 +15,7 @@ function About() {
       <div className="aboutHeader">
         <div className="aboutTitle">
           <h1>Founders</h1>
-          <h2>We will enable World Peace, together.</h2>
+          <p>We will enable World Peace, together.</p>
         </div>
       </div>
 

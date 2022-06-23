@@ -1,46 +1,21 @@
-@import './variables.scss';
+@import "./_variables.scss";
 
-.about {
-    margin: 0;
-    padding: 0;
-
-    .aboutHeader{
-        margin-top: 8em;
+.shoutouts{
+    margin-top: 4em;
+    .header{
+        text-align: center;
+        margin-top: 7em;
         margin-bottom: 7em;
-        display: flex;
-        justify-content: center;
-
-        .aboutTitle{
-            h1{
-                text-align: center;
-                margin-bottom: 0%;
-                font-size: 4rem;
-                color: $darkRed;
-            }
-            p{
-                text-align: center;
-                margin: 0.5em;
-                padding: 0;
-                font-size: 1.5rem;
-                color: $red;
-            }
-        }
-
-    }
-
-    .fundraising{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 10em;
-        img{
-            width: max(70vw);
-        }
-        h2{
-            padding: 1em;
+        h1{
             margin: 0;
-            font-size: max(1.5em);
+            color: $darkRed;
+            font-size: 4rem;
+        }
+        p{
+            margin: 0;
+            color: $red;
+            margin: 0.5em;
+            font-size: 1.5rem;
         }
     }
 
@@ -62,9 +37,7 @@
                 display: flex;
                 justify-content: center;
                 .stars{
-                    margin-top: 0.7em;
-                    height: max(2em);
-                    width: auto
+                    height: max(0);
                 }
             }
 
@@ -101,56 +74,28 @@
                 color: $black;
             }
         }
-    
-    }
-    .originPitch{
-        text-align: center;
-        margin-bottom: 10em;
-        h1{
-            color: $darkRed;
-            font-size: 4rem;
-            margin: 0em;
-            margin-bottom: 0.5em;
-        }
-        button{
-            color: $black;
-            margin: 0.5em;
-            font-size: 1.5em;
-        }
-        .pitch{
-            border: 1px solid $black;
-            width: max(85vw);
-        }
+
     }
 
+
     @media all and (min-width: 375px) and (max-width: 767px) {
-        .aboutHeader{
+        .header{
             margin-bottom: 3em;
-            .aboutTitle{
-                h1{
-                    font-size: 2rem;
-                }
-                p{
-                    font-size: 1rem;
-                }
+            h1{
+                font-size: 2rem;
             }
-    
-        }
-        .fundraising{
-            margin-bottom: 5em;
-            img{
-            }
-            h2{
-                font-size: max(0.5em);
+            p{
+                font-size: 1rem;
             }
         }
+
         .aboutList{
             display: grid;
             grid-template-columns: 1fr 1fr;
             width: max(100vw);
             margin: 0;
             margin-bottom: 2em;
-    
+
             .aboutItem{
                 width: 50vw;
                 height: auto;
@@ -158,11 +103,11 @@
 
                 .starsContainer{
                     .stars{
-                        margin-top: 0.7em;
-                        height: max(1em);
+                        margin: 0;
+                        height: max(0em);
                     }
                 }
-    
+
                 .description{
                     svg{
                         font-size: 2rem;
@@ -181,23 +126,10 @@
                 }
             }
         }
-        .originPitch{
-            margin-bottom: 5em;
-            h1{
-                font-size: 2rem;
-                margin-bottom: 0.5em;
-            }
-            button{
-                color: $black;
-                font-size: 1em;
-            }
-            .pitch{
-            }
-        }
     }
 
     @media all and (min-width: 768px) and (max-width: 1023px) {
-        .aboutHeader{
+        .header{
             margin-bottom: 5em;
             .aboutTitle{
                 h1{
@@ -209,20 +141,12 @@
             }
     
         }
-        .fundraising{
-            margin-bottom: 7em;
-            img{
-            }
-            h2{
-                font-size: max(1.2em);
-            }
-        }
         .aboutList{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
             margin: 0;
             margin-bottom: 3em;
-    
+
             .aboutItem{
                 width: 33vw;
                 height: auto;
@@ -230,11 +154,10 @@
 
                 .starsContainer{
                     .stars{
-                        margin-top: 0.7em;
-                        height: max(1.5em);
+                        height: max(0em);
                     }
                 }
-    
+
                 .description{
                     svg{
                         font-size: 2.5rem;
@@ -253,23 +176,9 @@
                 }
             }
         }
-        .originPitch{
-            margin-bottom: 5em;
-            h1{
-                font-size: 3rem;
-                margin-bottom: 0.5em;
-            }
-            button{
-                color: $black;
-                font-size: 1.5em;
-            }
-            .pitch{
-            }
-        }
     }
 
     @media all and (min-width: 1024px){
 
     }
-
 }

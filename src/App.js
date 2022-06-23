@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import Mission from "./pages/Mission";
 import About from "./pages/About";
 import Johnny from "./pages/Johnny"
+import Shoutouts from "./pages/Shoutouts";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/mission" exact element={<Mission />} />
           <Route path="/about" exact element={<About />} />
           <Route path="/founder" exact element={<Johnny />} />
+          <Route path="/shoutouts" exact element={<Shoutouts />} />
           <Route path="*" exact element={<Home/>} />
         </Routes>
       </Router>

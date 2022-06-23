@@ -1,7 +1,7 @@
 import React from 'react'
 import Footer from "../components/Footer";
 import "../styles/Shoutouts.scss"
-import AboutItem from "../components/AboutItem";
+import ShoutOutItem from '../components/ShoutOutItem';
 import { ShoutOutList } from "../helpers/ShoutOutList";
 
 function Shoutouts() {
@@ -15,11 +15,10 @@ function Shoutouts() {
         <div className="aboutList">
           {ShoutOutList.map((aboutItem, key) => {
             return (
-              <AboutItem
+              <ShoutOutItem
                 key={key}
                 image={aboutItem.image}
                 name={aboutItem.name}
-                description={aboutItem.description}
                 link={aboutItem.link}
               />
             );

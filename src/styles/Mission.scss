@@ -7,8 +7,8 @@
         display: flex;
         align-items: center;
         flex-direction: column;
-        margin-bottom: 7em;
         margin-top: 3em;
+        margin-bottom: 3em;
         h1{
             margin: 0;
             margin-top: 2em;
@@ -23,9 +23,10 @@
     }
 
     .value{
+        margin: 0em 4em 0em 4em;
         display: flex;
-        height: max(25em);
-        margin-bottom: 5em;
+        height: max(23em);
+        text-align: center;
         h1{
             font-size: 4rem;
             color: black;
@@ -35,7 +36,7 @@
             font-size: 2rem;
             color: $black;
         }
-        p{
+        p{  
             margin: 0.3em;
             font-size: 1.2rem;
             color: $black;
@@ -86,9 +87,10 @@
 
 
     }
+
     @media all and (min-width: 375px) and (max-width: 767px) {
         .header{
-            margin-bottom: 3.5em;
+            margin-bottom: 1em;
             h1{
                 margin-top: 2em;
                 color: $darkRed;
@@ -100,17 +102,17 @@
             }
         }
         .value{
+            margin: 0em 1em 0em 1em;
             display: flex;
             height: max(10em);
-            margin-bottom: 5em;
             h1{
                 font-size: 2rem;
             }
             h2{
-                font-size: 1.2rem;
+                font-size: 1rem;
             }
             p{
-                font-size: 1rem;
+                font-size: 0.8rem;
             }
     
             .integrity{
@@ -133,12 +135,12 @@
 
     @media all and (min-width: 768px) and (max-width: 1024px) {
         .header{
-            margin-bottom: 2em;
+            margin-bottom: 0em;
         }
         .value{
             display: flex;
-            height: max(20em);
-            margin-bottom: 3em;
+            height: max(15em);
+            margin: 0em 2em 0em 2em;
             
             .left{
                 h2{

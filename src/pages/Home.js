@@ -12,8 +12,7 @@ function Home() {
       <div className="header">
         <div className="intro">
           <div className="top">
-            <h2>Our Goal: <br/></h2>
-            <h3>World Peace</h3>
+            <h3>We Will Enable World Peace</h3>
             <div>
               <Link to="/mission">
                 <button>Our Values</button>
@@ -35,6 +34,7 @@ function Home() {
             that everyone else around you has dropped out, <br/>
             so you're the only one left. If you love what you do, <br/>
             then you will naturally become 1/1. <br/>
+            <br/>
             Anyone can become 1/1."
           <h2>- Lord Boss JayWuzer/</h2></p>
         </div>

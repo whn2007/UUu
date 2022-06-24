@@ -175,7 +175,7 @@ function Johnny() {
           </a>
 
           <a className='tweet' href='https://twitter.com/JayWuzer/status/1538202935967944704' target="_blank">
-            <p>"Moderation in everything, including moderation."<br/>
+            <p>
             Saving the world begins at the individual level. <br/>
             I will take care of my friends, make sure they are doing what they love
             for the rest of their lives, and then scale up from there.

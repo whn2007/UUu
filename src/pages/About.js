@@ -45,7 +45,6 @@ function About() {
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>
           <img src={OriginPitch3} className="pitch"/>
-          <button>Learn More</button>
         </a>
       </div>
 

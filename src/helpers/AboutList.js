@@ -10,7 +10,7 @@ import FiveStars from "../assets/5stars.png"
 
 export const AboutList = [
   {
-    name: "Lord Boss JayWuzer",
+    name: "Lord Johnny Wu",
     image: JohnnyWu,
     stars: FiveStars,
     description: "CEO",

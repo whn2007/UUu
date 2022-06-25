@@ -40,7 +40,7 @@ function About() {
       </div>
 
       <div className="originPitch">
-        <h1>Letter from Lord JayWuzer/</h1>
+        <h1>Letter from Lord Johnny Wu</h1>
         <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>

@@ -1,5 +1,30 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1540404329185562625',
+        tweet: "Life is about people. \n Life is about politicking.",
+        date: 6/24/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1540076952362442752',
+        tweet: "Here's my definition of the metaverse: not real.",
+        date: 6/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1540046697576878080',
+        tweet: "I pay all my debts, good or bad, in full.",
+        date: 6/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1540001374745657344',
+        tweet: "Life is never black and white. \n It's mostly shades of gray. \n Yin Yang Gang!",
+        date: 6/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1539998443556331521',
+        tweet: "Time is money. \n And I am money. \n I do not like to waste time. \n I do not like to waste me.",
+        date: 6/23/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1539496909127098368',
         tweet: "What's the meaning of life? \n Whatever the fuck you want it to be.",
         date: 6/21/2022

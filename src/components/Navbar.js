@@ -22,7 +22,7 @@ function Navbar() {
           <Link to="/mission"> Values </Link>
           <Link to="/about"> About </Link>
           <Link to="/founder"> Boss </Link>
-          <Link to="/shoutouts"> Shout-Outs </Link>
+          <Link to="/shoutouts"> Inspirations </Link>
         </div>
       </div>
       <div className="rightSide">
@@ -30,7 +30,7 @@ function Navbar() {
         <Link to="/mission"> Values </Link>
         <Link to="/about"> About </Link>
         <Link to="/founder"> Boss </Link>
-        <Link to="/shoutouts"> Shout-Outs </Link>
+        <Link to="/shoutouts"> Inspirations </Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>

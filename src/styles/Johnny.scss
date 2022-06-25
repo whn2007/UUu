@@ -21,7 +21,6 @@
     }
 
     .links{
-        margin-top: 5em;
         .links-intro{
             text-align: center;
             h1{
@@ -38,7 +37,6 @@
         }
 
         .story{
-            margin-top: 5em;
             display: flex;
             .origin{
                 width: 50%;
@@ -63,8 +61,8 @@
     }
 
     .achievements{
-        padding: 4em;
-        margin-top: 10em;
+        padding: 3em;
+        margin-top: 3em;
         text-align: center;
         h1{
             margin: 0;
@@ -80,8 +78,8 @@
     }
 
     .ongoing{
-        padding: 4em;
-        margin-top: 5em;
+        padding: 3em;
+        margin-top: 0em;
         text-align: center;
         h1{
             margin: 0;
@@ -98,7 +96,6 @@
 
     .wisdom{
         text-align: center;
-        margin-top: 10em;
         h1{
             margin: 0;
             font-size: max(3rem);
@@ -168,7 +165,7 @@
     @media all and (min-width: 375px) and (max-width: 767px) and (orientation:portrait) {
         .intro{
             background-size: 140vh;
-            height: 105vh;
+            height: 100vh;
                       
             .title{
                 padding-top: 11em;
@@ -182,7 +179,6 @@
         }
     
         .links{
-            margin-top: 0em;
             .links-intro{
                 h1{
                     font-size: 2.5rem;
@@ -193,7 +189,6 @@
     
             }
             .story{
-                margin-top: 5em;
                 .origin{
                     h2{
                         font-size: 1.5em;
@@ -209,31 +204,30 @@
         }
         
         .achievements{
-            padding: 4em;
-            margin-top: 5em;
+            padding: 2em;
+            margin-top: 2em;
             h1{
                 margin: 0;
                 font-size: 2rem;
             }
             p{
-                font-size: 1.5em;
+                font-size: 1em;
             }
         }
 
         .ongoing{
-            padding: 4em;
-            margin-top: 5em;
+            padding: 2em;
+            margin-top: 0em;
             h1{
                 margin: 0;
                 font-size: 2rem;
             }
             p{
-                font-size: 1.5em;
+                font-size: 1em;
             }
         }
         
         .wisdom{
-            margin-top: 10em;
             h1{
                 font-size: max(3rem);
             }
@@ -289,7 +283,7 @@
     /* smartphones landscape*/
     @media all and (min-width: 667px) and (max-width: 1023px) and (orientation:landscape) {
         .intro{
-            height: 160vh;
+            height: 145vh;
                         
             .title{
                 padding-top: 5em;
@@ -303,9 +297,7 @@
         }
     
         .links{
-            margin-top: 0em;
             .story{
-                margin-top: 5em;
                 .origin{
                     .origin-story{
                         width: 45vw;
@@ -319,7 +311,6 @@
     
         
         .wisdom{
-            margin-top: 10em;
             h1{
                 font-size: max(3rem);
             }
@@ -373,7 +364,7 @@
     @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:portrait) {
         .intro{
             background-size: 145vh;
-            height: 105vh;
+            height: 95vh;
                       
             .title{
                 padding-top: 12em;
@@ -387,7 +378,6 @@
         }
     
         .links{
-            margin-top: 0em;
             .links-intro{
                 h1{
                     font-size: 3.5rem;
@@ -398,7 +388,6 @@
     
             }
             .story{
-                margin-top: 5em;
                 .origin{
                     .origin-story{
                         width: 45vw;
@@ -412,7 +401,6 @@
     
         
         .wisdom{
-            margin-top: 10em;
             h1{
                 font-size: max(4rem);
             }
@@ -464,20 +452,12 @@
         }
     }
 
-    /*computers*/
-    @media all and (min-width: 1024px){
-        .intro{
-            background-image: url('../assets/background2.jpg');
-            background-size: 100%;
-            height: 150vh;
-        
-        }
-    }
+
     /* tablets landscape*/
     @media all and (min-width: 1024px) and (orientation:landscape) {
         .intro{
             background-size: 100%;
-            height: 137vh;
+            height: 90vh;
                         
             .title{
                 padding-top: 10em;
@@ -490,7 +470,6 @@
         .links{
             margin-top: 0em;
             .story{
-                margin-top: 5em;
                 .origin{
                     .origin-story{
                         width: 45vw;
@@ -547,4 +526,12 @@
             }
         }
     }
+    
+    @media all and (min-width: 1280px){
+        .intro{
+            background-size: 100%;
+            height: 150vh;
+        }
+    }
+    
 }

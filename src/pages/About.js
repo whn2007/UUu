@@ -21,7 +21,7 @@ function About() {
 
       <div className="fundraising">
         <img src={Fundraising}/>
-        <h2>"William Nguyen & Lord Johnny Wu, CEO & CTO of UUu LLC"</h2>
+        <h2>William Nguyen & Lord Johnny Wu, CEO & CTO of UUu LLC</h2>
       </div> 
 
       <div className="aboutList">
@@ -30,8 +30,8 @@ function About() {
             <AboutItem
               key={key}
               image={aboutItem.image}
-              stars = {aboutItem.stars}
               name={aboutItem.name}
+              stars = {aboutItem.stars}
               description={aboutItem.description}
               link={aboutItem.link}
             />

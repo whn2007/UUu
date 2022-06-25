@@ -1,5 +1,15 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1539496909127098368',
+        tweet: "What's the meaning of life? \n Whatever the fuck you want it to be.",
+        date: 6/21/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1539478331036295168',
+        tweet: "Actions always speak louder than words. \n It\'s just too bad that most people are deaf as fuck.",
+        date: 6/21/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1538602089093353472',
         tweet: 'California is the best country in the world.',
         date: 6/19/2022
@@ -28,6 +38,31 @@ export const TweetList = [
         link: 'https://twitter.com/JayWuzer/status/1538524510122483714',
         tweet: "When people encounter something unknown and new, there are only 3 reactions: \n 1. Fear \n 2. Apathy \n 3. Curiosity \n To be human is to be curious. Let's all be more human!",
         date: 6/19/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538203450671935488',
+        tweet: "Money talks. \n And I am money LOL! \n 💰/",
+        date: 6/18/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538199319978708994',
+        tweet: "Do away with contracts. \n A contract means you do not trust the other party to deliver. \n Have more faith in others.",
+        date: 6/18/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538198740556623872',
+        tweet: "Have more faith in yourself. \n Have more faith in others. \n Have more faith.",
+        date: 6/18/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538189318660886528',
+        tweet: "My Chinese name is 吴绿. \n 绿, literally translated, means \"green\". \n I was born to \"green the world\". \n And I will do it. EZ! \n Cause I ALWAYS deliver.",
+        date: 6/18/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538064071764811776',
+        tweet: "A person's sense of humor is an indication of their intelligence. \n And my cofounders, @williamxnguyen, @RunDavidMC, and @pokudi_, are funny as FUCK!",
+        date: 6/18/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1538331005148606464',
@@ -62,6 +97,11 @@ export const TweetList = [
     {
         link: 'https://twitter.com/JayWuzer/status/1538270289804468224',
         tweet: "My favorite animal is the Orca. \n Probably one of the reasons why I wear black and white all the time LOL.",
+        date: 6/18/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538197486040322048',
+        tweet: "Professionalism is STOOPID as FUCK! \n Why? \n Because it's all an act. \n We need more authenticity in this world, and I will make it happen. \n And I ALWAYS deliver!",
         date: 6/18/2022
     },
     {
@@ -102,6 +142,41 @@ export const TweetList = [
     {
         link: 'https://twitter.com/JayWuzer/status/1537836411184766976',
         tweet: "People are drawn to confidence, because it indicates you have the answers.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1537842683632226304',
+        tweet: "Most things aren't urgent, but I do like things ASAP.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1537853455309541376',
+        tweet: "Like is drawn to like.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1537892761117921285',
+        tweet: "Data is NOT the most valuable asset. \n Attention is.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1537892845658378242',
+        tweet: "Your life achievements will be bullet points in mine.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1537927140133351425',
+        tweet: "A million dollars is nothing. \n If you made a million dollars a year, you would need to work 1000 years to get to a billion. \n 1000 years ago, Christopher Columbus wasn't even in America!",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538000963843153920',
+        tweet: "\"Revenge is a dish best served cold\". \n I disagree. \n I like to serve my revenge piping hot.",
+        date: 6/17/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1538015785355948033',
+        tweet: "Sugar is poison.",
         date: 6/17/2022
     },
     {
@@ -220,103 +295,3 @@ export const TweetList = [
         date: 6/13/2022
     },
 ]
-
-
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1537842683632226304' target="_blank">
-    <p>Most things aren't urgent, but I do like things ASAP.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1537853455309541376' target="_blank">
-    <p>Like is drawn to like.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1537892761117921285' target="_blank">
-    <p>Data is NOT the most valuable asset. <br/>
-        Attention is.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1537892845658378242' target="_blank">
-    <p>Your life achievements will be bullet points in mine.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1537927140133351425' target="_blank">
-    <p>A million dollars is nothing.
-        If you made a million dollars a year, you would need to work 1000 years to get to a billion.
-        1000 years ago, Christopher Columbus wasn't even in America!
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538000963843153920' target="_blank">
-    <p>"Revenge is a dish best served cold". <br/>
-        I disagree. <br/>
-        I like to serve my revenge piping hot. <br/>
-        cc @NamebaseHQ @Namecheap
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538015785355948033' target="_blank">
-    <p>Sugar is poison.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538064071764811776' target="_blank">
-    <p>A person's sense of humor is an indication of their intelligence. <br/>
-        And my cofounders, @williamxnguyen, @RunDavidMC, and @pokudi_, are funny as FUCK!
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538189318660886528' target="_blank">
-    <p>My Chinese name is 吴绿. <br/>
-        绿, literally translated, means "green". <br/>
-        I was born to "green the world". <br/>
-        And I will do it. EZ! <br/>
-        Cause I ALWAYS deliver.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538197486040322048' target="_blank">
-    <p>Professionalism is STOOPID as FUCK!<br/>
-        Why?<br/>
-        Because it's all an act.<br/>
-        We need more authenticity in this world, and I will make it happen. <br/>
-        And I ALWAYS deliver!
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538198740556623872' target="_blank">
-    <p>Have more faith in yourself. <br/>
-    Have more faith in others. <br/>
-    Have more faith.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538199319978708994' target="_blank">
-    <p>Do away with contracts. <br/>
-    A contract means you do not trust the other party to deliver. <br/>
-    Have more faith in others. <br/>
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1538203450671935488' target="_blank">
-    <p>Money talks. <br/>
-    And I am money LOL! <br/>
-    💰/
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1539478331036295168' target="_blank">
-    <p>Actions always speak louder than words. <br/>
-    It's just too bad that most people are deaf as fuck.
-    </p>
-    </a>
-
-    <a className='tweet' href='https://twitter.com/JayWuzer/status/1539496909127098368' target="_blank">
-    <p>What's the meaning of life? <br/>
-        Whatever the fuck you want it to be.
-    </p>
-    </a>

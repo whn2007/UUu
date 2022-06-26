@@ -4,29 +4,24 @@
     margin-top: 4em;
     .header{
         text-align: center;
-        margin-top: 7em;
-        margin-bottom: 7em;
+        margin-bottom: 2em;
         h1{
             margin: 0;
             color: $darkRed;
             font-size: 4rem;
         }
-        p{
-            margin: 0;
-            color: $red;
-            margin: 0.5em;
-            font-size: 1.5rem;
+        &:first-child{
+            margin-top: 7em;
         }
     }
 
     .aboutList{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        margin-bottom: 0em;
 
         .aboutItem{
             text-decoration: none;
-            margin-bottom: 10em;
+            margin-bottom: 5em;
 
             .profilePic{
                 display: flex;
@@ -62,15 +57,9 @@
                 height: 12em;
             }
             h1{
-                font-size: 2rem;
+                font-size: 1.5rem;
                 margin: 0.4em;
                 margin-bottom: 0em;
-                white-space: nowrap;
-                color: $black;
-            }
-            p{
-                font-size: 1.5rem;
-                margin: 0.2em;
                 white-space: nowrap;
                 color: $black;
             }
@@ -81,12 +70,12 @@
 
     @media all and (min-width: 375px) and (max-width: 767px) {
         .header{
-            margin-bottom: 3em;
+            margin-bottom: 2em;
             h1{
                 font-size: 2rem;
             }
-            p{
-                font-size: 1rem;
+            &:first-child{
+                margin-top: 4em;
             }
         }
 
@@ -100,7 +89,7 @@
             .aboutItem{
                 width: 50vw;
                 height: auto;
-                margin-bottom: 4em;
+                margin-bottom: 2em;
 
                 .starsContainer{
                     .stars{
@@ -120,10 +109,7 @@
                     height: 6em;
                 }
                 h1{
-                    font-size: 1rem;
-                }
-                p{
-                    font-size: 0.9rem;
+                    font-size: 0.7rem;
                 }
             }
         }
@@ -131,27 +117,24 @@
 
     @media all and (min-width: 768px) and (max-width: 1023px) {
         .header{
-            margin-bottom: 5em;
             .aboutTitle{
                 h1{
                     font-size: 3rem;
                 }
-                p{
-                    font-size: 1.5rem;
-                }
             }
-    
+            &:first-child{
+                margin-top: 5em;
+            }
         }
         .aboutList{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
             margin: 0;
-            margin-bottom: 3em;
 
             .aboutItem{
                 width: 33vw;
                 height: auto;
-                margin-bottom: 5em;
+                margin-bottom: 2em;
 
                 .starsContainer{
                     .stars{
@@ -170,10 +153,7 @@
                     height: 10em;
                 }
                 h1{
-                    font-size: 1.4rem;
-                }
-                p{
-                    font-size: 1.3rem;
+                    font-size: 1.1rem;
                 }
             }
         }

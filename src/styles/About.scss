@@ -159,14 +159,13 @@
 
                 .starsContainer{
                     .stars{
-                        margin-top: 0.7em;
                         height: max(1em);
                     }
                 }
     
                 .description{
                     svg{
-                        font-size: 2rem;
+                        font-size: 1.5rem;
                     }
                 }
                 
@@ -175,10 +174,10 @@
                     height: 6em;
                 }
                 h1{
-                    font-size: 1rem;
+                    font-size: 0.7rem;
                 }
                 p{
-                    font-size: 0.9rem;
+                    font-size: 0.7rem;
                 }
             }
         }
@@ -231,7 +230,6 @@
 
                 .starsContainer{
                     .stars{
-                        margin-top: 0.7em;
                         height: max(1.5em);
                     }
                 }
@@ -247,10 +245,10 @@
                     height: 10em;
                 }
                 h1{
-                    font-size: 1.4rem;
+                    font-size: 1rem;
                 }
                 p{
-                    font-size: 1.3rem;
+                    font-size: 1rem;
                 }
             }
         }
@@ -270,7 +268,29 @@
     }
 
     @media all and (min-width: 1024px){
+        .aboutList{
+            .aboutItem{
+                .description{
+                    svg{
+                        font-size: 2.5rem;
+                    }
+                }
+                
+                img{
+                    width: 15em;
+                    height: 15em;
+                }
+                h1{
+                    font-size: 1.5rem;
+                }
+                p{
+                    font-size: 1.5rem;
+                }
+            }
+        }
+    }
 
+    @media all and (min-width: 1280px){
     }
 
 }

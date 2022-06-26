@@ -1,5 +1,15 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1540756785476161536',
+        tweet: "Faith is believing in something despite not having all the evidence and answers. \n We don't even really know how the universe started, and there's plenty of things we will never understand. \n So just have more faith. \n Otherwise you'll go insane LOL!",
+        date: 6/24/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1540581722479140865',
+        tweet: "You are what you eat, so eat better.",
+        date: 6/24/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1540404329185562625',
         tweet: "Life is about people. \n Life is about politicking.",
         date: 6/24/2022

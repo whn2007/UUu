@@ -4,7 +4,7 @@
     margin-top: 4em;
     .header{
         text-align: center;
-        margin-bottom: 2em;
+        margin-bottom: 4em;
         h1{
             margin: 0;
             color: $darkRed;
@@ -153,13 +153,32 @@
                     height: 10em;
                 }
                 h1{
-                    font-size: 1.1rem;
+                    font-size: 0.9rem;
                 }
             }
         }
     }
 
-    @media all and (min-width: 1024px){
+    @media all and (min-width: 1024px) and (max-width: 1279px){
+        .aboutList{
 
+            .aboutItem{
+                margin-bottom: 2em;
+
+                .starsContainer{
+                    .stars{
+                        height: max(0em);
+                    }
+                }
+                
+                img{
+                    width: 13em;
+                    height: 13em;
+                }
+                h1{
+                    font-size: 1rem;
+                }
+            }
+        }
     }
 }

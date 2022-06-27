@@ -86,6 +86,25 @@ import WallaceAndGromit from '../assets/movies/wallaceandgromit.png'
 import Millers from '../assets/movies/wearethemillers.png'
 import WreckItRalph from '../assets/movies/wreckitralph.png'
 import Zohan from '../assets/movies/zohan.png'
+import JamesBond from '../assets/movies/jamesbond.png'
+import Monty from '../assets/movies/monty.png'
+import Borat from '../assets/movies/borat.png'
+import Scarface from '../assets/movies/scarface.png'
+import CoachCarter from '../assets/movies/coachcarter.png'
+import MonteCristo from '../assets/movies/montecristo.png'
+import Oldboy from '../assets/movies/oldboy.png'
+import KillBill from '../assets/movies/killbill.png'
+import Hollywood from '../assets/movies/hollywood.png'
+import IngloriousBasterds from '../assets/movies/ingloriousbasterds.png'
+import PulpFiction from '../assets/movies/pulpfiction.png'
+import EnterTheDragon from '../assets/movies/enterthedragon.png'
+import RumbleInTheBronx from '../assets/movies/rumbleinthebronx.png'
+import ShanghaiNoon from '../assets/movies/shanghainoon.png'
+import Tangled from '../assets/movies/tangled.png'
+import Frozen from '../assets/movies/frozen.png'
+import Moana from '../assets/movies/moana.png'
+import LionKing from '../assets/movies/lionking.png'
+import Holes from '../assets/movies/holes.png'
 
 export const MovieList = [
     {
@@ -119,6 +138,12 @@ export const MovieList = [
         
     }, 
     {
+        name: "Borat",
+        image: Borat,
+        link: "https://www.imdb.com/title/tt0443453/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
         name: "Brüno",
         image: Bruno,
         link: "https://www.imdb.com/title/tt0889583/?ref_=fn_al_tt_1",
@@ -128,6 +153,12 @@ export const MovieList = [
         name: "Capernaum",
         image: Capernaum,
         link: "https://www.imdb.com/title/tt8267604/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Coach Carter",
+        image: CoachCarter,
+        link: "https://www.imdb.com/title/tt0393162/?ref_=nv_sr_srsg_0",
         
     },
     {
@@ -173,6 +204,12 @@ export const MovieList = [
         
     }, 
     {
+        name: "Enter the Dragon",
+        image: EnterTheDragon,
+        link: "https://www.imdb.com/title/tt0070034/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
         name: "Forrest Gump",
         image: Forrest,
         link: "https://www.imdb.com/title/tt0109830/?ref_=nv_sr_srsg_1",
@@ -181,6 +218,11 @@ export const MovieList = [
         name: "Friday",
         image: Friday,
         link: "https://www.imdb.com/title/tt0113118/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "Frozen",
+        image: Frozen,
+        link: "https://www.imdb.com/title/tt2294629/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Get Him to the Greek",
@@ -218,6 +260,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt8503618/?ref_=nv_sr_srsg_0",
     },
     {
+        name: "Holes",
+        image: Holes,
+        link: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Horrible Bosses",
         image: Horrible,
         link: "https://www.imdb.com/title/tt1499658/?ref_=nv_sr_srsg_0",
@@ -233,9 +280,9 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0268380/?ref_=nv_sr_srsg_0",
     }, 
     {
-        name: "Ip Man",
-        image: IpMan,
-        link: "https://www.imdb.com/title/tt1220719/?ref_=nv_sr_srsg_2",
+        name: "Inglourious Basterds",
+        image: IngloriousBasterds,
+        link: "https://www.imdb.com/title/tt0361748/?ref_=nv_sr_srsg_2",
     }, 
     {
         name: "Inside Out",
@@ -243,9 +290,19 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt2096673/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Ip Man",
+        image: IpMan,
+        link: "https://www.imdb.com/title/tt1220719/?ref_=nv_sr_srsg_2",
+    }, 
+    {
         name: "Iron Man",
         image: IronMan,
         link: "https://www.imdb.com/title/tt0371746/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "James Bond",
+        image: JamesBond,
+        link: "https://www.imdb.com/title/tt2382320/?ref_=nv_sr_srsg_2",
     }, 
     {
         name: "Jiro Dreams of Sushi",
@@ -257,6 +314,11 @@ export const MovieList = [
         image: JohnWick,
         link: "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0",
     },
+    {
+        name: "Kill Bill",
+        image: KillBill,
+        link: "https://www.imdb.com/title/tt0266697/?ref_=nv_sr_srsg_0",
+    }, 
     {
         name: "Kingsman: The Secret Service",
         image: Kingsman,
@@ -310,6 +372,12 @@ export const MovieList = [
         image: Midnight,
         link: "https://www.imdb.com/title/tt1605783/",
         
+    },
+    {
+        name: "Moana",
+        image: Moana,
+        link: "https://www.imdb.com/title/tt3521164/?ref_=nv_sr_srsg_0",
+        
     }, 
     {
         name: "Moneyball",
@@ -321,6 +389,12 @@ export const MovieList = [
         name: "Monsters, Inc.",
         image: Monsters,
         link: "https://www.imdb.com/title/tt0198781/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Monty Python and the Holy Grail",
+        image: Monty,
+        link: "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_srsg_0",
         
     },
     {
@@ -366,15 +440,33 @@ export const MovieList = [
         
     },
     {
+        name: "Oldboy",
+        image: Oldboy,
+        link: "https://www.imdb.com/title/tt0364569/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
         name: "Olympus Has Fallen",
         image: Olympus,
         link: "https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0",
         
     },
     {
+        name: "Once Upon a Time... In Hollywood",
+        image: Hollywood,
+        link: "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
         name: "Oz the Great and Powerful",
         image: Oz,
         link: "https://www.imdb.com/title/tt1623205/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Pulp Fiction",
+        image: PulpFiction,
+        link: "https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0",
         
     },
     {
@@ -388,10 +480,25 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0120812/?ref_=fn_al_tt_1",
     },
     {
+        name: "Rumble in the Bronx",
+        image: RumbleInTheBronx,
+        link: "https://www.imdb.com/title/tt0113326/?ref_=nv_sr_srsg_0",
+    },
+    {
         name: "Sausage Party",
         image: SausageParty,
         link: "https://www.imdb.com/title/tt1700841/?ref_=nv_sr_srsg_0",
     },  
+    {
+        name: "Scarface",
+        image: Scarface,
+        link: "https://www.imdb.com/title/tt0086250/?ref_=nv_sr_srsg_0",
+    },  
+    {
+        name: "Shanghai Noon",
+        image: ShanghaiNoon,
+        link: "https://www.imdb.com/title/tt0184894/?ref_=nv_sr_srsg_0",
+    }, 
     {
         name: "Sherlock Holmes",
         image: Sherlock,
@@ -423,6 +530,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt10872600/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Tangled",
+        image: Tangled,
+        link: "https://www.imdb.com/title/tt0398286/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "The Aristocats",
         image: Aristocats,
         link: "https://www.imdb.com/title/tt0065421/?ref_=nv_sr_srsg_0",
@@ -436,6 +548,12 @@ export const MovieList = [
         name: "The Chronicles of Narnia",
         image: Narnia,
         link: "https://www.imdb.com/title/tt0363771/?ref_=fn_al_tt_1",
+        
+    },
+    {
+        name: "The Count of Monte Cristo",
+        image: MonteCristo,
+        link: "https://www.imdb.com/title/tt0245844/?ref_=nv_sr_srsg_0",
         
     },
     {
@@ -457,6 +575,11 @@ export const MovieList = [
         name: "The Interview",
         image: Interview,
         link: "https://www.imdb.com/title/tt2788710/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Lion King",
+        image: LionKing,
+        link: "https://www.imdb.com/title/tt6105098/?ref_=nv_sr_srsg_3",
     }, 
     {
         name: "The Longest Yard",
@@ -509,7 +632,7 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt1104001/?ref_=nv_sr_srsg_0",
     }, 
     {
-        name: "Wallace & Gromit: The Curse of the Were-Rabbit",
+        name: "Wallace & Gromit",
         image: WallaceAndGromit,
         link: "https://www.imdb.com/title/tt0312004/?ref_=nv_sr_srsg_0",
     }, 

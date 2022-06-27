@@ -33,8 +33,55 @@ import Sherlock from '../assets/movies/sherlock.png'
 import Pirates from '../assets/movies/pirates.png'
 import IronMan from '../assets/movies/ironman.png'
 import Horrible from '../assets/movies/horrible.png'
+import Idiots from '../assets/movies/3idiots.png'
+import TwentyTwo from '../assets/movies/22jumpstreet.png'
+import Ronin from '../assets/movies/47ronin.png'
+import Hours from '../assets/movies/127hours.png'
+import Aladdin from '../assets/movies/aladdin.png'
+import AmericanGangster from '../assets/movies/americangangster.png'
+import Bruno from '../assets/movies/bruno.png'
+import Coco from '../assets/movies/coco.png'
+import Greek from '../assets/movies/gethimtothegreek.png'
+import Atlantis from '../assets/movies/atlantis.png'
+import Capernaum from '../assets/movies/capernaum.png'
+import DateNight from '../assets/movies/datenight.png'
+import Despicable from '../assets/movies/despicable.png'
+import DetectiveChinatown from '../assets/movies/detectivechinatown.png'
+import Earth from '../assets/movies/earth.png'
+import Glory from '../assets/movies/glory.png'
+import Goodbye from '../assets/movies/goodbye.png'
+import Goodwill from '../assets/movies/goodwill.png'
+import Hamilton from '../assets/movies/hamilton.png'
+import TrainDragon from '../assets/movies/traindragon.png'
+import JohnWick from '../assets/movies/johnwick.png'
+import IceAge from '../assets/movies/iceage.png'
+import InsideOut from '../assets/movies/insideout.png'
 
 export const MovieList = [
+    {
+        name: "Aladdin",
+        image: Aladdin,
+        link: "https://www.imdb.com/title/tt6139732/?ref_=fn_al_tt_1",
+        
+    }, 
+    {
+        name: "American Gangster",
+        image: AmericanGangster,
+        link: "https://www.imdb.com/title/tt0765429/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Another Earth",
+        image: Earth,
+        link: "https://www.imdb.com/title/tt1549572/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Atlantis",
+        image: Atlantis,
+        link: "https://www.imdb.com/title/tt0230011/?ref_=nv_sr_srsg_3",
+        
+    }, 
     {
         name: "Big Hero 6",
         image: BigHero,
@@ -42,9 +89,45 @@ export const MovieList = [
         
     }, 
     {
+        name: "Brüno",
+        image: Bruno,
+        link: "https://www.imdb.com/title/tt0889583/?ref_=fn_al_tt_1",
+        
+    }, 
+    {
+        name: "Capernaum",
+        image: Capernaum,
+        link: "https://www.imdb.com/title/tt8267604/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Coco",
+        image: Coco,
+        link: "https://www.imdb.com/title/tt2380307/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Date Night",
+        image: DateNight,
+        link: "https://www.imdb.com/title/tt1279935/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
         name: "Deadpool",
         image: Deadpool,
         link: "https://www.imdb.com/title/tt1431045/?ref_=fn_al_tt_1",
+        
+    }, 
+    {
+        name: "Detective Chinatown",
+        image: DetectiveChinatown,
+        link: "https://www.imdb.com/title/tt5290882/?ref_=nv_sr_srsg_5",
+        
+    }, 
+    {
+        name: "Despicable Me",
+        image: Despicable,
+        link: "https://www.imdb.com/title/tt1323594/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -70,6 +153,26 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0113118/?ref_=fn_al_tt_1",
     }, 
     {
+        name: "Get Him to the Greek",
+        image: Greek,
+        link: "https://www.imdb.com/title/tt1226229/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Glory",
+        image: Glory,
+        link: "https://www.imdb.com/title/tt0097441/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Goodbye Mr. Loser",
+        image: Goodbye,
+        link: "https://www.imdb.com/title/tt5061814/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Good Will Hunting",
+        image: Goodwill,
+        link: "https://www.imdb.com/title/tt0119217/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Guardians of the Galaxy",
         image: Guardians,
         link: "https://www.imdb.com/title/tt2015381/?ref_=fn_al_tt_1",
@@ -80,9 +183,24 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0454876/",
     }, 
     {
+        name: "Hamilton",
+        image: Hamilton,
+        link: "https://www.imdb.com/title/tt8503618/?ref_=nv_sr_srsg_0",
+    },
+    {
         name: "Horrible Bosses",
         image: Horrible,
         link: "https://www.imdb.com/title/tt1499658/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "How to Train Your Dragon",
+        image: TrainDragon,
+        link: "https://www.imdb.com/title/tt0892769/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Ice Age",
+        image: IceAge,
+        link: "https://www.imdb.com/title/tt0268380/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Iron Man",
@@ -94,6 +212,11 @@ export const MovieList = [
         image: Jiro,
         link: "https://www.imdb.com/title/tt1772925/?ref_=fn_al_tt_1",
     }, 
+    {
+        name: "John Wick",
+        image: JohnWick,
+        link: "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0",
+    },
     {
         name: "Kingsman: The Secret Service",
         image: Kingsman,
@@ -210,6 +333,26 @@ export const MovieList = [
         name: "This Is the End",
         image: TheEnd,
         link: "https://www.imdb.com/title/tt1245492/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "127 Hours",
+        image: Hours,
+        link: "https://www.imdb.com/title/tt1542344/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "22 Jump Street",
+        image: TwentyTwo,
+        link: "https://www.imdb.com/title/tt2294449/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "3 Idiots",
+        image: Idiots,
+        link: "https://www.imdb.com/title/tt1187043/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "47 Ronin",
+        image: Ronin,
+        link: "https://www.imdb.com/title/tt1335975/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "50 First Dates",

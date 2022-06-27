@@ -6,7 +6,7 @@ import OneStar from "../assets/1star.png"
 import TwoStars from "../assets/2stars.png"
 import ThreeStars from "../assets/3stars.png"
 import FourStars from "../assets/4stars.png"
-import FiveStars from "../assets/5stars.png"
+import FiveStars from "../assets/5starsarmy.png"
 
 export const AboutList = [
   {
@@ -35,6 +35,6 @@ export const AboutList = [
     image: Bitty,
     stars: TwoStars,
     description: "Co-founder",
-    link: "https://twitter.com/pokudi_",
+    link: "https://twitter.com/ignBitty",
   },
 ];

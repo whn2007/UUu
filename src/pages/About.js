@@ -21,7 +21,7 @@ function About() {
 
       <div className="fundraising">
         <img src={Fundraising}/>
-        <h2>William Nguyen & Lord "Boss" JayWuzer, CEO & CTO of UUu LLC</h2>
+        <h2>William Nguyen & Lord "Boss" JayWuzer, CTO & CEO of UUu LLC</h2>
       </div> 
 
       <div className="aboutList">

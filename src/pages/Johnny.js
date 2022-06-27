@@ -65,6 +65,7 @@ function Johnny() {
         • #1 YouTuber<br/>
         • #1 hit album<br/>
         • ABRSM Grade 8<br/>
+        • Ambassador to China<br/>
         • A-List Celebrity Actor<br/>
         • Family documentary<br/>
         • NBA All-Star Celebrity Basketball Game player<br/>

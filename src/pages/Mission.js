@@ -8,7 +8,7 @@ function Mission() {
     <div className="mission">
       <div className="header">
         <h1>Our Values</h1>
-        <p>We solve problems, have fun, figure sh#t out, and get things done. </p>
+        <p>We solve problems, have fun, figure sh!t out, and get things done. </p>
       </div>
 
       <div className="value">
@@ -43,7 +43,7 @@ function Mission() {
 
       <div className="value">
         <div className="left">
-          <h2>Be Unique</h2>
+          <h2>Become Unique.</h2>
           <p>Join us if you want to eliminate your know-do gap, which will make you 1/1.
           </p>
         </div>

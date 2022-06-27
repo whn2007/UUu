@@ -5,6 +5,7 @@ import ShoutOutItem from '../components/ShoutOutItem';
 import { ShoutOutList } from "../helpers/ShoutOutList";
 import { BallersList } from "../helpers/Ballers"
 import { AnimeList } from "../helpers/Anime"
+import { MovieList } from "../helpers/Movie"
 
 function Shoutouts() {
   return (
@@ -16,6 +17,23 @@ function Shoutouts() {
 
         <div className="aboutList">
           {AnimeList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+          <h1>Movies</h1>
+        </div>
+
+        <div className="aboutList">
+          {MovieList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
                 key={key}

@@ -20,7 +20,7 @@ function Navbar() {
         <div className="hiddenLinks">
           <Link to="/"> Home </Link>
           <Link to="/mission"> Values </Link>
-          <Link to="/about"> About </Link>
+          <Link to="/about"> Founders </Link>
           <Link to="/founder"> Boss </Link>
           <Link to="/shoutouts"> Inspirations </Link>
         </div>
@@ -28,7 +28,7 @@ function Navbar() {
       <div className="rightSide">
         <Link to="/"> Home </Link>
         <Link to="/mission"> Values </Link>
-        <Link to="/about"> About </Link>
+        <Link to="/about"> Founders </Link>
         <Link to="/founder"> Boss </Link>
         <Link to="/shoutouts"> Inspirations </Link>
         <button onClick={toggleNavbar}>

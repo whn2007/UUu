@@ -72,6 +72,20 @@ import ShaunDead from '../assets/movies/shaunofthedead.png'
 import NoWayHome from '../assets/movies/spidermannowayhome.png'
 import Virgin from '../assets/movies/40yearoldvirgin.png'
 import Aristocats from '../assets/movies/thearistocats.png'
+import DragonTattoo from '../assets/movies/dragontattoo.png'
+import Incredibles from '../assets/movies/incredibles.png'
+import LongestYard from '../assets/movies/thelongestyard.png'
+import KingofComedy from '../assets/movies/kingofcomedy.png'
+import NightmareBeforeChristmas from '../assets/movies/nightmarebeforechristmas.png'
+import WeepingCamel from '../assets/movies/weepingcamel.png'
+import WallStreet from '../assets/movies/wolfofwallstreet.png'
+import ToyStory from '../assets/movies/toystory.png'
+import Tron from '../assets/movies/tron.png'
+import TropicThunder from '../assets/movies/tropicthunder.png'
+import WallaceAndGromit from '../assets/movies/wallaceandgromit.png'
+import Millers from '../assets/movies/wearethemillers.png'
+import WreckItRalph from '../assets/movies/wreckitralph.png'
+import Zohan from '../assets/movies/zohan.png'
 
 export const MovieList = [
     {
@@ -430,10 +444,45 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt3521126/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "The Girl with the Dragon Tattoo",
+        image: DragonTattoo,
+        link: "https://www.imdb.com/title/tt1568346/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Incredibles",
+        image: Incredibles,
+        link: "https://www.imdb.com/title/tt0317705/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "The Interview",
         image: Interview,
         link: "https://www.imdb.com/title/tt2788710/?ref_=nv_sr_srsg_0",
     }, 
+    {
+        name: "The Longest Yard",
+        image: LongestYard,
+        link: "https://www.imdb.com/title/tt0398165/?ref_=nv_sr_srsg_2",
+    }, 
+    {
+        name: "The New King of Comedy",
+        image: KingofComedy,
+        link: "https://www.imdb.com/title/tt9368628/?ref_=nv_sr_srsg_8",
+    }, 
+    {
+        name: "The Nightmare Before Christmas",
+        image: NightmareBeforeChristmas,
+        link: "https://www.imdb.com/title/tt0107688/?ref_=nv_sr_srsg_0",
+    },
+    {
+        name: "The Story of the Weeping Camel",
+        image: WeepingCamel,
+        link: "https://www.imdb.com/title/tt0373861/?ref_=nv_sr_srsg_2",
+    },
+    {
+        name: "The Wolf of Wall Street",
+        image: WallStreet,
+        link: "https://www.imdb.com/title/tt0993846/?ref_=nv_sr_srsg_0",
+    },
     {
         name: "The 40-Year-Old Virgin",
         image: Virgin,
@@ -443,6 +492,41 @@ export const MovieList = [
         name: "This Is the End",
         image: TheEnd,
         link: "https://www.imdb.com/title/tt1245492/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "Toy Story",
+        image: ToyStory,
+        link: "https://www.imdb.com/title/tt0114709/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Tropic Thunder",
+        image: TropicThunder,
+        link: "https://www.imdb.com/title/tt0942385/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Tron",
+        image: Tron,
+        link: "https://www.imdb.com/title/tt1104001/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Wallace & Gromit: The Curse of the Were-Rabbit",
+        image: WallaceAndGromit,
+        link: "https://www.imdb.com/title/tt0312004/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "We're the Millers",
+        image: Millers,
+        link: "https://www.imdb.com/title/tt1723121/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Wreck-It Ralph",
+        image: WreckItRalph,
+        link: "https://www.imdb.com/title/tt1772341/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "You Don't Mess with the Zohan",
+        image: Zohan,
+        link: "https://www.imdb.com/title/tt0960144/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "127 Hours",

@@ -105,8 +105,40 @@ import Frozen from '../assets/movies/frozen.png'
 import Moana from '../assets/movies/moana.png'
 import LionKing from '../assets/movies/lionking.png'
 import Holes from '../assets/movies/holes.png'
+import FindingNemo from '../assets/movies/findingnemo.png'
+import Cars from '../assets/movies/cars.png'
+import Ratatouille from '../assets/movies/ratatouille.png'
+import WallE from '../assets/movies/wall-e.png'
+import Up from '../assets/movies/up.png'
+import Zootopia from '../assets/movies/zootopia.png'
+import Madagascar from '../assets/movies/madagascar.png'
+import KnivesOut from '../assets/movies/knivesout.png'
+import Shrek from '../assets/movies/shrek.png'
+import PrinceOfEgypt from '../assets/movies/princeofegypt.png'
+import IronGiant from '../assets/movies/irongiant.png'
+import EmperorNewGroove from '../assets/movies/emperornewgroove.png'
+import Dalmations from '../assets/movies/101dalmatians.png'
+import Fantasia from '../assets/movies/fantasia.png'
+import TreasurePlanet from '../assets/movies/treasureplanet.png'
+import BeautyAndTheBeast from '../assets/movies/beautyandthebeast.png'
+import GoofyMovie from '../assets/movies/agoofymovie.png'
+import JamesPeach from '../assets/movies/jamespeach.png'
+import LayerCake from '../assets/movies/layercake.png'
+import GrandBudapest from '../assets/movies/grandbudapest.png'
+import EvanAlmighty from '../assets/movies/evanalmighty.png'
+import Aquaman from '../assets/movies/aquaman.png'
+import LittleMissSunshine from '../assets/movies/littlemisssunshine.png'
+import CrazyLove from '../assets/movies/crazylove.png'
+import OverTheHedge from '../assets/movies/overthehedge.png'
+import Megamind from '../assets/movies/megamind.png'
+
 
 export const MovieList = [
+    {
+        name: "A Goofy Movie",
+        image: GoofyMovie,
+        link: "https://www.imdb.com/title/tt0113198/?ref_=nv_sr_srsg_0",
+    }, 
     {
         name: "Aladdin",
         image: Aladdin,
@@ -129,6 +161,18 @@ export const MovieList = [
         name: "Atlantis",
         image: Atlantis,
         link: "https://www.imdb.com/title/tt0230011/?ref_=nv_sr_srsg_3",
+        
+    }, 
+    {
+        name: "Aquaman",
+        image: Aquaman,
+        link: "https://www.imdb.com/title/tt1477834/?ref_=nv_sr_srsg_3",
+        
+    }, 
+    {
+        name: "Beauty and the Beast",
+        image: BeautyAndTheBeast,
+        link: "https://www.imdb.com/title/tt2771200/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -156,6 +200,12 @@ export const MovieList = [
         
     },
     {
+        name: "Cars",
+        image: Cars,
+        link: "https://www.imdb.com/title/tt0317219/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
         name: "Coach Carter",
         image: CoachCarter,
         link: "https://www.imdb.com/title/tt0393162/?ref_=nv_sr_srsg_0",
@@ -165,13 +215,16 @@ export const MovieList = [
         name: "Coco",
         image: Coco,
         link: "https://www.imdb.com/title/tt2380307/?ref_=nv_sr_srsg_0",
-        
+    },
+    {
+        name: "Crazy, Stupid, Love.",
+        image: CrazyLove,
+        link: "https://www.imdb.com/title/tt1570728/?ref_=nv_sr_srsg_0",
     },
     {
         name: "Date Night",
         image: DateNight,
         link: "https://www.imdb.com/title/tt1279935/?ref_=nv_sr_srsg_0",
-        
     }, 
     {
         name: "Deadpool",
@@ -208,6 +261,22 @@ export const MovieList = [
         image: EnterTheDragon,
         link: "https://www.imdb.com/title/tt0070034/?ref_=nv_sr_srsg_0",
         
+    }, 
+    {
+        name: "Evan Almighty",
+        image: EvanAlmighty,
+        link: "https://www.imdb.com/title/tt0413099/?ref_=fn_al_tt_1",
+        
+    },
+    {
+        name: "Fantasia",
+        image: Fantasia,
+        link: "https://www.imdb.com/title/tt0032455/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "Finding Nemo",
+        image: FindingNemo,
+        link: "https://www.imdb.com/title/tt0266543/?ref_=nv_sr_srsg_0a",
     }, 
     {
         name: "Forrest Gump",
@@ -300,6 +369,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0371746/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "James and the Giant Peach",
+        image: JamesPeach,
+        link: "https://www.imdb.com/title/tt0116683/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "James Bond",
         image: JamesBond,
         link: "https://www.imdb.com/title/tt2382320/?ref_=nv_sr_srsg_2",
@@ -325,9 +399,19 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt2802144/?ref_=fn_al_tt_1",
     }, 
     {
+        name: "Knives Out",
+        image: KnivesOut,
+        link: "https://www.imdb.com/title/tt8946378/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Kung Fu Panda",
         image: Kungfu,
         link: "https://www.imdb.com/title/tt0441773/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Layer Cake",
+        image: LayerCake,
+        link: "https://www.imdb.com/title/tt0375912/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Life of Pi",
@@ -338,6 +422,11 @@ export const MovieList = [
         name: "Limitless",
         image: Limitless,
         link: "https://www.imdb.com/title/tt1219289/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Little Miss Sunshine",
+        image: LittleMissSunshine,
+        link: "https://www.imdb.com/title/tt0449059/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Logan",
@@ -356,9 +445,21 @@ export const MovieList = [
         
     }, 
     {
+        name: "Madagascar",
+        image: Madagascar,
+        link: "https://www.imdb.com/title/tt0351283/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
         name: "March of the Penguins",
         image: Penguins,
         link: "https://www.imdb.com/title/tt0428803/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Megamind",
+        image: Megamind,
+        link: "https://www.imdb.com/title/tt1001526/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -458,9 +559,21 @@ export const MovieList = [
         
     },
     {
+        name: "Over the Hedge",
+        image: OverTheHedge,
+        link: "https://www.imdb.com/title/tt0327084/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
         name: "Oz the Great and Powerful",
         image: Oz,
         link: "https://www.imdb.com/title/tt1623205/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Prince of Egypt",
+        image: PrinceOfEgypt,
+        link: "https://www.imdb.com/title/tt0120794/?ref_=nv_sr_srsg_0",
         
     },
     {
@@ -468,6 +581,11 @@ export const MovieList = [
         image: PulpFiction,
         link: "https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0",
         
+    },
+    {
+        name: "Ratatouille",
+        image: Ratatouille,
+        link: "https://www.imdb.com/title/tt0382932/?ref_=nv_sr_srsg_0",
     },
     {
         name: "Rise of the Planet of the Apes",
@@ -503,6 +621,11 @@ export const MovieList = [
         name: "Sherlock Holmes",
         image: Sherlock,
         link: "https://www.imdb.com/title/tt0988045/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Shrek",
+        image: Shrek,
+        link: "https://www.imdb.com/title/tt0126029/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Saving Private Ryan",
@@ -562,9 +685,19 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt3521126/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "The Emperor's New Groove",
+        image: EmperorNewGroove,
+        link: "https://www.imdb.com/title/tt0120917/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "The Girl with the Dragon Tattoo",
         image: DragonTattoo,
         link: "https://www.imdb.com/title/tt1568346/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Grand Budapest Hotel",
+        image: GrandBudapest,
+        link: "https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Incredibles",
@@ -575,6 +708,11 @@ export const MovieList = [
         name: "The Interview",
         image: Interview,
         link: "https://www.imdb.com/title/tt2788710/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Iron Giant",
+        image: IronGiant,
+        link: "https://www.imdb.com/title/tt0129167/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Lion King",
@@ -622,6 +760,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0114709/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Treasure Planet",
+        image: TreasurePlanet,
+        link: "https://www.imdb.com/title/tt0133240/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Tropic Thunder",
         image: TropicThunder,
         link: "https://www.imdb.com/title/tt0942385/?ref_=nv_sr_srsg_0",
@@ -630,6 +773,16 @@ export const MovieList = [
         name: "Tron",
         image: Tron,
         link: "https://www.imdb.com/title/tt1104001/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Up",
+        image: Up,
+        link: "https://www.imdb.com/title/tt1049413/?ref_=nv_sr_srsg_3",
+    }, 
+    {
+        name: "WALL·E",
+        image: WallE,
+        link: "https://www.imdb.com/title/tt0910970/?ref_=fn_al_tt_1",
     }, 
     {
         name: "Wallace & Gromit",
@@ -650,6 +803,16 @@ export const MovieList = [
         name: "You Don't Mess with the Zohan",
         image: Zohan,
         link: "https://www.imdb.com/title/tt0960144/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Zootopia",
+        image: Zootopia,
+        link: "https://www.imdb.com/title/tt2948356/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "101 Dalmations",
+        image: Dalmations,
+        link: "https://www.imdb.com/title/tt0055254/?ref_=nv_sr_srsg_2",
     }, 
     {
         name: "127 Hours",

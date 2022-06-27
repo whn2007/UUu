@@ -56,6 +56,22 @@ import TrainDragon from '../assets/movies/traindragon.png'
 import JohnWick from '../assets/movies/johnwick.png'
 import IceAge from '../assets/movies/iceage.png'
 import InsideOut from '../assets/movies/insideout.png'
+import IpMan from '../assets/movies/ipman.png'
+import Logan from '../assets/movies/logan.png'
+import Thailand from '../assets/movies/lostinthailand.png'
+import Penguins from '../assets/movies/marchofthepenguins.png'
+import MIB from '../assets/movies/mib.png'
+import Monsters from '../assets/movies/monsters.png'
+import Mulan from '../assets/movies/mulan.png'
+import MyPeople from '../assets/movies/mypeoplemycountry.png'
+import Narnia from '../assets/movies/narnia.png'
+import NeverSayDie from '../assets/movies/neversaydie.png'
+import NewPoliceStory from '../assets/movies/newpolicestory.png'
+import NowYouSee from '../assets/movies/nowyouseeme.png'
+import ShaunDead from '../assets/movies/shaunofthedead.png'
+import NoWayHome from '../assets/movies/spidermannowayhome.png'
+import Virgin from '../assets/movies/40yearoldvirgin.png'
+import Aristocats from '../assets/movies/thearistocats.png'
 
 export const MovieList = [
     {
@@ -203,6 +219,16 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0268380/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Ip Man",
+        image: IpMan,
+        link: "https://www.imdb.com/title/tt1220719/?ref_=nv_sr_srsg_2",
+    }, 
+    {
+        name: "Inside Out",
+        image: InsideOut,
+        link: "https://www.imdb.com/title/tt2096673/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Iron Man",
         image: IronMan,
         link: "https://www.imdb.com/title/tt0371746/?ref_=nv_sr_srsg_0",
@@ -238,9 +264,31 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt1219289/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Logan",
+        image: Logan,
+        link: "https://www.imdb.com/title/tt3315342/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "Lost in Thailand",
+        image: Thailand,
+        link: "https://www.imdb.com/title/tt2459022/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Mad Max: Fury Road",
         image: Madmax,
         link: "https://www.imdb.com/title/tt1392190/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "March of the Penguins",
+        image: Penguins,
+        link: "https://www.imdb.com/title/tt0428803/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Men in Black",
+        image: MIB,
+        link: "https://www.imdb.com/title/tt2283336/?ref_=nv_sr_srsg_6",
         
     }, 
     {
@@ -253,6 +301,42 @@ export const MovieList = [
         name: "Moneyball",
         image: Moneyball,
         link: "https://www.imdb.com/title/tt1210166/?ref_=fn_al_tt_1",
+        
+    },
+    {
+        name: "Monsters, Inc.",
+        image: Monsters,
+        link: "https://www.imdb.com/title/tt0198781/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Mulan",
+        image: Mulan,
+        link: "https://www.imdb.com/title/tt4566758/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Never Say Die",
+        image: NeverSayDie,
+        link: "https://www.imdb.com/title/tt0095721/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "New Police Story",
+        image: NewPoliceStory,
+        link: "https://www.imdb.com/title/tt0386005/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Now You See Me",
+        image: NowYouSee,
+        link: "https://www.imdb.com/title/tt0386005/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "My People, My Country",
+        image: MyPeople,
+        link: "https://www.imdb.com/title/tt10147382/?ref_=nv_sr_srsg_1",
         
     },
     {
@@ -310,15 +394,36 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0446029/",
     }, 
     {
+        name: "Shaun of the Dead",
+        image: ShaunDead,
+        link: "https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Spider-Man: Into the Spider-Verse",
         image: SpiderVerse,
         link: "https://www.imdb.com/title/tt4633694/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Spider-Man: No Way Home",
+        image: NoWayHome,
+        link: "https://www.imdb.com/title/tt10872600/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Aristocats",
+        image: Aristocats,
+        link: "https://www.imdb.com/title/tt0065421/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Big Short",
         image: BigShort,
         link: "https://www.imdb.com/title/tt1596363/?ref_=fn_al_tt_1",
     }, 
+    {
+        name: "The Chronicles of Narnia",
+        image: Narnia,
+        link: "https://www.imdb.com/title/tt0363771/?ref_=fn_al_tt_1",
+        
+    },
     {
         name: "The Disaster Artist",
         image: Disaster,
@@ -328,6 +433,11 @@ export const MovieList = [
         name: "The Interview",
         image: Interview,
         link: "https://www.imdb.com/title/tt2788710/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The 40-Year-Old Virgin",
+        image: Virgin,
+        link: "https://www.imdb.com/title/tt0405422/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "This Is the End",

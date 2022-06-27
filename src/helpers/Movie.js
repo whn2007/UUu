@@ -131,6 +131,27 @@ import LittleMissSunshine from '../assets/movies/littlemisssunshine.png'
 import CrazyLove from '../assets/movies/crazylove.png'
 import OverTheHedge from '../assets/movies/overthehedge.png'
 import Megamind from '../assets/movies/megamind.png'
+import Lego from '../assets/movies/thelegomovie.png'
+import TwentyOne from '../assets/movies/21jumpstreet.png'
+import Smith from '../assets/movies/smith.png'
+import Ted from '../assets/movies/ted.png'
+import Proposal from '../assets/movies/proposal.png'
+import Superbad from '../assets/movies/superbad.png'
+import Hunchback from '../assets/movies/hunchback.png'
+import SocialNetwork from '../assets/movies/socialnetwork.png'
+import Antman from '../assets/movies/antman.png'
+import DrunkenMaster from '../assets/movies/drunkenmaster.png'
+import HotFuzz from '../assets/movies/hotfuzz.png'
+import Expendables from '../assets/movies/expendables.png'
+import ForbiddenKingdom from '../assets/movies/forbiddenkingdom.png'
+import TheOne from '../assets/movies/theone.png'
+import Thieves from '../assets/movies/thieves.png'
+import Billionaire from '../assets/movies/billionaire.png'
+import China from '../assets/movies/onceuponatimeinchina.png'
+import WhiteCastle from '../assets/movies/whitecastle.png'
+import Ferris from '../assets/movies/ferris.png'
+import Taken from '../assets/movies/taken.png'
+import Roger from '../assets/movies/roger.png'
 
 
 export const MovieList = [
@@ -138,6 +159,11 @@ export const MovieList = [
         name: "A Goofy Movie",
         image: GoofyMovie,
         link: "https://www.imdb.com/title/tt0113198/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "A World Without Thieves",
+        image: Thieves,
+        link: "https://www.imdb.com/title/tt0439884/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Aladdin",
@@ -149,6 +175,12 @@ export const MovieList = [
         name: "American Gangster",
         image: AmericanGangster,
         link: "https://www.imdb.com/title/tt0765429/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Ant-Man",
+        image: Antman,
+        link: "https://www.imdb.com/title/tt0478970/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -257,6 +289,12 @@ export const MovieList = [
         
     }, 
     {
+        name: "Drunken Master",
+        image: DrunkenMaster,
+        link: "https://www.imdb.com/title/tt0080179/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
         name: "Enter the Dragon",
         image: EnterTheDragon,
         link: "https://www.imdb.com/title/tt0070034/?ref_=nv_sr_srsg_0",
@@ -272,6 +310,11 @@ export const MovieList = [
         name: "Fantasia",
         image: Fantasia,
         link: "https://www.imdb.com/title/tt0032455/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "Ferris Bueller's Day Off",
+        image: Ferris,
+        link: "https://www.imdb.com/title/tt0091042/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Finding Nemo",
@@ -329,6 +372,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt8503618/?ref_=nv_sr_srsg_0",
     },
     {
+        name: "Hello Mr. Billionaire",
+        image: Billionaire,
+        link: "https://www.imdb.com/title/tt8529186/?ref_=nv_sr_srsg_0",
+    },
+    {
         name: "Holes",
         image: Holes,
         link: "https://www.imdb.com/title/tt0311289/?ref_=nv_sr_srsg_0",
@@ -337,6 +385,11 @@ export const MovieList = [
         name: "Horrible Bosses",
         image: Horrible,
         link: "https://www.imdb.com/title/tt1499658/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Hot Fuzz",
+        image: HotFuzz,
+        link: "https://www.imdb.com/title/tt0425112/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "How to Train Your Dragon",
@@ -499,6 +552,12 @@ export const MovieList = [
         
     },
     {
+        name: "Mr. & Mrs. Smith",
+        image: Smith,
+        link: "https://www.imdb.com/title/tt0356910/?ref_=nv_sr_srsg_1",
+        
+    },
+    {
         name: "Mulan",
         image: Mulan,
         link: "https://www.imdb.com/title/tt4566758/?ref_=nv_sr_srsg_0",
@@ -550,6 +609,12 @@ export const MovieList = [
         name: "Olympus Has Fallen",
         image: Olympus,
         link: "https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Once Upon a Time in China",
+        image: China,
+        link: "https://www.imdb.com/title/tt0103285/?ref_=fn_al_tt_1",
         
     },
     {
@@ -653,9 +718,24 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt10872600/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Superbad",
+        image: Superbad,
+        link: "https://www.imdb.com/title/tt0829482/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Taken",
+        image: Taken,
+        link: "https://www.imdb.com/title/tt0936501/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Tangled",
         image: Tangled,
         link: "https://www.imdb.com/title/tt0398286/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Ted",
+        image: Ted,
+        link: "https://www.imdb.com/title/tt1637725/?ref_=nv_sr_srsg_8",
     }, 
     {
         name: "The Aristocats",
@@ -690,6 +770,16 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0120917/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "The Expendables",
+        image: Expendables,
+        link: "https://www.imdb.com/title/tt1320253/?ref_=nv_sr_srsg_4",
+    }, 
+    {
+        name: "The Forbidden Kingdom",
+        image: ForbiddenKingdom,
+        link: "https://www.imdb.com/title/tt0865556/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "The Girl with the Dragon Tattoo",
         image: DragonTattoo,
         link: "https://www.imdb.com/title/tt1568346/?ref_=nv_sr_srsg_0",
@@ -698,6 +788,11 @@ export const MovieList = [
         name: "The Grand Budapest Hotel",
         image: GrandBudapest,
         link: "https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Hunchback of Notre Dame",
+        image: Hunchback,
+        link: "https://www.imdb.com/title/tt0116583/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Incredibles",
@@ -713,6 +808,11 @@ export const MovieList = [
         name: "The Iron Giant",
         image: IronGiant,
         link: "https://www.imdb.com/title/tt0129167/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Lego Movie",
+        image: Lego,
+        link: "https://www.imdb.com/title/tt1490017/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Lion King",
@@ -733,6 +833,21 @@ export const MovieList = [
         name: "The Nightmare Before Christmas",
         image: NightmareBeforeChristmas,
         link: "https://www.imdb.com/title/tt0107688/?ref_=nv_sr_srsg_0",
+    },
+    {
+        name: "The One",
+        image: TheOne,
+        link: "https://www.imdb.com/title/tt0267804/?ref_=nv_sr_srsg_3",
+    },
+    {
+        name: "The Proposal",
+        image: Proposal,
+        link: "https://www.imdb.com/title/tt1041829/?ref_=nv_sr_srsg_0",
+    },
+    {
+        name: "The Social Network",
+        image: SocialNetwork,
+        link: "https://www.imdb.com/title/tt1285016/?ref_=nv_sr_srsg_0",
     },
     {
         name: "The Story of the Weeping Camel",
@@ -795,6 +910,16 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt1723121/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "White Castle",
+        image: WhiteCastle,
+        link: "https://www.imdb.com/title/tt0366551/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Who Framed Roger Rabbit",
+        image: Roger,
+        link: "https://www.imdb.com/title/tt0096438/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Wreck-It Ralph",
         image: WreckItRalph,
         link: "https://www.imdb.com/title/tt1772341/?ref_=nv_sr_srsg_0",
@@ -818,6 +943,11 @@ export const MovieList = [
         name: "127 Hours",
         image: Hours,
         link: "https://www.imdb.com/title/tt1542344/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "21 Jump Street",
+        image: TwentyOne,
+        link: "https://www.imdb.com/title/tt1232829/?ref_=nv_sr_srsg_3",
     }, 
     {
         name: "22 Jump Street",

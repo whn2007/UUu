@@ -14,7 +14,7 @@ function Home() {
           <div className="top">
             <h3>We will enable World Peace by 2035.</h3>
             <div>
-              <Link to="/mission">
+              <Link to="/values">
                 <button>Our Values</button>
               </Link>
             </div>
@@ -35,7 +35,7 @@ function Home() {
             so you're the only one left. If you love what you do, <br/>
             then you will naturally become 1/1. <br/>
             <br/>
-            Anyone can become 1/1."
+            Anyone can become 1/1!"
           <h2>- Lord Johnny "Boss" Wu</h2></p>
         </div>
       </div>

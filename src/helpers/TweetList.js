@@ -1,12 +1,42 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1541604932238704640',
+        tweet: "Being retired doesn't mean you stop working. \n Being retired means you no longer HAVE to work just to survive. ",
+        date: 6/27/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541608893167505409',
+        tweet: "The humankind consist of the mind, body, and soul. \n You must practice all 3. \n Mind: Learning. \n Body: Training. \n Soul: Meditating. ",
+        date: 6/27/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541600389866196992',
+        tweet: "A scam is when the price of a product or service is greater than the value it provides. \n A steal is when the value of a product or service is greater than its price. \n Create more value, create less scams.",
+        date: 6/27/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541590522589892608',
+        tweet: "Too often, people conflate price with value. \n If you always think in terms of price, then you're fucked. \n If you regularly think in terms of value, then you're set.",
+        date: 6/27/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541547095198339072',
+        tweet: "You can either support me on my journey, or observe from the sidelines. \n Up 2 u.",
+        date: 6/27/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541578307866464257',
+        tweet: "Too many people are focused on the past. \n My eyes are always towards the future.",
+        date: 6/27/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1541226694438031361',
-        tweet: "\"Don't waste your time, or time will, waste, you~\" - @muse",
+        tweet: "Don't waste your time, or time will, waste, you.",
         date: 6/26/2022
     },
     {  
         link: 'https://twitter.com/JayWuzer/status/1541142572776562689?t=8VtdlTFISazNOOhL6uzPlQ',
-        tweet: "As the wise @Drake once said, YOLO!",
+        tweet: "As the wise Drake once said, YOLO!",
         date: 6/26/2022
     },
     {  
@@ -86,7 +116,7 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1538203450671935488',
-        tweet: "Money talks. \n And I am money LOL! \n 💰/",
+        tweet: "Money talks. \n And I am money. Hence, why I talk so much.",
         date: 6/18/2022
     },
     {
@@ -101,12 +131,12 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1538189318660886528',
-        tweet: "My Chinese name is 吴绿. \n 绿, literally translated, means \"green\". \n I was born to \"green the world\". \n And I will do it. EZ! \n Cause I ALWAYS deliver.",
+        tweet: "My Chinese name is 吴绿. \n 绿, literally translated, means \"green\". \n I was born to \"green the world\". ",
         date: 6/18/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1538064071764811776',
-        tweet: "A person's sense of humor is an indication of their intelligence. \n And my cofounders, @williamxnguyen, @RunDavidMC, and @pokudi_, are funny as FUCK!",
+        tweet: "A person's sense of humor is an indication of their intelligence. \n And my cofounders are funny as FUCK!",
         date: 6/18/2022
     },
     {
@@ -231,17 +261,17 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537565381920845824',
-        tweet: "Only comment on things you have personally experienced. Don't talk sh#t about things you haven't tried yet, that's STOOPID!",
+        tweet: "Only comment on things you have personally experienced. Don't talk shit about things you haven't tried yet, that's STOOPID!",
         date: 6/16/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537506361415593984',
-        tweet: "Skip 1 day of practice, and only you will notice. \n Skip 2 days of practice, and only your close friends will notice. \n Skip 3 days of practice, and the whole world will notice. \n  Never stop practicing, and never stop grinding. \n \"Practice 40 hours a day!\" - @TwoSetViolin",
+        tweet: "Skip 1 day of practice, and only you will notice. \n Skip 2 days of practice, and only your close friends will notice. \n Skip 3 days of practice, and the whole world will notice. \n  Never stop practicing, and never stop grinding. \n \"Practice 40 hours a day!\" - TwoSetViolin",
         date: 6/16/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537592745677598720',
-        tweet: "Nature vs. Nurture is a stoopid argument. \n Your nature determines your potential, and your nurture determines how close to your potential you can reach. \n Just remember, you have a WAY higher potential than you think! \n So never stop grinding 💪/",
+        tweet: "Nature vs. Nurture is a stoopid argument. \n Your nature determines your potential, and your nurture determines how close to your potential you can reach. \n Just remember, you have a WAY higher potential than you think! \n So never stop grinding.",
         date: 6/16/2022
     },
     {
@@ -261,7 +291,7 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537552214486421504',
-        tweet: "I totally failed on this one LOL. \n It's HARD to get started! \n Then again, it takes something like 95% of a rocket's fuel to get out of orbit. \n Good luck @SpaceX, you won't need it!",
+        tweet: "It takes something like 95% of a rocket's fuel to get out of orbit. \n Good luck SpaceX, you won't need it!",
         date: 6/16/2022
     },
     {
@@ -271,17 +301,17 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537146243914211328',
-        tweet: "The truth will always shine. \n The truth cannot be stopped.\n And I am the truth!\n Shout-out to @riorootmusic for coining that term lol 💯/",
+        tweet: "The truth will always shine. \n The truth cannot be stopped.\n And I am the truth!",
         date: 6/15/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537099497800470528',
-        tweet: "For those wondering what my goal is, I want to become an influencer so I can market my own investments LOL. \n $HNS \n @CleanRobotics\n @AtlasPROfilax",
+        tweet: "For those wondering what my goal is, I want to become an influencer so I can market my own investments LOL.",
         date: 6/15/2022
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1537219701448642561',
-        tweet: "Never sacrifice your long-term goals for short-term gains. \n That's why the @USTreasury has more favorable taxes for long-term capital gains.",
+        tweet: "Never sacrifice your long-term goals for short-term gains. \n That's why the U.S. Treasury has more favorable taxes for long-term capital gains.",
         date: 6/15/2022
     },
     {
@@ -290,13 +320,8 @@ export const TweetList = [
         date: 6/15/2022
     },
     {
-        link: 'https://twitter.com/JayWuzer/status/1536744534293368832',
-        tweet: "\"The ends justify the means\"... \n As long as the means aren't hurting anyone, I'm a believer in this and will commit to it 100%! \n Zero know-do gap, cause we 1/1, cause we Big Tymin'!",
-        date: 6/14/2022
-    },
-    {
         link: 'https://twitter.com/JayWuzer/status/1536795267676008448',
-        tweet: "Y'all think I'm ADHD, I just have SO MUCH FOCUS that I can accomplish anything I want... SIMULTANEOUSLY! \n My hobbies this past year were:\n 1-on-1 basketball training with a 6'7 ex-NCAA basketball player (and he struggles against me) \n Improv acting (I am #1) \n Running @NamebaseHQ",
+        tweet: "Y'all think I'm ADHD, I just have SO MUCH FOCUS that I can accomplish anything I want... SIMULTANEOUSLY!",
         date: 6/14/2022
     },
     {
@@ -315,18 +340,8 @@ export const TweetList = [
         date: 6/13/2022
     },
     {
-        link: 'https://twitter.com/JayWuzer/status/1536372865221636097',
-        tweet: "Your life achievements will be a bullet point in mine!\n BAHAHAHAHA this is like the most hilarious quote I've ever come up with! \n But @williamxnguyen and I truly believe it, and that is why we are one of ooooneeeee. \n STOOPID!",
-        date: 6/13/2022
-    },
-    {
         link: 'https://twitter.com/JayWuzer/status/1536415764990742529',
         tweet: "I don't mind talking shit to y'all because life is VERYYY unkind!\n You can't be so fragile if you want to accomplish great things! \n I have sobbed countless times this past week because of the hate I received, but I kept pushing every day because I must. \n I want to be #1!",
-        date: 6/13/2022
-    },
-    {
-        link: 'https://twitter.com/JayWuzer/status/1536416281049436161',
-        tweet: "We will make it happen, because I always know what I want and how to get it. \n I have proved that with my actions, time and time again. \n And I ALWAYS deliver!!!",
         date: 6/13/2022
     },
     {
@@ -336,7 +351,7 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1536518603360546817',
-        tweet: "Anyone is welcome to join UUu! \n We solve problems, have fun, figure shit out, and get things done! \n Join us if you want to eliminate your know-do-gap, which will make you 1/1. \n We don't NEED you though, you're just a nice-to-have 😈/",
+        tweet: "Anyone is welcome to join UUu! \n We solve problems, have fun, figure shit out, and get things done! \n Join us if you want to eliminate your know-do-gap, which will make you 1/1. \n We don't NEED you though, you're just a nice-to-have 😈",
         date: 6/13/2022
     },
 ]

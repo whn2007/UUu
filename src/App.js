@@ -17,10 +17,10 @@ function App() {
         <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/UUu" exact element={<Home />} />
-          <Route path="/mission" exact element={<Mission />} />
-          <Route path="/about" exact element={<About />} />
-          <Route path="/founder" exact element={<Johnny />} />
-          <Route path="/shoutouts" exact element={<Shoutouts />} />
+          <Route path="/values" exact element={<Mission />} />
+          <Route path="/founders" exact element={<About />} />
+          <Route path="/boss" exact element={<Johnny />} />
+          <Route path="/inspirations" exact element={<Shoutouts />} />
           <Route path="*" exact element={<Home/>} />
         </Routes>
       </Router>

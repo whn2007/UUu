@@ -68,7 +68,7 @@ function Johnny() {
         • Ambassador to China<br/>
         • A-List Actor<br/>
         • Family Documentary<br/>
-        • NBA All-Star Celebrity Basketball Game player<br/>
+        • NBA All-Star Celebrity Basketball Game Player<br/>
         • Nobel Prize<br/>
         • World Peace<br/>
         • .uuu ICANN TLD<br/>

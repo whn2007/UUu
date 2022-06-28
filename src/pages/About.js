@@ -21,7 +21,7 @@ function About() {
 
       <div className="fundraising">
         <img src={Fundraising}/>
-        <h2>William Nguyen & Lord "Boss" JayWuzer, CTO & CEO of UUu LLC</h2>
+        <h2>William "Boss Jr." Nguyen & Lord Johnny "Boss" Wu, CTO & CEO of UUu LLC</h2>
       </div> 
 
       <div className="aboutList">
@@ -40,7 +40,7 @@ function About() {
       </div>
 
       <div className="originPitch">
-        <h1>Letter from Lord "Boss" JayWuzer</h1>
+        <h1>Letter from Lord Johnny "Boss" Wu</h1>
         <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>

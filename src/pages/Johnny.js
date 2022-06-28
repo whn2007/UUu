@@ -17,7 +17,7 @@ function Johnny() {
     <div className='johnny'>
       <div className='intro'>
         <div className='title'>
-          <h1>Lord Johnny Wu</h1>
+          <h1>Lord Johnny "Boss" Wu</h1>
         </div>
       </div>
       
@@ -62,12 +62,12 @@ function Johnny() {
       <div className='ongoing'>
         <h1>Ongoing Pursuits</h1>
         <p>
+        • #1 Hit Album<br/>
         • #1 YouTuber<br/>
-        • #1 hit album<br/>
         • ABRSM Grade 8<br/>
         • Ambassador to China<br/>
-        • A-List Celebrity Actor<br/>
-        • Family documentary<br/>
+        • A-List Actor<br/>
+        • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game player<br/>
         • Nobel Prize<br/>
         • World Peace<br/>

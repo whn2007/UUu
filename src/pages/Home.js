@@ -12,7 +12,7 @@ function Home() {
       <div className="header">
         <div className="intro">
           <div className="top">
-            <h3>We Will Enable World Peace</h3>
+            <h3>We will enable World Peace by 2035.</h3>
             <div>
               <Link to="/mission">
                 <button>Our Values</button>
@@ -36,7 +36,7 @@ function Home() {
             then you will naturally become 1/1. <br/>
             <br/>
             Anyone can become 1/1."
-          <h2>- Lord "Boss" JayWuzer</h2></p>
+          <h2>- Lord Johnny "Boss" Wu</h2></p>
         </div>
       </div>
 

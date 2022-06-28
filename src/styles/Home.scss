@@ -74,7 +74,7 @@
                 margin-top: 3em;
 
                 h3{
-                    font-size: 1.5rem;
+                    font-size: 1.2rem;
                 }
 
                 button{
@@ -166,7 +166,7 @@
             .top{  
                 margin-top: 7em;
                 h3{
-                    font-size: 3rem;
+                    font-size: 2.3rem;
                 }
                 button{
                     font-size: 1.5rem;
@@ -209,6 +209,7 @@
     /* tablets landscape*/
     @media all and (min-width: 1024px) and (orientation:landscape) {
         .intro{
+            height: 95vh;
             .top{  
                 margin-top: 4em;
                 h3{

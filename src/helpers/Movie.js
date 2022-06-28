@@ -152,6 +152,12 @@ import WhiteCastle from '../assets/movies/whitecastle.png'
 import Ferris from '../assets/movies/ferris.png'
 import Taken from '../assets/movies/taken.png'
 import Roger from '../assets/movies/roger.png'
+import KungFuJungle from '../assets/movies/kungfujungle.png'
+import MurderMystery from '../assets/movies/murdermystery.png'
+import LittleBigSoldier from '../assets/movies/littlebigsoldier.png'
+import Matrix from '../assets/movies/matrix.png'
+import MeanGirls from '../assets/movies/meangirls.png'
+import GranTorino from '../assets/movies/grantorino.png'
 
 
 export const MovieList = [
@@ -357,6 +363,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0119217/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Gran Torino",
+        image: GranTorino,
+        link: "https://www.imdb.com/title/tt1205489/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Guardians of the Galaxy",
         image: Guardians,
         link: "https://www.imdb.com/title/tt2015381/?ref_=fn_al_tt_1",
@@ -457,6 +468,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt8946378/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Kung Fu Jungle",
+        image: KungFuJungle,
+        link: "hhttps://www.imdb.com/title/tt2952602/?ref_=nv_sr_srsg_0",
+    }, 
+    {
         name: "Kung Fu Panda",
         image: Kungfu,
         link: "https://www.imdb.com/title/tt0441773/?ref_=nv_sr_srsg_0",
@@ -475,6 +491,11 @@ export const MovieList = [
         name: "Limitless",
         image: Limitless,
         link: "https://www.imdb.com/title/tt1219289/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Little Big Soldier",
+        image: LittleBigSoldier,
+        link: "https://www.imdb.com/title/tt1319718/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Little Miss Sunshine",
@@ -498,6 +519,12 @@ export const MovieList = [
         
     }, 
     {
+        name: "Matrix",
+        image: Matrix,
+        link: "https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1",
+        
+    }, 
+    {
         name: "Madagascar",
         image: Madagascar,
         link: "https://www.imdb.com/title/tt0351283/?ref_=nv_sr_srsg_0",
@@ -507,6 +534,12 @@ export const MovieList = [
         name: "March of the Penguins",
         image: Penguins,
         link: "https://www.imdb.com/title/tt0428803/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Mean Girls",
+        image: MeanGirls,
+        link: "https://www.imdb.com/title/tt0377092/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -561,6 +594,12 @@ export const MovieList = [
         name: "Mulan",
         image: Mulan,
         link: "https://www.imdb.com/title/tt4566758/?ref_=nv_sr_srsg_0",
+        
+    },
+    {
+        name: "Murder Mystery",
+        image: MurderMystery,
+        link: "https://www.imdb.com/title/tt1618434/?ref_=nv_sr_srsg_0",
         
     },
     {

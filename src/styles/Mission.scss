@@ -19,6 +19,7 @@
             margin: 0.5em;
             font-size: 1.5rem;
             color: $red;
+            text-align: center;
         }
     }
 
@@ -40,6 +41,7 @@
             margin: 0.3em;
             font-size: 1.2rem;
             color: $black;
+            width: 65%;
         }
 
         .integrity{
@@ -113,6 +115,7 @@
             }
             p{
                 font-size: 0.8rem;
+                width: 100%;
             }
     
             .integrity{
@@ -133,7 +136,7 @@
         }
     }
 
-    @media all and (min-width: 768px) and (max-width: 1024px) {
+    @media all and (min-width: 768px) and (max-width: 1023px) {
         .header{
             margin-bottom: 0em;
         }
@@ -148,11 +151,15 @@
                 }
                 p{
                     font-size: 1.2rem;
+                    width: 80%;
                 }
             }
 
             .right{
-
+                p{
+                    font-size: 1.2rem;
+                    width: 90%;
+                }
             }
             
             .integrity{

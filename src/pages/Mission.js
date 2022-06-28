@@ -8,7 +8,7 @@ function Mission() {
     <div className="mission">
       <div className="header">
         <h1>Our Values</h1>
-        <p>We solve problems, have fun, figure sh!t out, and get things done. </p>
+        <p>We solve problems, have fun, figure shit out, and get things done. </p>
       </div>
 
       <div className="value">

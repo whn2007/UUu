@@ -162,6 +162,46 @@ import GranTorino from '../assets/movies/grantorino.png'
 
 export const MovieList = [
     {
+        name: "101 Dalmations",
+        image: Dalmations,
+        link: "https://www.imdb.com/title/tt0055254/?ref_=nv_sr_srsg_2",
+    }, 
+    {
+        name: "127 Hours",
+        image: Hours,
+        link: "https://www.imdb.com/title/tt1542344/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "21 Jump Street",
+        image: TwentyOne,
+        link: "https://www.imdb.com/title/tt1232829/?ref_=nv_sr_srsg_3",
+    }, 
+    {
+        name: "22 Jump Street",
+        image: TwentyTwo,
+        link: "https://www.imdb.com/title/tt2294449/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "3 Idiots",
+        image: Idiots,
+        link: "https://www.imdb.com/title/tt1187043/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "47 Ronin",
+        image: Ronin,
+        link: "https://www.imdb.com/title/tt1335975/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "50 First Dates",
+        image: FirstDates,
+        link: "https://www.imdb.com/title/tt0343660/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "500 Days of Summer",
+        image: Summer,
+        link: "https://www.imdb.com/title/tt1022603/?ref_=fn_al_tt_1",
+    }, 
+    {
         name: "A Goofy Movie",
         image: GoofyMovie,
         link: "https://www.imdb.com/title/tt0113198/?ref_=nv_sr_srsg_0",
@@ -972,45 +1012,5 @@ export const MovieList = [
         name: "Zootopia",
         image: Zootopia,
         link: "https://www.imdb.com/title/tt2948356/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "101 Dalmations",
-        image: Dalmations,
-        link: "https://www.imdb.com/title/tt0055254/?ref_=nv_sr_srsg_2",
-    }, 
-    {
-        name: "127 Hours",
-        image: Hours,
-        link: "https://www.imdb.com/title/tt1542344/?ref_=fn_al_tt_1",
-    }, 
-    {
-        name: "21 Jump Street",
-        image: TwentyOne,
-        link: "https://www.imdb.com/title/tt1232829/?ref_=nv_sr_srsg_3",
-    }, 
-    {
-        name: "22 Jump Street",
-        image: TwentyTwo,
-        link: "https://www.imdb.com/title/tt2294449/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "3 Idiots",
-        image: Idiots,
-        link: "https://www.imdb.com/title/tt1187043/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "47 Ronin",
-        image: Ronin,
-        link: "https://www.imdb.com/title/tt1335975/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "50 First Dates",
-        image: FirstDates,
-        link: "https://www.imdb.com/title/tt0343660/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "500 Days of Summer",
-        image: Summer,
-        link: "https://www.imdb.com/title/tt1022603/?ref_=fn_al_tt_1",
     }, 
 ]

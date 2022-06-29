@@ -25,6 +25,7 @@ import EightyDays from '../assets/novels/aroundtheworldin80days.png'
 import Light from '../assets/novels/allthelightwecannotsee.png'
 import Aesop from '../assets/novels/aesop.png'
 import HuckleberryFinn from '../assets/novels/theadventuresofhuckleberryfinn.png'
+import Journey from '../assets/novels/journeytothecenteroftheearth.png'
 
 
 export const NovelsList = [
@@ -70,7 +71,7 @@ export const NovelsList = [
     }, 
     {
         name: "Journey to the Center of the Earth",
-        image: Bone,
+        image: Journey,
         link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth",
     }, 
     {

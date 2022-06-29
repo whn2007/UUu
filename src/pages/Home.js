@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import "../styles/Home.scss";
 import Johnny from '../assets/profilepics/jaywuzer.png'
 import TextBubble from '../assets/textbubble.png'
+import Merch from '../assets/jacket.png'
 
 function Home() {
   return (
@@ -42,6 +43,7 @@ function Home() {
 
       <div className="merch">
         <h2>Check Out Our Merch</h2>
+        <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
         <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>
 

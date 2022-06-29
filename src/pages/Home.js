@@ -42,7 +42,7 @@ function Home() {
       </div>
 
       <div className="merch">
-        <h2>Check Out Our Merch</h2>
+        <h1>Check Out Our Merch</h1>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
         <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>

@@ -1,5 +1,35 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1541985130318688256',
+        tweet: "I don't do sponsorships, I do shout-outs. \n I spread the wealth, I don't take it.",
+        date: 6/28/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541944497788973057',
+        tweet: "There are always consequences, both good and bad, to every action and inaction. \n And I pay all my debts in full.",
+        date: 6/28/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1541941342518988802',
+        tweet: "Life is a series of tests, and I pass with flying colors.",
+        date: 6/28/2022
+    },
+    {  
+        link: 'I hold grudges but I also forgive quickly.',
+        tweet: "https://twitter.com/JayWuzer/status/1541839371128623104",
+        date: 6/28/2022
+    },
+    {  
+        link: 'You\'re not a real human being until you\'re like 25.',
+        tweet: "https://twitter.com/JayWuzer/status/1541826541562122245",
+        date: 6/28/2022
+    },
+    {  
+        link: 'As the great Ben Shapiro once said, "facts don\'t care about your feelings".',
+        tweet: "https://twitter.com/JayWuzer/status/1541787317563564032",
+        date: 6/28/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1541604932238704640',
         tweet: "Being retired doesn't mean you stop working. \n Being retired means you no longer HAVE to work just to survive. ",
         date: 6/27/2022
@@ -57,11 +87,6 @@ export const TweetList = [
     {  
         link: 'https://twitter.com/JayWuzer/status/1540076952362442752',
         tweet: "Here's my definition of the metaverse: not real.",
-        date: 6/23/2022
-    },
-    {  
-        link: 'https://twitter.com/JayWuzer/status/1540046697576878080',
-        tweet: "I pay all my debts, good or bad, in full.",
         date: 6/23/2022
     },
     {  

@@ -1,5 +1,5 @@
-import Kanpeki from "../assets/kanpeki.png"
-import Sumire from "../assets/sumire.png"
+import Kanpeki from "../assets/ballers/kanpeki.png"
+import Sumire from "../assets/ballers/sumire.png"
 
 export const BallersList = [
     {

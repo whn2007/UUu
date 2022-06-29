@@ -7,10 +7,45 @@ import { BallersList } from "../helpers/Ballers"
 import { AnimeList } from "../helpers/Anime"
 import { MovieList } from "../helpers/Movie"
 import { ShowsList } from '../helpers/Shows';
+import { NovelsList } from '../helpers/Novels';
 
 function Shoutouts() {
   return (
     <div className='shoutouts'>
+      
+        <div className='header'>
+          <h1>Ballers</h1>
+        </div>
+
+        <div className="aboutList">
+          {BallersList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+          <h1>Novels</h1>
+        </div>
+
+        <div className="aboutList">
+          {NovelsList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
 
         <div className='header'>
           <h1>Anime</h1>
@@ -52,23 +87,6 @@ function Shoutouts() {
 
         <div className="aboutList">
           {ShowsList.map((aboutItem, key) => {
-            return (
-              <ShoutOutItem
-                key={key}
-                image={aboutItem.image}
-                name={aboutItem.name}
-                link={aboutItem.link}
-              />
-            );
-          })}
-        </div>
-
-        <div className='header'>
-          <h1>Ballers</h1>
-        </div>
-
-        <div className="aboutList">
-          {BallersList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
                 key={key}

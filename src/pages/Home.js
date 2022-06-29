@@ -40,6 +40,11 @@ function Home() {
         </div>
       </div>
 
+      <div className="merch">
+        <h2>Check Out Our Merch</h2>
+        <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
+      </div>
+
       <Footer className = "footer"/>
 
     </div>

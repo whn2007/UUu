@@ -1,13 +1,13 @@
 
-import Ekster from "../assets/ekster.png"
-import Quikflip from "../assets/quikflip.png"
-import GrooveLife from "../assets/groove_life.png"
-import EstablishedTitles from "../assets/established_titles.png"
-import CleanRobotics from "../assets/clean_robotics.png"
-import HNS from "../assets/hns.png"
-import NemuNemu from "../assets/nemu_nemu.png"
-import DrSquatch from "../assets/dr_squatch.png"
-import Atlas from "../assets/atlas.png"
+import Ekster from "../assets/products/ekster.png"
+import Quikflip from "../assets/products/quikflip.png"
+import GrooveLife from "../assets/products/groove_life.png"
+import EstablishedTitles from "../assets/products/established_titles.png"
+import CleanRobotics from "../assets/products/clean_robotics.png"
+import HNS from "../assets/products/hns.png"
+import NemuNemu from "../assets/products/nemu_nemu.png"
+import DrSquatch from "../assets/products/dr_squatch.png"
+import Atlas from "../assets/products/atlas.png"
 
 export const ShoutOutList = [
     {

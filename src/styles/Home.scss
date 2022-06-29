@@ -64,6 +64,26 @@
         }
     }
 
+
+    .merch{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 2em;
+        h2{
+            margin: 0.1em;
+            text-align: center;
+            font-size: 2rem;
+            color: $red;
+        }
+        button{
+            cursor: pointer;
+            color: $black;
+            font-size: 1em;
+            margin: 0em;
+        }
+    }
+
     /* smartphones portrait*/
     @media all and (min-width: 375px) and (max-width: 767px) and (orientation:portrait) {
         .intro{
@@ -111,6 +131,18 @@
                 h2{
                     font-size: 1rem;
                 }
+            }
+        }
+
+        .merch{
+            margin-bottom: 2em;
+            h2{
+                margin: 0.1em;
+                font-size: 1.5rem;
+            }
+            button{
+                font-size: 0.8em;
+                margin: 0em;
             }
         }
     }

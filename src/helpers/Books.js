@@ -63,6 +63,27 @@ import UselessJapaneseInventions from '../assets/books/uselessjapaneseinventions
 import NationsFail from '../assets/books/whynationsfail.png'
 import HotAir from '../assets/books/withoutthehotair.png'
 import ZeroToOne from '../assets/books/zerotoone.png'
+import GettingToYes from '../assets/books/gettingtoyes.png'
+import GetTogether from '../assets/books/gettogether.png'
+import GoGiver from '../assets/books/gogiver.png'
+import GoodStrategyBadStrategy from '../assets/books/goodstrategybadstrategy.png'
+import Guiness from '../assets/books/guinessworldrecords.png'
+import Hooked from '../assets/books/hooked(nireyal).png'
+import HowAsiaWorks from '../assets/books/howasiaworks.png'
+import HowGoogleWorks from '../assets/books/howgoogleworks.png'
+import HowToMakeMoneyInStocks from '../assets/books/howtomakemoneyinstocks.png'
+import HowToTalkToAnyone from '../assets/books/howtotalktoanyone.png'
+import HowToWinFriends from '../assets/books/howtowinfriends.png'
+import HowWouldYouMoveMountFuji from '../assets/books/howwouldyoumovemountfuji.png'
+import Infinity from '../assets/books/infinity.png'
+import MadeToStick from '../assets/books/madetostick.png'
+import MakeItClear from '../assets/books/makeitclear.png'
+import Physics from '../assets/books/physicsforscientistsandengineers.png'
+import PowerSystemAnalysis from '../assets/books/powersystemanalysis.png'
+import PracticalLockPicking from '../assets/books/practicallockpicking.png'
+import HeadMassTransfer from '../assets/books/principlesofheadandmasstransfer.png'
+import ModernChemistry from '../assets/books/principlesofmodernchemistry.png'
+
 
 export const BooksList = [
     {
@@ -110,6 +131,11 @@ export const BooksList = [
         image: Bold,
         link: "https://www.amazon.com/Bold-audiobook/dp/B00RY8CCRK/ref=sr_1_2?crid=DO1VZ8UDTKDU&keywords=Bold&qid=1656538632&s=books&sprefix=bol%2Cstripbooks%2C129&sr=1-2",
     }, 
+        {
+        name: "Boy Scouts Handbook",
+        image: ScoutHandbook,
+        link: "https://www.amazon.com/Boy-Scouts-Handbook-First-1911/dp/B08KQXJSW4/ref=sr_1_2?crid=1FM3LS6UIYY47&keywords=scout+handbook&qid=1656540221&s=books&sprefix=scout+hand%2Cstripbooks%2C125&sr=1-2",
+    },
     {
         name: "Building A Story Brand",
         image: BuildingAStoryBrand,
@@ -166,9 +192,104 @@ export const BooksList = [
         link: "https://www.amazon.com/Freakonomics-Revised-Expanded-Economist-Everything/dp/0061234001/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656539201&sr=1-1",
     },
     {
+        name: "Get Together",
+        image: GetTogether,
+        link: "https://www.amazon.com/Get-Together-build-community-people/dp/1732265194/ref=sr_1_1?crid=1G8QW52V51O7R&keywords=get+together&qid=1656547905&s=books&sprefix=get+together%2Cstripbooks%2C183&sr=1-1",
+    },
+    {
         name: "Getting Things Done",
         image: GettingThingsDone,
         link: "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?crid=2JCSLZJJOIS3I&keywords=getting+things+done&qid=1656539389&s=books&sprefix=getting+things+don%2Cstripbooks%2C125&sr=1-1",
+    },
+    {
+        name: "Getting To Yes",
+        image: GettingToYes,
+        link: "https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757",
+    },
+    {
+        name: "Good Strategy/Bad Strategy",
+        image: GoodStrategyBadStrategy,
+        link: "https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179/ref=sr_1_1?crid=2N0PSTX2JI6CZ&keywords=good+strategy+bad+strategy&qid=1656548042&s=books&sprefix=good+strate%2Cstripbooks%2C145&sr=1-1",
+    },
+    {
+        name: "Guinness World Records 2021",
+        image: Guiness,
+        link: "https://www.amazon.com/Guinness-World-Records-2021/dp/1913484009/ref=sr_1_1?crid=358EIE6YJZDSC&keywords=guiness&qid=1656548084&s=books&sprefix=guines%2Cstripbooks%2C152&sr=1-1",
+    },
+    {
+        name: "Hooked",
+        image: Hooked,
+        link: "https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656548176&sr=1-4",
+    },
+    {
+        name: "How Asia Works",
+        image: HowAsiaWorks,
+        link: "https://www.amazon.com/How-Asia-Works-Success-Failure/dp/080211959X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656548274&sr=1-1",
+    },
+    {
+        name: "How Google Works",
+        image: HowGoogleWorks,
+        link: "https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656548314&sr=1-1",
+    },
+    {
+        name: "How To Make Money in Stocks",
+        image: HowToMakeMoneyInStocks,
+        link: "https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133/ref=sr_1_1?crid=3I8LT8RKZ8Y2M&keywords=how+to+make+money+in+stocks&qid=1656548415&s=books&sprefix=how+to+make+%2Cstripbooks%2C148&sr=1-1",
+    },
+    {
+        name: "How To Talk to Anyone",
+        image: HowToTalkToAnyone,
+        link: "https://www.amazon.com/How-Talk-Anyone-Success-Relationships/dp/007141858X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1656548500&sr=1-1",
+    },
+    {
+        name: "How to Win Friends & Influence People",
+        image: HowToWinFriends,
+        link: "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/ref=sr_1_3?crid=1FRSV01F5YKOY&keywords=how+to+win&qid=1656548650&s=books&sprefix=how+to+win%2Cstripbooks%2C162&sr=1-3",
+    },
+    {
+        name: "How Would You Move Mount Fuji?",
+        image: HowWouldYouMoveMountFuji,
+        link: "https://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494/ref=sr_1_1?crid=3C1XQS62Q6X44&keywords=how+would+you+move+mount+fuji&qid=1656548704&s=books&sprefix=how+would+you+move%2Cstripbooks%2C157&sr=1-1",
+    },
+    {
+        name: "Infinity",
+        image: Infinity,
+        link: "https://www.amazon.com/Infinity-Jonathan-Hickman/dp/0785184236/ref=sr_1_3?crid=2636J2WS6W0BK&keywords=infinity+book&qid=1656548841&s=books&sprefix=infinity+book%2Cstripbooks%2C181&sr=1-3",
+    },
+    {
+        name: "Made to Stick",
+        image: MadeToStick,
+        link: "https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656548887&sr=1-1",
+    },
+    {
+        name: "Make It Clear",
+        image: MakeItClear,
+        link: "https://www.amazon.com/Make-Clear-Speak-Persuade-Inform/dp/0262539381/ref=sr_1_1?crid=2XIUCM5B2EZ3G&keywords=make+it+clear&qid=1656548940&s=books&sprefix=make+it+clea%2Cstripbooks%2C148&sr=1-1",
+    },
+    {
+        name: "Physics for Scientists and Engineers",
+        image: Physics,
+        link: "https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0133942651/ref=sr_1_1?keywords=physics+for+scientists+and+engineers&qid=1656548988&s=books&sprefix=physics+for+sci%2Cstripbooks%2C153&sr=1-1",
+    },
+    {
+        name: "Power System Analysis",
+        image: PowerSystemAnalysis,
+        link: "https://www.amazon.com/Analysis-Grainger-Professor-Electrical-Engineering/dp/0070612935/ref=sr_1_1?keywords=power+system+analysis&qid=1656549088&s=books&sprefix=power+system+%2Cstripbooks%2C188&sr=1-1",
+    },
+    {
+        name: "Practical Lock Picking",
+        image: PracticalLockPicking,
+        link: "https://www.amazon.com/Practical-Lock-Picking-Physical-Penetration/dp/1597499897/ref=sr_1_1?keywords=practical+lock+picking&qid=1656549140&s=books&sprefix=practical+lock+pi%2Cstripbooks%2C153&sr=1-1",
+    },
+    {
+        name: "Head Mass Transfer",
+        image: HeadMassTransfer,
+        link: "https://www.amazon.com/Principles-Heat-Transfer-Annika-Brayan/dp/1641721316",
+    },
+    {
+        name: "Modern Chemistry",
+        image: ModernChemistry,
+        link: "https://www.amazon.com/Principles-Heat-Transfer-Annika-Brayan/dp/1641721316",
     },
     {
         name: "Probability",
@@ -191,12 +312,7 @@ export const BooksList = [
         link: "https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656539598&sr=1-1",
     },
     {
-        name: "Renewable and Efficient Electric Power Systems",
-        image: Renewable,
-        link: "https://www.amazon.com/Renewable-Efficient-Electric-Power-Systems/dp/1118140621/ref=sr_1_1?crid=571APAGTO6DW&keywords=renewable+and+efficient+electric+power+systems&qid=1656539672&sprefix=renewable+and+%2Caps%2C123&sr=8-1",
-    },
-    {
-        name: "Renewable and Efficient Electric Power Systems",
+        name: "Renewable Power Systems",
         image: Renewable,
         link: "https://www.amazon.com/Renewable-Efficient-Electric-Power-Systems/dp/1118140621/ref=sr_1_1?crid=571APAGTO6DW&keywords=renewable+and+efficient+electric+power+systems&qid=1656539672&sprefix=renewable+and+%2Caps%2C123&sr=8-1",
     },
@@ -219,11 +335,6 @@ export const BooksList = [
         name: "Rules for Revolutionaries",
         image: RulesForRevolutionaries,
         link: "https://www.amazon.com/Rules-Revolutionaries-Organizing-Change-Everything/dp/1603587276/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1656540012&sr=1-1",
-    },
-    {
-        name: "Boy Scouts Handbook",
-        image: ScoutHandbook,
-        link: "https://www.amazon.com/Boy-Scouts-Handbook-First-1911/dp/B08KQXJSW4/ref=sr_1_2?crid=1FM3LS6UIYY47&keywords=scout+handbook&qid=1656540221&s=books&sprefix=scout+hand%2Cstripbooks%2C125&sr=1-2",
     },
     {
         name: "Selling the Dream",
@@ -289,6 +400,11 @@ export const BooksList = [
         name: "The Greatest Salesman in the World",
         image: GreatestSalesman,
         link: "https://www.amazon.com/Greatest-Salesman-World/dp/B01M0AX9EB/ref=sr_1_1?crid=3163RPWZG1UOR&keywords=the+greatest+salesman&qid=1656540940&s=books&sprefix=the+greatest+salesma%2Cstripbooks%2C124&sr=1-1",
+    },
+    {
+        name: "The Go-Giver",
+        image: GoGiver,
+        link: "https://www.amazon.com/Go-Giver-Little-Story-Powerful-Business/dp/0241976278/ref=sr_1_1?crid=2RY1LX9OX2GJ2&keywords=go+giver&qid=1656547993&s=books&sprefix=go+giver%2Cstripbooks%2C152&sr=1-1",
     },
     {
         name: "The Happiness Advantage",
@@ -369,5 +485,30 @@ export const BooksList = [
         name: "Think and Grow Rich",
         image: ThinkAndGrowRich,
         link: "https://www.amazon.com/Think-Grow-Rich-Deluxe-Complete/dp/1585426598/ref=sr_1_4?crid=1V3CTT7RQHRRU&keywords=think+and+grow+rich&qid=1656541856&s=books&sprefix=think+and%2Cstripbooks%2C147&sr=1-4",
+    },
+    {
+        name: "Tokyo Underworld",
+        image: TokyoUnderworld,
+        link: "https://www.amazon.com/Tokyo-Underworld-Times-American-Gangster/dp/0679419764/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656542205&sr=1-1",
+    },
+    {
+        name: "Unuseless Japanese Inventions",
+        image: UselessJapaneseInventions,
+        link: "https://www.amazon.com/Big-Bento-Unuseless-Japanese-Inventions/dp/0393326764/ref=sr_1_1?crid=B5NMEWXD505P&keywords=useless+japanese+inventions&qid=1656542278&s=books&sprefix=useless+jap%2Cstripbooks%2C120&sr=1-1",
+    },
+    {
+        name: "Why Nations Fail",
+        image: NationsFail,
+        link: "https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656542363&sr=1-1",
+    },
+    {
+        name: "Without the Hot Air",
+        image: HotAir,
+        link: "https://www.amazon.com/Sustainable-Energy-Without-Hot-Air-dp-1906860017/dp/1906860017/ref=mt_other?_encoding=UTF8&me=&qid=1656543707",
+    },
+    {
+        name: "Zero to One",
+        image: ZeroToOne,
+        link: "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656543752&sr=1-1",
     },
 ];

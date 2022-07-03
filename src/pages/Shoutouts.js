@@ -2,6 +2,7 @@ import React from 'react'
 import Footer from "../components/Footer";
 import "../styles/Shoutouts.scss"
 import ShoutOutItem from '../components/ShoutOutItem';
+import YoutubeItem from '../components/YoutubeItem';
 import { ShoutOutList } from "../helpers/ShoutOutList";
 import { BallersList } from "../helpers/Ballers"
 import { AnimeList } from "../helpers/Anime"
@@ -12,10 +13,28 @@ import { PlaysList } from '../helpers/Plays';
 import { RestaurantsList } from '../helpers/Restaurants';
 import { BooksList } from '../helpers/Books';
 import { MusicList } from '../helpers/Music';
+//Youtube Videos
+import { VideoList } from '../helpers/Youtube';
 
 function Shoutouts() {
   return (
     <div className='shoutouts'>
+
+        <div className='header'>
+          <h1>Videos</h1>
+        </div>
+
+        <div className="youtubeList">
+          {VideoList.map((aboutItem, key) => {
+            return (
+              <YoutubeItem
+                key={key}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
       
         <div className='header'>
           <h1>Ballers</h1>

@@ -1,5 +1,30 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1542551339489669121',
+        tweet: "My goal is World Peace by 2035. \n I will bully any and all villains I come across into becoming good people.",
+        date: 6/30/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1542500465878790145',
+        tweet: "I only have one speed: Go",
+        date: 6/30/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1542425895985508352',
+        tweet: "I have a MASSIVE ego, but it will NEVER get in the way. \n Because my eyes are ALWAYS on the prize.",
+        date: 6/30/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1542407716332642304',
+        tweet: "I love to get proven wrong because then I learn something new.",
+        date: 6/30/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1542331201519685633',
+        tweet: "Y'all know why I'm Big Tymin'? \n Cause I'm not afraid to have fun. \n It's that simple.",
+        date: 6/29/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1541985130318688256',
         tweet: "I don't do sponsorships, I do shout-outs. \n I spread the wealth, I don't take it.",
         date: 6/28/2022

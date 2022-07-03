@@ -18,6 +18,7 @@ function Johnny() {
       <div className='intro'>
         <div className='title'>
           <h1>Lord Johnny "Boss" Wu</h1>
+          <h2>"We only have one planet and it's currently on a crash course to zero. I must enable World Peace by 2035 so we can enable true sustainability by 2045."</h2>
         </div>
       </div>
       
@@ -42,8 +43,8 @@ function Johnny() {
       <div className='achievements'>
         <h1>Achievements</h1>
         <p>
-        • #1 expert in the world on Handshake (HNS) - present<br/>
-        • Reached 10k organic views on YouTube within 6 days of first video upload - June 17th, 2022<br/>
+        • #1 expert in the world on Handshake (HNS) — present<br/>
+        • Reached 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
         • Promoted to Head of Product (equivalent to CEO) at Namebase — May 11th, 2022 <br/>
         • UUu LLC, CEO — March 14th, 2022<br/>
         • Advanced open water diver — April 26th, 2019<br/>
@@ -69,6 +70,7 @@ function Johnny() {
         • A-List Actor<br/>
         • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game Player<br/>
+        • Netflix Comedy Special<br/>
         • Nobel Prize<br/>
         • World Peace<br/>
         • .uuu ICANN TLD<br/>

@@ -17,6 +17,12 @@
                 font-size: 4rem;
                 color: $red;
             }
+            h2{
+                padding: 0em 1em 0em 1em;
+                color: $red;
+                margin: 0;
+                font-size: 1.5em;
+            }
         }
     }
 
@@ -168,12 +174,12 @@
             height: 100vh;
                       
             .title{
-                padding-top: 11em;
+                padding-top: 5em;
                 h2{
-                    font-size: 2rem;
+                    font-size: 0.9rem;
                 }
                 h1{
-                    font-size: 2.5rem;
+                    font-size: 1.8rem;
                 }
             }
         }
@@ -288,7 +294,7 @@
             .title{
                 padding-top: 5em;
                 h2{
-                    font-size: 3rem;
+                    font-size: 1rem;
                 }
                 h1{
                     font-size: 3rem;
@@ -367,12 +373,12 @@
             height: 95vh;
                       
             .title{
-                padding-top: 12em;
+                padding-top: 5em;
                 h2{
-                    font-size: 4rem;
+                    font-size: 2rem;
                 }
                 h1{
-                    font-size: 4rem;
+                    font-size: 3.5rem;
                 }
             }
         }
@@ -460,7 +466,7 @@
             height: 90vh;
                         
             .title{
-                padding-top: 10em;
+                padding-top: 5em;
                 h1{
                     font-size: 5rem;
                 }
@@ -531,6 +537,10 @@
         .intro{
             background-size: 100%;
             height: 105vh;
+
+            .title{
+                padding-top: 6em;
+            }
         }
     }
     

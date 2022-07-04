@@ -33,6 +33,7 @@ import { PoliticalList } from '../helpers/PoliticalVideos';
 import { SportsList } from '../helpers/SportsVideos';
 import { TvList } from '../helpers/TvVideos';
 import { VlogsList } from '../helpers/VlogsVideos';
+import {ShortsList} from '../helpers/ShortsVideos'
 
 
 function Shoutouts() {
@@ -203,6 +204,21 @@ function Shoutouts() {
                 key={key}
                 image={aboutItem.image}
                 name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+          <h1>Youtube Shorts</h1>
+        </div>
+
+        <div className="youtubeList">
+          {ShortsList.map((aboutItem, key) => {
+            return (
+              <YoutubeItem
+                key={key}
                 link={aboutItem.link}
               />
             );

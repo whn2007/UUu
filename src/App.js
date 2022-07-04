@@ -11,16 +11,16 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="">
         <ScrollToTop/>
         <Navbar />
         <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/UUu" exact element={<Home />} />
-          <Route path="/values" exact element={<Mission />} />
-          <Route path="/founders" exact element={<About />} />
-          <Route path="/boss" exact element={<Johnny />} />
-          <Route path="/inspirations" exact element={<Shoutouts />} />
+          <Route path="/values/" exact element={<Mission />} />
+          <Route path="/founders/" exact element={<About />} />
+          <Route path="/boss/" exact element={<Johnny />} />
+          <Route path="/inspirations/" exact element={<Shoutouts />} />
           <Route path="*" exact element={<Home/>} />
         </Routes>
       </Router>

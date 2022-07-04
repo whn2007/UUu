@@ -15,7 +15,7 @@ function Home() {
           <div className="top">
             <h3>We will enable World Peace by 2035.</h3>
             <div>
-              <Link to="/values">
+              <Link to="/values/">
                 <button>Our Values</button>
               </Link>
             </div>

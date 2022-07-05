@@ -34,6 +34,8 @@ import { SportsList } from '../helpers/SportsVideos';
 import { TvList } from '../helpers/TvVideos';
 import { VlogsList } from '../helpers/VlogsVideos';
 import {ShortsList} from '../helpers/ShortsVideos'
+import { MangaList } from '../helpers/MangaList'
+import { VideoGameList } from '../helpers/VideoGameList'
 
 
 function Shoutouts() {
@@ -158,6 +160,41 @@ function Shoutouts() {
             );
           })}
         </div>
+
+        <div className='header'>
+          <h1>Manga</h1>
+        </div>
+
+        <div className="aboutList">
+          {MangaList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+          <h1>Video Games</h1>
+        </div>
+
+        <div className="aboutList">
+          {VideoGameList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
 
         <div className='header'>
           <h1>Movies</h1>

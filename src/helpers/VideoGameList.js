@@ -64,306 +64,306 @@ export const VideoGameList = [
     {
         name: 'A Dark Room',
         image: ADarkRoom,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/A_Dark_Room'
     },
     {
         name: 'Army of Two',
         image: ArmyOfTwo,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Army_of_Two'
     },
     {
         name: "Assassin's Creed",
         image: AssassinsCreed,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Assassin%27s_Creed'
     },
     {
         name: 'Beat Saber',
         image: BeatSaber,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Beat_Saber'
     },
     {
         name: 'Borderlands',
         image: Borderlands,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Borderlands_(series)'
     },
     {
         name: 'Brain Age',
         image: BrainAge,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Brain_Age'
     },
     {
         name: 'Call of Duty',
         image: CallOfDuty,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Call_of_Duty'
     },
     {
         name: 'Cars 2',
         image: Cars2,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Cars_2_(video_game)'
     },
     {
         name: 'Creed: Rise to Glory',
         image: Creed,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Creed:_Rise_to_Glory'
     },
     {
         name: 'Elite Beat Agents',
         image: EliteBeatAgents,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Elite_Beat_Agents'
     },
     {
         name: 'Fallout',
         image: Fallout,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Fallout_(series)'
     },
     {
         name: 'Fruit Ninja VR',
         image: FruitNinjaVr,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Fruit_Ninja'
     },
     {
         name: 'Game of Life',
         image: GameOfLife,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Game_of_Life/Yahtzee/Payday'
     },
     {
         name: 'Gears of War',
         image: GearsOfWar,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Gears_of_War'
     },
     {
         name: 'Grand Theft Auto',
         image: GrandTheftAuto,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Grand_Theft_Auto'
     },
     {
         name: 'Guitar Hero',
         image: GuitarHero,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Guitar_Hero'
     },
     {
         name: 'Human Resource Machine',
         image: HumanResourceMachine,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Human_Resource_Machine'
     },
     {
         name: 'Job Simulator',
         image: JobSimulator,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Job_Simulator'
     },
     {
         name: 'Jump Ultimate Stars',
         image: JumpUltimateStars,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Jump_Ultimate_Stars'
     },
     {
         name: 'Kings of Glory',
         image: KingsOfGlory,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Honor_of_Kings'
     },
     {
         name: 'Kirby',
         image: Kirby,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Kirby_(series)'
     },
     {
         name: 'Madden',
         image: Madden,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Madden_NFL'
     },
     {
         name: 'Maplestory',
         image: Maplestory,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/MapleStory'
     },
     {
         name: 'Mario Kart',
         image: MarioKart,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Mario_Kart'
     },
     {
-        name: 'Megaman',
+        name: 'Mega Man',
         image: Megaman,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Mega_Man'
     },
     {
         name: 'Midnight Club',
         image: MidnightClub,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Midnight_Club'
     },
     {
         name: 'Minecraft',
         image: Minecraft,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Minecraft'
     },
     {
         name: 'Naruto: Ultimate Ninja Storm',
         image: Naruto,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm'
     },
     {
         name: 'NBA 2K',
         image: NBA,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/NBA_2K'
     },
     {
         name: "No Man's Sky",
         image: NoMansSky,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/No_Man%27s_Sky'
     },
     {
         name: 'Okami',
         image: Okami,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/%C5%8Ckami'
     },
     {
-        name: 'OrbusVR',
+        name: 'OrbusVR: Reborn',
         image: OrbusVr,
-        link: ''
+        link: 'https://orbusvr.com/'
     },
     {
         name: 'Plague Inc.',
         image: PlagueInc,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Plague_Inc.'
     },
     {
         name: 'Pokemon Go',
         image: PokemonGo,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go'
     },
     {
         name: 'Pokemon Gold',
         image: PokemonGold,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver'
     },
     {
         name: 'Pokemon Ruby',
         image: PokemonRuby,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire'
     },
     {
         name: 'Pokemon Stadium',
         image: PokemonStadium,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium'
     },
     {
         name: 'Portal',
         image: Portal,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Portal_(series)'
     },
     {
-        name: 'PubG',
+        name: 'PUBG: Battlegrounds',
         image: PubG,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/PUBG:_Battlegrounds'
     },
     {
         name: 'Rick and Morty',
         image: RickAndMorty,
-        link: ''
+        link: 'https://www.oculus.com/experiences/rift/1196665787048646/'
     },
     {
         name: 'Road Rash',
         image: RoadRash,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Road_Rash_(1991_video_game)'
     },
     {
         name: 'Rocket League',
         image: RocketLeague,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Rocket_League'
     },
     {
-        name: 'Roller Coaster Tycoon',
+        name: 'RollerCoaster Tycoon',
         image: RollerCoasterTycoon,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/RollerCoaster_Tycoon'
     },
     {
         name: "Saint's Row",
         image: SaintsRow,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Saints_Row'
     },
     {
         name: "Sid Meier's Civilization",
         image: SidmeiersCivilization,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Civilization_(video_game)'
     },
     {
         name: 'Sim City',
         image: SimCity,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/SimCity'
     },
     {
         name: 'Skyrim',
         image: Skyrim,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim'
     },
     {
         name: 'Space Pirate Trainer',
         image: SpacePirateTrainer,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Space_Pirate_Trainer'
     },
     {
-        name: 'Super Hot VR',
+        name: 'Superhot VR',
         image: SuperHotVr,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Superhot'
     },
     {
-        name: 'Super Mario Bros',
+        name: 'Super Mario Bros.',
         image: SuperMarioBros,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Super_Mario_Bros.'
     },
     {
-        name: 'Super Smash Bros',
+        name: 'Super Smash Bros.',
         image: SuperSmashBros,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Super_Smash_Bros.'
     },
     {
         name: 'The Jack Box Party Pack',
         image: TheJackBoxPartyPack,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack'
     },
     {
         name: 'The Lab',
         image: TheLab,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Lab_(video_game)'
     },
     {
         name: 'TLoZ: Breath of the Wild',
         image: BreathoftheWild,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild'
     },
     {
         name: 'TLoZ: Skyward Sword',
         image: SkywardSword,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword'
     },
     {
         name: 'TLoZ: Twilight Princess',
         image: TwilightPrincess,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess'
     },
     {
-        name: 'The Simpons Hit & Run',
+        name: 'The Simpons: Hit & Run',
         image: TheSimpsons,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run'
     },
     {
         name: 'The Sims',
         image: TheSims,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Sims'
     },
     {
         name: 'The Talos Principle',
         image: TheTalosPrinciple,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/The_Talos_Principle'
     },
     {
         name: 'Wii Sports',
         image: WiisSports,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Wii_Sports'
     },
     {
         name: 'Worms Reloaded',
         image: WormsReloaded,
-        link: ''
+        link: 'https://en.wikipedia.org/wiki/Worms_Reloaded'
     },
 ]

@@ -1,4 +1,3 @@
-
 import Ekster from "../assets/products/ekster.png"
 import Quikflip from "../assets/products/quikflip.png"
 import GrooveLife from "../assets/products/groove_life.png"
@@ -8,6 +7,7 @@ import HNS from "../assets/products/hns.png"
 import NemuNemu from "../assets/products/nemu_nemu.png"
 import DrSquatch from "../assets/products/dr_squatch.png"
 import Atlas from "../assets/products/atlas.png"
+import Bengals from '../assets/products/bengals.png'
 
 export const ShoutOutList = [
     {
@@ -54,5 +54,10 @@ export const ShoutOutList = [
         name: "QuikFlip",
         image: Quikflip,
         link: "https://www.quikflipapparel.com/",
-    },        
+    },   
+    {
+        name: "Wild n Sweet Bengals",
+        image: Bengals,
+        link: "https://wildnsweetbengals.com/en/",
+    },       
 ];

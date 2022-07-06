@@ -179,7 +179,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Video Games</h1>
+          <h1>Games</h1>
         </div>
 
         <div className="aboutList">

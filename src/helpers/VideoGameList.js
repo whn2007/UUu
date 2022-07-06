@@ -59,6 +59,7 @@ import TheSims from '../assets/videogames/thesims.png'
 import TheTalosPrinciple from '../assets/videogames/thetalosprinciple.png'
 import WiisSports from '../assets/videogames/wiisports.png'
 import WormsReloaded from '../assets/videogames/wormsreloaded.png'
+import YuGiOh from '../assets/videogames/yugioh.png'
 
 export const VideoGameList = [
     {
@@ -365,5 +366,10 @@ export const VideoGameList = [
         name: 'Worms Reloaded',
         image: WormsReloaded,
         link: 'https://en.wikipedia.org/wiki/Worms_Reloaded'
+    },
+    {
+        name: 'Yu-Gi-Oh!',
+        image: YuGiOh,
+        link: 'https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game'
     },
 ]

@@ -1,5 +1,70 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1543765906861436928',
+        tweet: "Mind: Education \n Body: Training \n Soul: Experiences",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543822701894086659',
+        tweet: "IQ x EQ = Humor",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543827211936862208',
+        tweet: "S-Tier: You love your job and have hobbies. \n A-Tier: You love your job but don't have hobbies.\n B-Tier: You don't care about your job but have hobbies. \n C-Tier: You don't care about your job and don't have hobbies. \n D-Tier: You hate your job but have hobbies. \n F-Tier: You hate.",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543834759138160640',
+        tweet: "I like to buy world class products and pay for world class services, but I don't want to hire world class people. \n I want to develop them instead.",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543828065574215681',
+        tweet: "Oh shit, I just realized there are 7 days in a week. \n My favorite number has always been 7. \n I love every day. \n I love life. \n I love.",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543616387561578496',
+        tweet: "Follow your heart.",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543614713950457857',
+        tweet: "Why I love music: it is the quickest way to change someone's mood.",
+        date: 7/3/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543265774956990465',
+        tweet: "Don't question people who get results.",
+        date: 7/2/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543128475690602496',
+        tweet: "Short-term pains for long-term gains.",
+        date: 7/2/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543054763809390592',
+        tweet: "I understand the value of things deeply, but there are 3 things that are Invaluable: \n 1. Time \n 2. Respect \n 3. Faith",
+        date: 7/1/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543054966566182912',
+        tweet: "1. Time is obvious so I'll just skip that one. \n 2. Respect simply means you'll listen. You don't have to agree, but you at least listen. \n 3. Faith means you trust someone, despite not having all the evidence or understanding.",
+        date: 7/1/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543029664649596929',
+        tweet: "There are only 2 kinds of people: \n 1. Those that make shit happen. \n 2. Those that don't.",
+        date: 7/1/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1543005988399198208',
+        tweet: "What ever happened to \"sticks and stones may break my bones, but words will never hurt me\"?",
+        date: 7/1/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1542551339489669121',
         tweet: "My goal is World Peace by 2035. \n I will bully any and all villains I come across into becoming good people.",
         date: 6/30/2022
@@ -25,6 +90,11 @@ export const TweetList = [
         date: 6/29/2022
     },
     {  
+        link: 'https://twitter.com/JayWuzer/status/1541789204006350849',
+        tweet: "Here's how I view crypto: I have all my crypto apps in a single folder titled, \"gamble\".",
+        date: 6/28/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1541985130318688256',
         tweet: "I don't do sponsorships, I do shout-outs. \n I spread the wealth, I don't take it.",
         date: 6/28/2022
@@ -40,28 +110,23 @@ export const TweetList = [
         date: 6/28/2022
     },
     {  
-        link: 'I hold grudges but I also forgive quickly.',
-        tweet: "https://twitter.com/JayWuzer/status/1541839371128623104",
+        link: "https://twitter.com/JayWuzer/status/1541839371128623104",
+        tweet: 'I hold grudges but I also forgive quickly.',
         date: 6/28/2022
     },
     {  
-        link: 'You\'re not a real human being until you\'re like 25.',
-        tweet: "https://twitter.com/JayWuzer/status/1541826541562122245",
+        link: "https://twitter.com/JayWuzer/status/1541826541562122245",
+        tweet: 'You\'re not a real human being until you\'re like 25.',
         date: 6/28/2022
     },
     {  
-        link: 'As the great Ben Shapiro once said, "facts don\'t care about your feelings".',
-        tweet: "https://twitter.com/JayWuzer/status/1541787317563564032",
+        link: "https://twitter.com/JayWuzer/status/1541787317563564032",
+        tweet: 'As the great Ben Shapiro once said, "facts don\'t care about your feelings".',
         date: 6/28/2022
     },
     {  
         link: 'https://twitter.com/JayWuzer/status/1541604932238704640',
         tweet: "Being retired doesn't mean you stop working. \n Being retired means you no longer HAVE to work just to survive. ",
-        date: 6/27/2022
-    },
-    {  
-        link: 'https://twitter.com/JayWuzer/status/1541608893167505409',
-        tweet: "The humankind consist of the mind, body, and soul. \n You must practice all 3. \n Mind: Learning. \n Body: Training. \n Soul: Meditating. ",
         date: 6/27/2022
     },
     {  
@@ -131,7 +196,7 @@ export const TweetList = [
     },
     {  
         link: 'https://twitter.com/JayWuzer/status/1539478331036295168',
-        tweet: "Actions always speak louder than words. \n It\'s just too bad that most people are deaf as fuck.",
+        tweet: "Actions always speak louder than words. \n It's just too bad that most people are deaf as fuck.",
         date: 6/21/2022
     },
     {  
@@ -386,7 +451,7 @@ export const TweetList = [
     },
     {
         link: 'https://twitter.com/JayWuzer/status/1536374061189582850',
-        tweet: "Why I love Twitter: Concision. \n A favorite quote of mine: \"If I had more time, I would\'ve written something shorter.\"",
+        tweet: "Why I love Twitter: Concision. \n A favorite quote of mine: \"If I had more time, I would've written something shorter.\"",
         date: 6/13/2022
     },
     {

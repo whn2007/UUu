@@ -521,6 +521,10 @@ export const FunnyList = [
         //date: 2/7/12,
     },
     {
+        link: 'https://www.youtube.com/watch?v=Ickn8iipxUc',
+        //date: 1/28/12,
+    },
+    {
         link: 'https://www.youtube.com/embed/oPpzJAzdpTU',
         //date: 1/11/12,
     },

@@ -26,9 +26,16 @@ import Light from '../assets/novels/allthelightwecannotsee.png'
 import Aesop from '../assets/novels/aesop.png'
 import HuckleberryFinn from '../assets/novels/theadventuresofhuckleberryfinn.png'
 import Journey from '../assets/novels/journeytothecenteroftheearth.png'
+import TheOydssey from '../assets/novels/odyssey.png'
+import Leagues from '../assets/novels/20kleagues.png'
 
 
 export const NovelsList = [
+    {
+        name: "20000 Leagues Under the Seas",
+        image: Leagues,
+        link: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas",
+    }, 
     {
         name: "Adventures of Huckleberry Finn",
         image: HuckleberryFinn,
@@ -74,6 +81,11 @@ export const NovelsList = [
         image: Journey,
         link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth",
     }, 
+    {
+        name: "Odyssey",
+        image: TheOydssey,
+        link: "https://en.wikipedia.org/wiki/Odyssey",
+    },
     {
         name: "One Thousand and One Nights",
         image: ArabianNights,

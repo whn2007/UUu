@@ -44,7 +44,7 @@ function Mission() {
       <div className="value">
         <div className="left">
           <h2>Become Unique.</h2>
-          <p>Join us if you want to eliminate your know-do gap, which will make you 1/1.
+          <p>We will help you eliminate your know-do gap and turn you into someone who is S-Tier, which will make you 1/1.
           </p>
         </div>
         <div className="right unique">

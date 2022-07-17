@@ -10,6 +10,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
+    
     <div className="App">
       <Router>
         <ScrollToTop/>
@@ -17,7 +18,7 @@ function App() {
         <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/values/" exact element={<Mission />} />
-          <Route path="/founders/" exact element={<About />} />
+          <Route path="/diamonds/" exact element={<About />} />
           <Route path="/boss/" exact element={<Johnny />} />
           <Route path="/inspirations/" exact element={<Shoutouts />} />
           <Route path="*" exact element={<Home/>} />

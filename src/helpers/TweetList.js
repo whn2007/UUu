@@ -1,5 +1,10 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1548373548908961793',
+        tweet: "90% of people live in the past. \n 9% of people live in the present. \n 1% of people live in the future.",
+        date: 7/16/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1543765906861436928',
         tweet: "Mind: Education \n Body: Training \n Soul: Experiences",
         date: 7/3/2022

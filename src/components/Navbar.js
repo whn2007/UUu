@@ -15,12 +15,12 @@ function Navbar() {
     <div className="navbar">
       <div className="leftSide" id={openLinks ? "open" : "close"}>
         <Link to="/">
-          <img src={Logo} className="logo" alt="Handshake Logo" />
+          <img src={Logo} className="logo" alt="Handshake Logo"/>
         </Link>
         <div className="hiddenLinks">
           <Link to="/"> Home </Link>
           <Link to="/values/"> Values </Link>
-          <Link to="/founders/"> Team </Link>
+          <Link to="/diamonds/"> Team </Link>
           <Link to="/boss/"> Boss </Link>
           <Link to="/inspirations/"> Inspirations </Link>
         </div>
@@ -28,7 +28,7 @@ function Navbar() {
       <div className="rightSide">
         <Link to="/"> Home </Link>
         <Link to="/values/"> Values </Link>
-        <Link to="/founders/"> Team </Link>
+        <Link to="/diamonds/"> Team </Link>
         <Link to="/boss/"> Boss </Link>
         <Link to="/inspirations/"> Inspirations </Link>
         <button onClick={toggleNavbar}>

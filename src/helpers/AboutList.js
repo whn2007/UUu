@@ -23,18 +23,4 @@ export const AboutList = [
     description: "CTO",
     link: "https://twitter.com/williamxnguyen",
   },
-  {
-    name: "David \"RunDavidMC\" Cowles",
-    image: RunDavidMC,
-    stars: ThreeStars,
-    description: "Co-Founder",
-    link: "https://twitter.com/RunDavidMC",
-  },
-  {
-    name: "Felix \"Bitty\" Bennett",
-    image: Bitty,
-    stars: TwoStars,
-    description: "Co-Founder",
-    link: "https://twitter.com/ignBitty",
-  },
 ];

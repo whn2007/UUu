@@ -4,7 +4,6 @@ import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
 import OriginPitch from "../assets/proposal1.png"
 import OriginPitch2 from "../assets/proposal2.png"
-import OriginPitch3 from "../assets/proposal3.png"
 import Proposal from "../assets/proposal.pdf"
 import "../styles/About.scss";
 import Fundraising from "../assets/fundraising.jpeg"
@@ -14,7 +13,7 @@ function About() {
     <div className="about">
       <div className="aboutHeader">
         <div className="aboutTitle">
-          <h1>Team</h1>
+          <h1>Diamonds</h1>
           <p>We will enable true sustainability, together.</p>
         </div>
       </div>
@@ -44,7 +43,6 @@ function About() {
         <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>
-          <img src={OriginPitch3} className="pitch"/>
         </a>
       </div>
 

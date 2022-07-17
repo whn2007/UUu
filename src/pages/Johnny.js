@@ -18,7 +18,7 @@ function Johnny() {
       <div className='intro'>
         <div className='title'>
           <h1>Lord Johnny "Boss" Wu</h1>
-          <h2>"We only have one planet and it's currently on a crash course to zero. I must enable World Peace by 2035 so we can enable true sustainability by 2045."</h2>
+          <h2>"Lord UUu's Chinese name is 吴绿, which means “green”. He was born to green the world."</h2>
         </div>
       </div>
       
@@ -43,6 +43,7 @@ function Johnny() {
       <div className='achievements'>
         <h1>Achievements</h1>
         <p>
+        "Your life achievements will be bullet points in mine." <br/>
         • #1 expert in the world on Handshake (HNS) — present<br/>
         • Reached 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
         • Promoted to Head of Product (equivalent to CEO) at Namebase — May 11th, 2022 <br/>
@@ -90,20 +91,6 @@ function Johnny() {
             )
           })}
 
-        </div>
-      </div>
-
-
-      <div className='socials'>
-        <h1>Socials</h1>
-        <h2>Learn More About the Founder</h2>
-        <div className='icons'>
-          <a href='https://twitter.com/JayWuzer' target='_blank'> <TwitterIcon/> </a>
-          <a href='https://instagram.com/jaywuzer?igshid=YmMyMTA2M2Y=' target='_blank'> <InstagramIcon/> </a>
-          <a href='https://www.linkedin.com/in/jaywuzer/' target='_blank'> <LinkedInIcon/> </a>
-          <a href='https://www.twitch.tv/jaywuzer' target='_blank'> <img src={TwitchIcon}/> </a>
-          <a href='https://www.linkedin.com/in/jaywuzer/' target='_blank'> <RedditIcon/> </a>
-          <a href='https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g' target='_blank'> <YouTubeIcon/> </a>
         </div>
       </div>
 

@@ -31,9 +31,4 @@ export const BallersList = [
         image: StephenTorres,
         link: "https://www.stephentorres.com/",
     },   
-    {
-        name: "Sumire Kishida",
-        image: Sumire,
-        link: "https://sumirekishida.art/",
-    },   
 ];

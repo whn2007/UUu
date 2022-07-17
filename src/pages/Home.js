@@ -13,7 +13,7 @@ function Home() {
       <div className="header">
         <div className="intro">
           <div className="top">
-            <h3>We will enable World Peace by 2035.</h3>
+            <h3>Diamonds Will Shine.</h3>
             <div>
               <Link to="/values/">
                 <button>Our Values</button>
@@ -42,7 +42,7 @@ function Home() {
       </div>
 
       <div className="merch">
-        <h1>Check Out Our Merch</h1>
+        <h1>UUu Merch</h1>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
         <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>

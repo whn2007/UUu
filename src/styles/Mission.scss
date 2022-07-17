@@ -12,13 +12,13 @@
         h1{
             margin: 0;
             margin-top: 2em;
-            color: $darkRed;
+            color: $green;
             font-size: 4rem;
         }
         p{
             margin: 0.5em;
             font-size: 1.5rem;
-            color: $red;
+            color: $green;
             text-align: center;
         }
     }
@@ -95,12 +95,10 @@
             margin-bottom: 1em;
             h1{
                 margin-top: 2em;
-                color: $darkRed;
                 font-size: 2rem;
             }
             p{
                 font-size: 0.8rem;
-                color: $red;
             }
         }
         .value{

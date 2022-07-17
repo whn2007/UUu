@@ -15,11 +15,11 @@
             h1{
                 margin: 0;
                 font-size: 4rem;
-                color: $red;
+                color: $green;
             }
             h2{
                 padding: 0em 1em 0em 1em;
-                color: $red;
+                color: $green;
                 margin: 0;
                 font-size: 1.5em;
             }
@@ -32,12 +32,12 @@
             h1{
                 margin: 0;
                 font-size: 3rem;
-                color: $darkRed;
+                color: $green;
             }
             h2{
                 margin: 0.5rem;
                 font-size: 2rem;
-                color: $red;
+                color: $green;
             }
 
         }
@@ -72,7 +72,7 @@
         text-align: center;
         h1{
             margin: 0;
-            color: $darkRed;
+            color: $green;
             font-size: 3.5rem;
         }
         p{
@@ -89,7 +89,7 @@
         text-align: center;
         h1{
             margin: 0;
-            color: $darkRed;
+            color: $green;
             font-size: 3.5rem;
         }
         p{
@@ -105,7 +105,7 @@
         h1{
             margin: 0;
             font-size: max(3rem);
-            color: $darkRed;
+            color: $green;
         }
         .wise-tweets{
             margin-top: 4em;
@@ -129,43 +129,6 @@
         }
     }
 
-
-    .socials{
-        margin-top: 8em;
-        margin-bottom: 10em;
-        h1{
-            margin: 0;
-            font-size: 3rem;
-            color: $darkRed;
-            text-align: center;
-        }
-        h2{
-            font-size: 1.5rem;
-            margin: 0;
-            color: $red;
-            text-align: center;
-        }
-        .icons{
-            display: flex;
-            justify-content: center;
-            border: 1px solid $black;
-            border-radius: 2em;
-            margin: 4em 5em 7em 5em;
-            a{
-                margin: 4em;
-                img{
-                    width: 5rem;
-                }
-                svg{
-                    font-size: 5rem;
-                    color: $red;
-                    &:hover{
-                        color: $darkRed;
-                    }
-                }
-            }
-        }
-    }
 
     /* smartphones portrait*/
     @media all and (min-width: 375px) and (max-width: 767px) and (orientation:portrait) {
@@ -254,34 +217,6 @@
         }
 
 
-        .socials{
-            margin-top: 8em;
-            margin-bottom: 10em;
-            h1{
-                font-size: 3rem;
-            }
-            h2{
-                font-size: 1.5rem;
-            }
-            .icons{
-                margin: 0.5em;
-                margin-top: 2em;
-
-                a{
-                    margin: 1em;
-                    img{
-                        width: 2rem;
-                    }
-                    svg{
-                        font-size: 2rem;
-                        color: $red;
-                        &:hover{
-                            color: $darkRed;
-                        }
-                    }
-                }
-            }
-        }
         
     }
 
@@ -337,31 +272,6 @@
         }
 
         
-        .socials{
-            margin-top: 8em;
-            margin-bottom: 10em;
-            h1{
-                font-size: 3rem;
-            }
-            h2{
-                font-size: 1.5rem;
-            }
-            .icons{
-                margin: 0.1;
-                margin-top: 2em;
-
-                a{
-                    margin: 1em;
-                    padding: 0em;
-                    img{
-                        width: 4rem;
-                    }
-                    svg{
-                        font-size: 4rem;
-                    }
-                }
-            }
-        }
     }
 
     /* tablets portrait*/
@@ -429,30 +339,6 @@
         }
 
         
-        .socials{
-            margin-top: 4em;
-            margin-bottom: 13em;
-            h1{
-                font-size: 4rem;
-            }
-            h2{
-                font-size: 3rem;
-            }
-            .icons{
-                margin: 1em;
-                margin-top: 3em;
-
-                a{
-                    margin: 1.5em;
-                    img{
-                        width: 5rem;
-                    }
-                    svg{
-                        font-size: 5rem;
-                    }
-                }
-            }
-        }
     }
 
 
@@ -504,30 +390,6 @@
             }
         }
         
-        .socials{
-            margin-top: 7em;
-            margin-bottom: 13em;
-            h1{
-                font-size: 4rem;
-            }
-            h2{
-                font-size: 3rem;
-            }
-            .icons{
-                margin: 1em;
-                margin-top: 3em;
-
-                a{
-                    margin: 2em;
-                    img{
-                        width: 5rem;
-                    }
-                    svg{
-                        font-size: 5rem;
-                    }
-                }
-            }
-        }
     }
     
     @media all and (min-width: 1280px){

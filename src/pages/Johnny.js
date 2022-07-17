@@ -1,14 +1,9 @@
 import React from 'react'
 import Footer from "../components/Footer";
+import OriginPitch from "../assets/proposal1.png"
+import OriginPitch2 from "../assets/proposal2.png"
+import Proposal from "../assets/proposal.pdf"
 import "../styles/Johnny.scss";
-import Origin from "../assets/origin.png"
-import LifeMission from "../assets/lifemission.png"
-import TwitterIcon from "@material-ui/icons/Twitter";
-import InstagramIcon from '@material-ui/icons/Instagram';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import YouTubeIcon from '@material-ui/icons/YouTube';
-import TwitchIcon from "../assets/twitch.png"
-import RedditIcon from '@material-ui/icons/Reddit';
 import { TweetList } from '../helpers/TweetList';
 import Tweet from "../components/Tweet.js"
 
@@ -21,24 +16,15 @@ function Johnny() {
           <h2>"Lord UUu's Chinese name is 吴绿, which means “green”. He was born to green the world."</h2>
         </div>
       </div>
-      
-      <div className='links'>
-        <div className='story'>
-          <div className='origin'>
-            <h2>Origin Story</h2>
-            <a href='https://twitter.com/JayWuzer/status/1537534817302028288' target='_blank'>
-              <img className='origin-story' src = {Origin}/>
-            </a>
-          </div>
 
-          <div className='origin'>
-            <h2>Life Mission</h2>
-            <a href='https://twitter.com/JayWuzer/status/1537575282583818240' target='_blank'>
-              <img className='life-mission' src = {LifeMission}/>
-            </a>
-          </div>
-        </div>
+      <div className="originPitch">
+        <h1>Letter from Lord Johnny "Boss" Wu</h1>
+        <a href = {Proposal} download>
+          <img src={OriginPitch} className="pitch"/>
+          <img src={OriginPitch2} className="pitch"/>
+        </a>
       </div>
+      
 
       <div className='achievements'>
         <h1>Achievements</h1>
@@ -62,7 +48,7 @@ function Johnny() {
       </div>
 
       <div className='ongoing'>
-        <h1>Ongoing Pursuits</h1>
+        <h1>Pursuits</h1>
         <p>
         • #1 Hit Album<br/>
         • #1 YouTuber<br/>

@@ -2,9 +2,6 @@ import React from "react";
 import { AboutList } from "../helpers/AboutList";
 import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
-import OriginPitch from "../assets/proposal1.png"
-import OriginPitch2 from "../assets/proposal2.png"
-import Proposal from "../assets/proposal.pdf"
 import "../styles/About.scss";
 import Fundraising from "../assets/fundraising.jpeg"
 
@@ -36,14 +33,6 @@ function About() {
             />
           );
         })}
-      </div>
-
-      <div className="originPitch">
-        <h1>Letter from Lord Johnny "Boss" Wu</h1>
-        <a href = {Proposal} download>
-          <img src={OriginPitch} className="pitch"/>
-          <img src={OriginPitch2} className="pitch"/>
-        </a>
       </div>
 
       <Footer className = "footer"/>

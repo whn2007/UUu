@@ -26,45 +26,26 @@
         }
     }
 
-    .links{
-        .links-intro{
-            text-align: center;
-            h1{
-                margin: 0;
-                font-size: 3rem;
-                color: $green;
-            }
-            h2{
-                margin: 0.5rem;
-                font-size: 2rem;
-                color: $green;
-            }
-
+    .originPitch{
+        text-align: center;
+        margin-bottom: 10em;
+        h1{
+            color: $green;
+            font-size: 4rem;
+            margin: 0em;
+            margin-bottom: 0.5em;
         }
-
-        .story{
-            display: flex;
-            .origin{
-                width: 50%;
-                text-align: center;
-                display: flex;
-                flex-direction: column;
-
-                h2{
-                    font-size: 2.5rem;
-                    color: $black;
-                }
-
-                .origin-story{
-                    width: 33vw;
-                }
-
-                .life-mission{
-                    width: 33vw;
-                }
-            } 
-        }        
+        button{
+            color: $black;
+            margin: 0.5em;
+            font-size: 1.5em;
+        }
+        .pitch{
+            border: 1px solid $black;
+            width: max(85vw);
+        }
     }
+
 
     .achievements{
         padding: 3em;
@@ -99,6 +80,7 @@
             font-size: 1.5em;
         }
     }
+
 
     .wisdom{
         text-align: center;
@@ -146,32 +128,20 @@
                 }
             }
         }
-    
-        .links{
-            .links-intro{
-                h1{
-                    font-size: 2.5rem;
-                }
-                h2{
-                    font-size: 1.5rem;
-                }
-    
+
+        .originPitch{
+            margin-bottom: 5em;
+            h1{
+                font-size: 2rem;
+                margin-bottom: 0.5em;
             }
-            .story{
-                .origin{
-                    h2{
-                        font-size: 1.5em;
-                    }
-                    .origin-story{
-                        width: 45vw;
-                    }
-                    .life-mission{
-                        width: 45vw;
-                    }
-                } 
-            }     
+            button{
+                font-size: 1em;
+            }
+            .pitch{
+            }
         }
-        
+    
         .achievements{
             padding: 2em;
             margin-top: 2em;
@@ -214,10 +184,7 @@
                     }
                 }
             }
-        }
-
-
-        
+        }  
     }
 
     /* smartphones landscape*/
@@ -234,19 +201,6 @@
                     font-size: 3rem;
                 }
             }
-        }
-    
-        .links{
-            .story{
-                .origin{
-                    .origin-story{
-                        width: 45vw;
-                    }
-                    .life-mission{
-                        width: 45vw;
-                    }
-                } 
-            }     
         }
     
         
@@ -290,27 +244,19 @@
                 }
             }
         }
-    
-        .links{
-            .links-intro{
-                h1{
-                    font-size: 3.5rem;
-                }
-                h2{
-                    font-size: 2.5rem;
-                }
-    
+
+        .originPitch{
+            margin-bottom: 5em;
+            h1{
+                font-size: 3rem;
+                margin-bottom: 0.5em;
             }
-            .story{
-                .origin{
-                    .origin-story{
-                        width: 45vw;
-                    }
-                    .life-mission{
-                        width: 45vw;
-                    }
-                } 
-            }     
+            button{
+                color: $black;
+                font-size: 1.5em;
+            }
+            .pitch{
+            }
         }
     
         
@@ -354,20 +300,6 @@
                     font-size: 5rem;
                 }
             }
-        }
-    
-        .links{
-            margin-top: 0em;
-            .story{
-                .origin{
-                    .origin-story{
-                        width: 45vw;
-                    }
-                    .life-mission{
-                        width: 45vw;
-                    }
-                } 
-            }     
         }
     
         

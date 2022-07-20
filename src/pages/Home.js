@@ -14,7 +14,7 @@ function Home() {
         <div className="intro">
           <div className="top">
             <h3>Diamonds, will shine.</h3>
-            <h2>If you <i>know</i> you are a diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
+            <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
           </div>
         </div>
       </div>
@@ -63,7 +63,7 @@ function Home() {
 
       <div className="merch">
         <h1>Merch</h1>
-        <h2>If you believe in our mission and strategy for enabling <span style={{color: '#238811'}}>True Sustainability</span> by 2045, the best way to support our activities is by purchasing and rockin' our company merch!</h2>
+        <h2>If you believe in <span style={{color: '#238811'}}>True Sustainability</span> by 2045, the best way to accelerate our endeavors is by purchasing and rockin' our company merch!</h2>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
         <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>

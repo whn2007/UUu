@@ -7,7 +7,7 @@ function Mission() {
   return (
     <div className="mission">
       <div className="header">
-        <h1>Our Values</h1>
+        <h1>Values</h1>
         <p>We solve problems, have fun, figure shit out, and get things done. </p>
       </div>
 
@@ -23,7 +23,7 @@ function Mission() {
 
       <div className="value">
         <div className="left">
-          <h2>Keep It Simple Stoopid!</h2>
+          <h2>Keep It Simple, Stoopid!</h2>
           <p>It is commitment to forward progress that counts!</p>
         </div>
         <div className="right simple">

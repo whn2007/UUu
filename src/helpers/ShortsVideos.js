@@ -1,7 +1,12 @@
 export const ShortsList = [
+
     {
         link: 'https://www.youtube.com/embed/eO2sm6LVZRU',
         //date: 6/26/22
+    },
+    {
+        link: "https://www.youtube.com/embed/-sUcDhczE-A",
+        //date: 6/25/22
     },
     {
         link: "https://www.youtube.com/embed/CuCd2Mk7yJM" ,

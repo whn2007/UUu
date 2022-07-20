@@ -12,7 +12,7 @@
   .hiddenLinks{
     color: $grey;
     &:hover{
-      color: $white;
+      color: $green;
     }
   }
 
@@ -80,7 +80,7 @@
     padding-left: 1.5rem;
     padding-right : 1.5rem;
     &:hover{
-        color: $white;
+        color: $green;
         transition: 0.2s ease-in-out;
     }
 

@@ -5,6 +5,7 @@ import RioRoot from '../assets/ballers/rioroot.png'
 import JamesonTabor from '../assets/ballers/jamesontabor.png'
 import JoshBraun from '../assets/ballers/joshbraun.png'
 import DavidVorick from '../assets/ballers/davidvorick.png'
+import PigmentPenguin from '../assets/ballers/pigmentpenguin.png'
 
 export const BallersList = [
     {
@@ -26,6 +27,11 @@ export const BallersList = [
         name: "Kanpeki",
         image: Kanpeki,
         link: "https://www.twitch.tv/kanpeki",
+    }, 
+    {
+        name: "Pigment Penguin",
+        image: PigmentPenguin,
+        link: "https://www.instagram.com/pigmentpenguin/",
     }, 
     {
         name: "Rio Root",

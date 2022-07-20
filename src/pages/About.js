@@ -11,14 +11,18 @@ function About() {
       <div className="aboutHeader">
         <div className="aboutTitle">
           <h1>Diamonds</h1>
-          <p>We will enable true sustainability, together.</p>
+          <p>We will enable <span style={{color: '#238811'}}>True Sustainability</span>, together.</p>
         </div>
       </div>
 
       <div className="fundraising">
         <img src={Fundraising}/>
-        <h2>William "Boss Jr." Nguyen & Lord Johnny "Boss" Wu, CTO & CEO of UUu LLC</h2>
+        <h2>William "Boss Jr." Nguyen & Lord Jay "Boss" UUu, CTO & CEO of UUu LLC</h2>
       </div> 
+
+      <div className="title">
+        <h1>UUu LLC Squad</h1>
+      </div>
 
       <div className="aboutList">
         {AboutList.map((aboutItem, key) => {
@@ -33,6 +37,10 @@ function About() {
             />
           );
         })}
+      </div>
+
+      <div className="title">
+        <h1>Diamonds</h1>
       </div>
 
       <Footer className = "footer"/>

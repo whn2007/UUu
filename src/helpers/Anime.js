@@ -22,6 +22,8 @@ import Totoro from "../assets/anime/totoro.png"
 import Castle from "../assets/anime/castle.png"
 import Kiki from '../assets/anime/kiki.png'
 import Howl from '../assets/anime/howl.png'
+import Pong from '../assets/anime/pong.png'
+import Lupin from '../assets/anime/lupin.png'
 
 export const AnimeList = [
     {
@@ -75,6 +77,11 @@ export const AnimeList = [
         link: 'https://myanimelist.net/anime/33489/Little_Witch_Academia_TV?q=little%20witch%20aca&cat=anime',   
     },
     {
+        name: 'Lupin III',
+        image : Lupin,
+        link: 'https://myanimelist.net/anime/1412/Lupin_III',   
+    },
+    {
         name: 'Mob Psycho 100',
         image : Mob,
         link: 'https://myanimelist.net/anime/32182/Mob_Psycho_100?q=mob%20100&cat=anime',   
@@ -98,6 +105,11 @@ export const AnimeList = [
         name: 'Perfect Blue',
         image : PerfectBlue,
         link: 'https://myanimelist.net/anime/437/Perfect_Blue',   
+    },
+    {
+        name: 'Ping Pong the Animation',
+        image : Pong,
+        link: 'https://myanimelist.net/anime/22135/Ping_Pong_the_Animation',   
     },
     {
         name: 'Princess Mononoke',

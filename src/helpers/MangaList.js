@@ -59,6 +59,7 @@ import UQHolder from '../assets/manga/uqholder.png'
 import WorldTrigger from '../assets/manga/worldtrigger.png'
 import Yasashiisekainotsukurikata from '../assets/manga/yasashiisekainotsukurikata.png'
 import Yuyuhakusho from '../assets/manga/yuyuhakusho.png'
+import Onizuka from '../assets/manga/onizuka.png'
 
 
 export const MangaList = [
@@ -151,6 +152,11 @@ export const MangaList = [
         name: 'Gintama',
         image: Gintama,
         link: 'https://myanimelist.net/manga/44/Gintama?q=gintama&cat=manga'
+    },
+    {
+        name: 'Great Teacher Onizuka',
+        image: Onizuka,
+        link: 'https://myanimelist.net/manga/336/GTO?q=great%20teacher%20onizuka&cat=manga'
     },
     {
         name: 'Haikyuu!!',

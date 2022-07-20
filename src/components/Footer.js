@@ -11,10 +11,13 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
+        <a href="https://www.youtube.com/c/JayWuzer" target="_blank">
+          <YouTubeIcon />
+        </a>
         <a href="https://twitter.com/UUuLLC" target="_blank">
           <TwitterIcon />
         </a>
-        <a href="https://instagram.com/jaywuzer?igshid=YmMyMTA2M2Y=" target="_blank">
+        <a href="https://www.instagram.com/jaywuzer/" target="_blank">
           <InstagramIcon />
         </a>
         <a href="https://www.facebook.com/JayUUuzer" target="_blank">
@@ -25,9 +28,6 @@ function Footer() {
         </a>
         <a href="https://www.reddit.com/user/JayWuzer/" target="_blank">
           <RedditIcon/>
-        </a>
-        <a href="https://www.youtube.com/channel/UCYmsa4XVlPT7WCoA09YjP0g" target="_blank">
-          <YouTubeIcon />
         </a>
       </div>
       <p>

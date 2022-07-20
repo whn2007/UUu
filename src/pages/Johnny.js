@@ -12,13 +12,13 @@ function Johnny() {
     <div className='johnny'>
       <div className='intro'>
         <div className='title'>
-          <h1>Lord Johnny "Boss" Wu</h1>
-          <h2>"Lord UUu's Chinese name is 吴绿, which means “green”. He was born to green the world."</h2>
+          <h1>Lord Jay "Boss" UUu</h1>
+          <h2>"Lord UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means “<span style={{color: '#238811'}}>green</span>”. He was born to green the world."</h2>
         </div>
       </div>
 
       <div className="originPitch">
-        <h1>Letter from Lord Johnny "Boss" Wu</h1>
+        <h1>Letter from UUu</h1>
         <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>
@@ -28,14 +28,15 @@ function Johnny() {
 
       <div className='achievements'>
         <h1>Achievements</h1>
+        <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
-        "Your life achievements will be bullet points in mine." <br/>
         • #1 expert in the world on Handshake (HNS) — present<br/>
         • Reached 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
         • Promoted to Head of Product (equivalent to CEO) at Namebase — May 11th, 2022 <br/>
         • UUu LLC, CEO — March 14th, 2022<br/>
         • Advanced open water diver — April 26th, 2019<br/>
         • Master rank in 王者荣耀 (Mobile League of Legends) — November 12th, 2018 <br/>
+        • Member of the MET
         • Certified mediator — June 22nd, 2018<br/>
         • 4.0 final semester at UC Berkeley, Energy Engineering — May 12th, 2018<br/>
         • 1 of 2 successful internal transfers into UC Berkeley's College of Engineering — April 20th, 2016 <br/>
@@ -54,12 +55,15 @@ function Johnny() {
         • #1 YouTuber<br/>
         • ABRSM Grade 8<br/>
         • Ambassador to China<br/>
+        • American Political Party
         • A-List Actor<br/>
         • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>
         • Nobel Prize<br/>
-        • World Peace<br/>
+        • Stanford MBA
+        • True Sustainability <br/>
+        • Winner's Ultimate
         • .uuu ICANN TLD<br/>
         </p>
       </div>

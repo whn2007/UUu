@@ -158,6 +158,9 @@ import LittleBigSoldier from '../assets/movies/littlebigsoldier.png'
 import Matrix from '../assets/movies/matrix.png'
 import MeanGirls from '../assets/movies/meangirls.png'
 import GranTorino from '../assets/movies/grantorino.png'
+import GIJoe from '../assets/movies/gijoe.png'
+import HardcoreHenry from '../assets/movies/hardcorehenry.png'
+import TrainingDay from '../assets/movies/trainingday.png'
 
 
 export const MovieList = [
@@ -403,6 +406,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0119217/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "G.I. Joe",
+        image: GIJoe,
+        link: "https://www.imdb.com/title/tt1583421/",
+    }, 
+    {
         name: "Gran Torino",
         image: GranTorino,
         link: "https://www.imdb.com/title/tt1205489/?ref_=nv_sr_srsg_0",
@@ -421,6 +429,10 @@ export const MovieList = [
         name: "Hamilton",
         image: Hamilton,
         link: "https://www.imdb.com/title/tt8503618/?ref_=nv_sr_srsg_0",
+    },{
+        name: "Hardcore Henry",
+        image: HardcoreHenry,
+        link: "https://www.imdb.com/title/tt3072482/?ref_=nv_sr_srsg_0",
     },
     {
         name: "Hello Mr. Billionaire",
@@ -952,6 +964,11 @@ export const MovieList = [
         name: "Toy Story",
         image: ToyStory,
         link: "https://www.imdb.com/title/tt0114709/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Training Day",
+        image: TrainingDay,
+        link: "https://www.imdb.com/title/tt0139654/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Treasure Planet",

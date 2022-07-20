@@ -28,6 +28,7 @@ import ChapelleShow from '../assets/shows/chapelleshow.png'
 import CSI from '../assets/shows/csi.png'
 import TheOffice from '../assets/shows/theoffice.png'
 import Foster from '../assets/shows/foster.png'
+import PersonOfInterest from '../assets/shows/personofinterest.png'
 
 export const ShowsList = [
     {
@@ -119,6 +120,11 @@ export const ShowsList = [
         name: "Planet Earth",
         image: PlanetEarth,
         link: "https://www.imdb.com/title/tt0795176/?ref_=nv_sr_srsg_3",
+    }, 
+    {
+        name: "Person of Interest",
+        image: PersonOfInterest,
+        link: "https://www.imdb.com/title/tt1839578/",
     }, 
     {
         name: "Popeye the Sailor",

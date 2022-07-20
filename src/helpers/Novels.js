@@ -28,6 +28,8 @@ import HuckleberryFinn from '../assets/novels/theadventuresofhuckleberryfinn.png
 import Journey from '../assets/novels/journeytothecenteroftheearth.png'
 import TheOydssey from '../assets/novels/odyssey.png'
 import Leagues from '../assets/novels/20kleagues.png'
+import Anthem from '../assets/novels/anthem.png'
+import Cuckoo from '../assets/novels/cuckoo.png'
 
 
 export const NovelsList = [
@@ -50,6 +52,11 @@ export const NovelsList = [
         name: "All the Light We Cannot See",
         image: Light,
         link: "https://en.wikipedia.org/wiki/All_the_Light_We_Cannot_See",
+    }, 
+    {
+        name: "Anthem",
+        image: Anthem,
+        link: "https://en.wikipedia.org/wiki/Anthem_(novella)",
     }, 
     {
         name: "Around the World in 80 Days",
@@ -86,6 +93,11 @@ export const NovelsList = [
         image: TheOydssey,
         link: "https://en.wikipedia.org/wiki/Odyssey",
     },
+    {
+        name: "One Flew Over the Cuckoo's Nest",
+        image: Cuckoo,
+        link: "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel)",
+    }, 
     {
         name: "One Thousand and One Nights",
         image: ArabianNights,

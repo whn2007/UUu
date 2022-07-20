@@ -21,7 +21,7 @@ function About() {
       </div> 
 
       <div className="title">
-        <h1>UUu LLC Squad</h1>
+        <h1>Squad</h1>
       </div>
 
       <div className="aboutList">

@@ -13,7 +13,7 @@ function Johnny() {
       <div className='intro'>
         <div className='title'>
           <h1>Lord Jay "Boss" UUu</h1>
-          <h2>"Lord UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means “<span style={{color: '#238811'}}>green</span>”. He was born to green the world."</h2>
+          <h2>"UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means “<span style={{color: '#238811'}}>green</span>”. He was born to <span style={{color: '#238811'}}>green</span> the world."</h2>
         </div>
       </div>
 
@@ -61,9 +61,9 @@ function Johnny() {
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>
         • Nobel Prize<br/>
-        • Stanford MBA
-        • True Sustainability <br/>
-        • Winner's Ultimate
+        • Stanford MBA <br/>
+        • <span style={{color: '#238811'}}>True Sustainability</span> <br/>
+        • Winner's Ultimate <br/>
         • .uuu ICANN TLD<br/>
         </p>
       </div>

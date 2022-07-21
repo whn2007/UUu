@@ -1,6 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
+import Diamond from '../assets/diamond.png'
 import "../styles/Home.scss";
 import Johnny from '../assets/profilepics/jaywuzer.png'
 import TextBubble from '../assets/textbubble.png'
@@ -9,11 +10,13 @@ import Merch from '../assets/jacket.png'
 function Home() {
   return (
     <div className="home">
-
       <div className="header">
         <div className="intro">
           <div className="top">
-            <h3>Diamonds, will shine.</h3>
+            <div className="diamonds">
+              <h3>Diamonds, will shine</h3>
+              <img src={Diamond}/>
+            </div>
             <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
           </div>
         </div>

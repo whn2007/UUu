@@ -26,13 +26,6 @@ export const AboutList = [
     link: "https://twitter.com/williamxnguyen",
   },
   {
-    name: 'Nitro "Ice" Icepick',
-    image: UUu,
-    stars: FourStars,
-    description: "CDO",
-    link: "https://twitter.com/nitroicepick",
-  },
-  {
     name: 'Apex "a7z" Blitz',
     image: Apex,
     stars: OneStar,

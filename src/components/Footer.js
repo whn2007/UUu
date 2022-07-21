@@ -20,11 +20,11 @@ function Footer() {
         <a href="https://www.instagram.com/jaywuzer/" target="_blank">
           <InstagramIcon />
         </a>
-        <a href="https://www.facebook.com/JayUUuzer" target="_blank">
-          <FacebookIcon />
-        </a>
         <a href="https://www.linkedin.com/company/uuu-llc/" target="_blank">
           <LinkedInIcon />
+        </a>
+        <a href="https://www.facebook.com/JayUUuzer" target="_blank">
+          <FacebookIcon />
         </a>
         <a href="https://www.reddit.com/user/JayWuzer/" target="_blank">
           <RedditIcon/>

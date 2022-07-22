@@ -52,6 +52,7 @@ function About() {
                 key={key}
                 image={aboutItem.image}
                 name={aboutItem.name}
+                description = {aboutItem.description}
                 link={aboutItem.link}
               />
             );

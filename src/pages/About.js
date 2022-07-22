@@ -3,7 +3,7 @@ import { AboutList } from "../helpers/AboutList";
 import Footer from "../components/Footer";
 import AboutItem from "../components/AboutItem";
 import "../styles/About.scss";
-import Fundraising from "../assets/fundraising.jpeg"
+import Fundraising from "../assets/c-suite.jpg"
 import ShoutOutItem from '../components/ShoutOutItem';
 import { DiamondsList } from "../helpers/DiamondsList";
 
@@ -45,7 +45,7 @@ function About() {
         <h1>Diamonds</h1>
       </div>
 
-      <div className="aboutList">
+      <div className="diamondList">
           {DiamondsList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
@@ -62,9 +62,9 @@ function About() {
       <div className="chat">
         <h2>Are you a Diamond in the rough who needs polishing? Here's how we'll make you shine:</h2>
         <p>
-          1. Schedule a call with UUu at chat.uuu.vip — if you can prove that you're truly a Diamond in the rough, we will immediately get you set up so you can begin working full-time on your passion. <br/>
-          2. For our support, we ask for 1% equity in your endeavors. There are no contracts — passing the call means we have full faith in you and we simply ask you to reciprocate with faith in us.<br/>
-          3. We will help you set up an LLC and handle everything you need to operate a business — from fundraising to recruiting — so you can just focus on what you do best: your passion. <br/>
+          <b>1.</b> Schedule a call with UUu at chat.uuu.vip — if you can prove that you're truly a Diamond in the rough, we will immediately get you set up so you can begin working full-time on your passion. <br/>
+          <b>2.</b> For our support, we ask for 1% equity in your endeavors. There are no contracts — passing the call means we have full faith in you and we simply ask you to reciprocate with faith in us.<br/>
+          <b>3.</b> We will help you set up an LLC and handle everything you need to operate a business — from fundraising to recruiting — so you can just focus on what you do best: your passion. <br/>
          </p>
          <a href="https://calendly.com/uuullc"><button>Contact</button></a>
       </div>

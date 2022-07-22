@@ -16,7 +16,7 @@ function App() {
       <Router>
         <ScrollToTop/>
         <Navbar />
-        <Routes basename = '/youtube'>
+        <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/values/" exact element={<Mission />} />
           <Route path="/diamonds/" exact element={<About />} />

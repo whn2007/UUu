@@ -28,7 +28,7 @@ export const BallersList = [
         link: "https://www.twitch.tv/kanpeki",
     }, 
     {
-        name: "Pigment Penguin",
+        name: "Jenni Li",
         image: PigmentPenguin,
         link: "https://www.instagram.com/pigmentpenguin/",
     }, 

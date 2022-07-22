@@ -13,7 +13,7 @@ function Johnny() {
       <div className='intro'>
         <div className='title'>
           <h1>Lord Jay "Boss" UUu</h1>
-          <h2>"UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means “<span style={{color: '#238811'}}>green</span>”. He was born to <span style={{color: '#238811'}}>green</span> the world."</h2>
+          <h2>"UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means <span style={{color: '#238811'}}>"green"</span>. He was born to <span style={{color: '#238811'}}>green</span> the world."</h2>
         </div>
       </div>
 
@@ -30,13 +30,14 @@ function Johnny() {
         <h1>Achievements</h1>
         <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
+        • 5000 followers on TikTok within 3 days of first video upload — July 21st, 2022
         • Survived being locked up for 12 days — July 14th, 2022 <br/>
         • Certified maniac — July 4th, 2022 <br/>
-        • Member of the MET <br/>
-        • #1 expert in the world on Handshake (HNS) — present<br/>
-        • Reached 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
-        • Promoted to Head of Product (equivalent to CEO) at Namebase — May 11th, 2022 <br/>
+        • 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
+        • #1 expert on Handshake (HNS) — June 11th, 2022 <br/>
+        • Promoted to Head of Product (CEO equivalent) at Namebase — May 11th, 2022<br/>
         • UUu LLC, CEO — March 14th, 2022<br/>
+        • Membership at The MET — December 29th, 2021 <br/>
         • Advanced open water diver — April 26th, 2019<br/>
         • Master rank in 王者荣耀 (Mobile League of Legends) — November 12th, 2018 <br/>
         • Certified mediator — June 22nd, 2018<br/>

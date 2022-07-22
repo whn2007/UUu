@@ -5,7 +5,7 @@
     padding: 0;
 
     .aboutHeader{
-        margin-top: 8em;
+        margin-top: 2em;
         margin-bottom: 1em;
         display: flex;
         justify-content: center;
@@ -33,7 +33,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-bottom: 5em;
+        margin-bottom: 1em;
         img{
             width: max(100vw);
         }
@@ -47,8 +47,7 @@
     .title{
         h1{
             text-align: center;
-            margin-bottom: 2em;
-            font-size: 2rem;
+            font-size: 3.5rem;
             color: $darkRed;
         }
     }
@@ -59,7 +58,7 @@
         margin-bottom: 0em;
         .aboutItem{
             text-decoration: none;
-            margin-bottom: 5em;
+            margin-bottom: 1em;
 
             .profilePic{
                 display: flex;
@@ -99,6 +98,58 @@
             }
             h1{
                 font-size: 2rem;
+                margin: 0.4em;
+                margin-bottom: 0em;
+                white-space: nowrap;
+                color: $black;
+            }
+            p{
+                font-size: 1.5rem;
+                margin: 0.2em;
+                white-space: nowrap;
+                color: $black;
+            }
+        }
+    
+    }
+
+    .diamondList{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-bottom: 1em;
+        .aboutItem{
+            text-decoration: none;
+            margin-bottom: 1em;
+
+            .profilePic{
+                display: flex;
+                justify-content: center;
+            }
+
+            .starsContainer{
+                display: flex;
+                justify-content: center;
+                .stars{
+                    margin: 0;
+                    height: max(0em);
+                }
+            }
+
+            .description{
+                text-decoration: none;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+            }
+            
+            
+            img{
+                width: 12em;
+                height: 12em;
+            }
+            h1{
+                font-size: 1.5rem;
                 margin: 0.4em;
                 margin-bottom: 0em;
                 white-space: nowrap;
@@ -154,7 +205,7 @@
     
         }
         .fundraising{
-            margin-bottom: 5em;
+            margin-bottom: 1em;
             img{
             }
             h2{
@@ -171,12 +222,10 @@
             grid-template-columns: 1fr 1fr;
             width: max(100vw);
             margin: 0;
-            margin-bottom: 2em;
+            margin-bottom: 0em;
     
             .aboutItem{
-                width: 50vw;
-                height: auto;
-                margin-bottom: 4em;
+                margin-bottom: 1em;
 
                 .starsContainer{
                     .stars{
@@ -202,9 +251,38 @@
                 }
             }
         }
+
+        .diamondList{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            width: max(100vw);
+            margin: 0;
+            margin-bottom: 1em;
+    
+            .aboutItem{
+                margin-bottom: 1em;
+    
+                .description{
+                    svg{
+                        font-size: 1.5rem;
+                    }
+                }
+                
+                img{
+                    width: 6em;
+                    height: 6em;
+                }
+                h1{
+                    font-size: 0.7rem;
+                }
+                p{
+                    font-size: 0.7rem;
+                }
+            }
+        }
         .chat{
             h2{
-                font-size: 1.5em;
+                font-size: 1.3em;
             }
             p{
                 font-size: 1em;
@@ -231,7 +309,7 @@
     
         }
         .fundraising{
-            margin-bottom: 7em;
+            margin-bottom: 1em;
             img{
             }
             h2{
@@ -248,18 +326,45 @@
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
             margin: 0;
-            margin-bottom: 3em;
+            margin-bottom: 0em;
     
             .aboutItem{
-                width: 33vw;
-                height: auto;
-                margin-bottom: 5em;
+                margin-bottom: 1em;
 
                 .starsContainer{
                     .stars{
                         height: max(1.5em);
                     }
                 }
+    
+                .description{
+                    svg{
+                        font-size: 2.5rem;
+                    }
+                }
+                
+                img{
+                    width: 10em;
+                    height: 10em;
+                }
+                h1{
+                    font-size: 1rem;
+                }
+                p{
+                    font-size: 1rem;
+                }
+            }
+        }
+
+        .diamondList{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            margin: 0;
+            margin-bottom: 1em;
+    
+            .aboutItem{
+                margin-bottom: 1em;
+
     
                 .description{
                     svg{

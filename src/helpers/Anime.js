@@ -24,6 +24,7 @@ import Kiki from '../assets/anime/kiki.png'
 import Howl from '../assets/anime/howl.png'
 import Pong from '../assets/anime/pong.png'
 import Lupin from '../assets/anime/lupin.png'
+import Shokugeki from '../assets/anime/shokugeki.png'
 
 export const AnimeList = [
     {
@@ -135,6 +136,11 @@ export const AnimeList = [
         name: 'Samurai Champloo',
         image : Samurai,
         link: 'https://myanimelist.net/anime/205/Samurai_Champloo',   
+    },
+    {
+        name: 'Shokugeki no Soma',
+        image : Shokugeki,
+        link: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma',   
     },
     {
         name: 'Spirited Away',

@@ -17,7 +17,7 @@
         margin-bottom: 2em;
         h1{
             margin: 0;
-            color: $darkRed;
+            color: $red;
             font-size: 4rem;
         }
         &:first-child{
@@ -55,9 +55,9 @@
 
                 svg{
                     font-size: 2.5rem;
-                    color: $darkRed;
+                    color: $red;
                     &:hover{
-                        color: $red;
+                        color: $darkRed;
                     }
                 }
             }

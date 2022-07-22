@@ -1,6 +1,5 @@
 import React from "react";
 import Footer from "../components/Footer";
-import Diamond from '../assets/diamond.png'
 import "../styles/Home.scss";
 import Merch from '../assets/jacket.png'
 import Zero from '../assets/knowdogap.png'
@@ -13,10 +12,7 @@ function Home() {
       <div className="header">
         <div className="intro">
           <div className="top">
-            <div className="diamonds">
-              <h3>Diamonds, will shine</h3>
-              <img src={Diamond}/>
-            </div>
+            <h3>Diamonds, will shine</h3>
             <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
           </div>
         </div>
@@ -66,9 +62,8 @@ function Home() {
 
       <div className="merch">
         <h1>Merch</h1>
-        <h2>The best way to support our endeavors is by purchasing and rockin' our company merch!</h2>
+        <h2>The best way to support our endeavors is by <a href="merch.uuu.vip" target='_blank'>purchasing</a> and rockin' our company merch!</h2>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
-        <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>
 
       <Footer className = "footer"/>

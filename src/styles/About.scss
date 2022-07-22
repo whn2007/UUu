@@ -15,7 +15,7 @@
                 text-align: center;
                 margin-bottom: 0%;
                 font-size: 4rem;
-                color: $darkRed;
+                color: $red;
             }
             p{
                 text-align: center;
@@ -48,7 +48,7 @@
         h1{
             text-align: center;
             font-size: 3.5rem;
-            color: $darkRed;
+            color: $red;
         }
     }
 
@@ -84,9 +84,9 @@
 
                 svg{
                     font-size: 2.5rem;
-                    color: $darkRed;
+                    color: $red;
                     &:hover{
-                        color: $red;
+                        color: $darkRed;
                     }
                 }
             }
@@ -167,7 +167,7 @@
 
     .chat{
         h2{
-            color: $darkRed;
+            color: $red;
             text-align: center;
             font-size: 2em;
             margin: 0;
@@ -180,14 +180,7 @@
             justify-content: center;
         }
         a{
-            text-decoration: none;
-            display: flex;
-            justify-content: center;
-            margin-bottom: 1em;
-            button{
-                font-size: 1.5em;
-                cursor: pointer;
-            }
+            color: $green;
         }
     }
     
@@ -286,11 +279,6 @@
             }
             p{
                 font-size: 1em;
-            }
-            a{
-                button{
-                    font-size: 1em;
-                }
             }
         }
     }

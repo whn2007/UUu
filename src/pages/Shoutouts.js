@@ -209,7 +209,7 @@ function Shoutouts() {
 
         <div className='youtubeButton'>
           <Link to='/youtube/'>
-            <button>Youtube Videos</button>
+            
           </Link>
         </div>
 

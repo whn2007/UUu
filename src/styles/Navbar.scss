@@ -61,6 +61,16 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    
+    .greenLogo{
+      img{
+        width: 3em;
+      }
+      position: absolute;
+      right: 1em;
+      margin-top: 0.1em;
+    }
+
 
     button {
       background-color: transparent;
@@ -104,6 +114,9 @@
       a{
         display: none;
       }
+      img{
+        display: none;
+      }
     }
   
   }
@@ -121,6 +134,9 @@
     .rightSide{
       white-space: nowrap;
       a{
+        display: none;
+      }
+      img{
         display: none;
       }
     }

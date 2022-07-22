@@ -1,6 +1,5 @@
 import Kanpeki from "../assets/ballers/kanpeki.png"
 import StephenTorres from '../assets/ballers/stephentorres.png'
-import Sumire from "../assets/ballers/sumire.png"
 import RioRoot from '../assets/ballers/rioroot.png'
 import JamesonTabor from '../assets/ballers/jamesontabor.png'
 import JoshBraun from '../assets/ballers/joshbraun.png'

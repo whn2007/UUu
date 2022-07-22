@@ -1,11 +1,11 @@
 import React from "react";
 import Footer from "../components/Footer";
-import { Link } from "react-router-dom";
 import Diamond from '../assets/diamond.png'
 import "../styles/Home.scss";
-import Johnny from '../assets/profilepics/jaywuzer.png'
-import TextBubble from '../assets/textbubble.png'
 import Merch from '../assets/jacket.png'
+import Zero from '../assets/knowdogap.png'
+import STier from '../assets/s-tier.png'
+import OneOfOne from '../assets/1@2x.png'
 
 function Home() {
   return (
@@ -24,7 +24,7 @@ function Home() {
 
       <div className="founder">
         <div className="profile">
-          <img src = {Johnny}/>
+          <img src = {Zero}/>
         </div>
         <div className="textBlock">
           <h1>"Zero know-do gap"</h1>
@@ -47,12 +47,12 @@ function Home() {
           </p>
         </div>
         <div className="profile">
-          <img src = {Johnny}/>
+          <img src = {STier}/>
         </div>
       </div>
       <div className="founder">
         <div className="profile">
-          <img src = {Johnny}/>
+          <img src = {OneOfOne}/>
         </div>
         <div className="textBlock">
           <h1>"1/1"</h1>
@@ -66,7 +66,7 @@ function Home() {
 
       <div className="merch">
         <h1>Merch</h1>
-        <h2>If you believe in <span style={{color: '#238811'}}>True Sustainability</span> by 2045, the best way to accelerate our endeavors is by purchasing and rockin' our company merch!</h2>
+        <h2>The best way to support our endeavors is by purchasing and rockin' our company merch!</h2>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
         <a href="https://merch.uuu.vip/" target='_blank'><button>Store</button></a>
       </div>

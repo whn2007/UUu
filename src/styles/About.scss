@@ -113,6 +113,32 @@
         }
     
     }
+
+    .chat{
+        h2{
+            color: $darkRed;
+            text-align: center;
+            font-size: 2em;
+            margin: 0;
+        }
+        p{
+            font-size: 1.5em;
+            line-height: 2em;
+            margin: 1em;
+            color: black;
+            justify-content: center;
+        }
+        a{
+            text-decoration: none;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 1em;
+            button{
+                font-size: 1.5em;
+                cursor: pointer;
+            }
+        }
+    }
     
     @media all and (min-width: 375px) and (max-width: 767px) {
         .aboutHeader{
@@ -173,6 +199,19 @@
                 }
                 p{
                     font-size: 0.7rem;
+                }
+            }
+        }
+        .chat{
+            h2{
+                font-size: 1.5em;
+            }
+            p{
+                font-size: 1em;
+            }
+            a{
+                button{
+                    font-size: 1em;
                 }
             }
         }

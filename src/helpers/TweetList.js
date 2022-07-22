@@ -1,5 +1,10 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1550153986363179008',
+        tweet: "The truth always shines. \n The longer you try to suppress it, the more violently it will reveal itself. \n And I am the truth.",
+        date: 7/21/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1548373548908961793',
         tweet: "90% of people live in the past. \n 9% of people live in the present. \n 1% of people live in the future.",
         date: 7/16/2022

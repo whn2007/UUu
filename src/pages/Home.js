@@ -5,12 +5,14 @@ import Merch from '../assets/jacket.png'
 import Zero from '../assets/knowdogap.png'
 import STier from '../assets/s-tier.png'
 import OneOfOne from '../assets/1@2x.png'
+import Bg from '../assets/background1.png'
 
 function Home() {
   return (
     <div className="home">
       <div className="header">
         <div className="intro">
+
           <div className="top">
             <h3>Diamonds, will shine</h3>
             <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
@@ -25,7 +27,8 @@ function Home() {
         <div className="textBlock">
           <h1>"Zero know-do gap"</h1>
           <p>
-          The deepest chasm in the world is the gap between what you know <br/> and what you do — most people's know-do gaps are miles long. <br/> Join UUu LLC to eliminate your know-do gap.
+            <b>Join UUu LLC to eliminate your know-do gap.</b> <br/>
+            The deepest chasm in the world is the gap between what you know <br/> and what you do — most people's know-do gaps are miles long. <br/> Join UUu LLC to eliminate your know-do gap.
           </p>
         </div>
       </div>
@@ -33,7 +36,7 @@ function Home() {
         <div className="textBlock">
           <h1>"S-Tier"</h1>
           <p>
-            Join UUu LLC to become S-Tier. <br/>
+            <b>Join UUu LLC to become S-Tier.</b><br/>
             • S-Tier: You love your job and have hobbies. <br/>
             • A-Tier: You love your job but don't have hobbies. <br/>
             • B-Tier: You don't care about your job but have hobbies. <br/>
@@ -53,7 +56,7 @@ function Home() {
         <div className="textBlock">
           <h1>"1/1"</h1>
           <p>
-          Join UUu LLC to become 1/1. <br/>
+          <b>Join UUu LLC to become 1/1.</b><br/>
           1/1 just means you grinded in one direction so long <br/> that everyone else around you has dropped out, <br/> so you're the only one left. If you love what you do, <br/> then you will naturally become 1/1. Anyone can become 1/1!.
           </p>
         </div>

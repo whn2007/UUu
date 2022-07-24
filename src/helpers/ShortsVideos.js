@@ -13,8 +13,16 @@ export const ShortsList = [
         //date: 6/15/22
     },
     {
+        link: "https://www.youtube.com/embed/LIXlBd4qQ_I",
+        //date: 5/25/22
+    },
+    {
         link: "https://www.youtube.com/embed/LYj-jM_FKv8",
         //date: 3/26/22
+    },
+    {
+        link: "https://www.youtube.com/embed/yhKVmys79nY",
+        //date: 3/19/22
     },
     {
         link: "https://www.youtube.com/embed/LB5x1QJbRGo",

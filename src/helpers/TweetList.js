@@ -1,4 +1,14 @@
 export const TweetList = [
+    {
+        link: 'https://twitter.com/JayWuzer/status/1550773002228232192',
+        tweet: 'Most people are just interested in being right. \n I only want the truth.',
+        date: 7/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1550871591960977409',
+        tweet: "Cat people > dog people. \n Cat people earn their love, dog people expect it.",
+        date: 7/23/2022
+    },
     {  
         link: 'https://twitter.com/JayWuzer/status/1550956682120871937',
         tweet: "Transparency in everything except martial and military might.",
@@ -32,11 +42,6 @@ export const TweetList = [
     {  
         link: 'https://twitter.com/JayWuzer/status/1543822701894086659',
         tweet: "IQ x EQ = Humor",
-        date: 7/3/2022
-    },
-    {  
-        link: 'https://twitter.com/JayWuzer/status/1543827211936862208',
-        tweet: "S-Tier: You love your job and have hobbies. \n A-Tier: You love your job but don't have hobbies.\n B-Tier: You don't care about your job but have hobbies. \n C-Tier: You don't care about your job and don't have hobbies. \n D-Tier: You hate your job but have hobbies. \n F-Tier: You hate.",
         date: 7/3/2022
     },
     {  
@@ -230,11 +235,6 @@ export const TweetList = [
         date: 6/19/2022
     },
     {
-        link: 'https://twitter.com/JayWuzer/status/1538601385922400256',
-        tweet: "Any time your feelings get hurt, it's just an indication that you need to dig a little more to more deeply understand yourself.",
-        date: 6/19/2022
-    },
-    {
         link: 'https://twitter.com/JayWuzer/status/1538595515272556544',
         tweet: "Silver bullets exist. \n We just need a lot of them.",
         date: 6/19/2022
@@ -267,16 +267,6 @@ export const TweetList = [
     {
         link: 'https://twitter.com/JayWuzer/status/1538198740556623872',
         tweet: "Have more faith in yourself. \n Have more faith in others. \n Have more faith.",
-        date: 6/18/2022
-    },
-    {
-        link: 'https://twitter.com/JayWuzer/status/1538189318660886528',
-        tweet: "My Chinese name is 吴绿. \n 绿, literally translated, means \"green\". \n I was born to \"green the world\". ",
-        date: 6/18/2022
-    },
-    {
-        link: 'https://twitter.com/JayWuzer/status/1538064071764811776',
-        tweet: "A person's sense of humor is an indication of their intelligence. \n And my cofounders are funny as FUCK!",
         date: 6/18/2022
     },
     {
@@ -482,16 +472,6 @@ export const TweetList = [
     {
         link: 'https://twitter.com/JayWuzer/status/1536415764990742529',
         tweet: "I don't mind talking shit to y'all because life is VERYYY unkind!\n You can't be so fragile if you want to accomplish great things! \n I have sobbed countless times this past week because of the hate I received, but I kept pushing every day because I must. \n I want to be #1!",
-        date: 6/13/2022
-    },
-    {
-        link: 'https://twitter.com/JayWuzer/status/1536421250028818432',
-        tweet: "Remember when I said \"despite the fact I only have 1 comma in my bank account, I'm already wealthy as FUCK with love?\" \n Believe me now?",
-        date: 6/13/2022
-    },
-    {
-        link: 'https://twitter.com/JayWuzer/status/1536518603360546817',
-        tweet: "Anyone is welcome to join UUu! \n We solve problems, have fun, figure shit out, and get things done! \n Join us if you want to eliminate your know-do-gap, which will make you 1/1. \n We don't NEED you though, you're just a nice-to-have 😈",
         date: 6/13/2022
     },
 ]

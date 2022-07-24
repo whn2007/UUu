@@ -1,5 +1,20 @@
 export const TweetList = [
     {  
+        link: 'https://twitter.com/JayWuzer/status/1550956682120871937',
+        tweet: "Transparency in everything except martial and military might.",
+        date: 7/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1550900508029661189',
+        tweet: "If you've never received hate, that just means you've never put anything out into the world. \n In other words, you're average. LOL!",
+        date: 7/23/2022
+    },
+    {  
+        link: 'https://twitter.com/JayWuzer/status/1549893583913639936',
+        tweet: "I solve problems, y'all ignore them.",
+        date: 7/21/2022
+    },
+    {  
         link: 'https://twitter.com/JayWuzer/status/1550153986363179008',
         tweet: "The truth always shines. \n The longer you try to suppress it, the more violently it will reveal itself. \n And I am the truth.",
         date: 7/21/2022

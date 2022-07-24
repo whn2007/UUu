@@ -32,6 +32,7 @@ function Johnny() {
         <p>
         • 5000 followers on TikTok within 3 days of first video upload — July 21st, 2022
         • Survived being locked up for 12 days — July 14th, 2022 <br/>
+        • On the FBI's radar — July 7th, 2022
         • Certified maniac — July 4th, 2022 <br/>
         • 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
         • #1 expert on Handshake (HNS) — June 11th, 2022 <br/>

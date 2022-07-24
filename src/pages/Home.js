@@ -5,14 +5,12 @@ import Merch from '../assets/jacket.png'
 import Zero from '../assets/knowdogap.png'
 import STier from '../assets/s-tier.png'
 import OneOfOne from '../assets/1@2x.png'
-import Bg from '../assets/background1.png'
 
 function Home() {
   return (
     <div className="home">
       <div className="header">
         <div className="intro">
-
           <div className="top">
             <h3>Diamonds, will shine</h3>
             <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>

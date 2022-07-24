@@ -12,7 +12,7 @@ function Home() {
       <div className="header">
         <div className="intro">
           <div className="top">
-            <h3>Diamonds, will shine</h3>
+            <h3>Diamonds, will shine.</h3>
             <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
           </div>
         </div>

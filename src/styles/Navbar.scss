@@ -10,7 +10,7 @@
   z-index: 1000;
 
   .hiddenLinks{
-    color: $grey;
+    color: $red;
     &:hover{
       color: $green;
     }
@@ -85,7 +85,7 @@
   }
   
   a {
-    color: $grey;
+    color: $red;
     text-decoration: none;
     padding-left: 1.5rem;
     padding-right : 1.5rem;

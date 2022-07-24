@@ -81,10 +81,13 @@
             margin: 0.5em 4em 0.5em 4em;
             text-align: center;
             font-size: 1.5rem;
-            color: $red;
+            color: $black;
         }
         a{
-            color: $green;
+            color: $red;
+            &:hover{
+                color: $green;
+            }
         }
         img {
             margin: 1em;

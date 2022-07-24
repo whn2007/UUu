@@ -181,7 +181,10 @@
             justify-content: center;
         }
         a{
-            color: $green;
+            color: $red;
+            &:hover{
+                color:$green;
+            }
         }
     }
     

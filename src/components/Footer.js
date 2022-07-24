@@ -11,6 +11,7 @@ import RedBottomLogo from '../assets/redbottomlogo.png'
 import SpotifyIcon from '../assets/spotify.png'
 import TikTokIcon from '../assets/tiktok.png'
 import TwitchIcon from '../assets/twitch.png'
+import PatreonIcon from '../assets/patreon.png'
 import TwitchIconDark from '../assets/twitch2.png'
 import SpotifyIconDark from '../assets/spotify2.png'
 import TikTokIconDark from '../assets/tiktok2.png'
@@ -46,11 +47,14 @@ function Footer() {
           <a href="https://www.facebook.com/JayUUuzer" target="_blank">
             <FacebookIcon />
           </a>
-          <a id = 'twitch' href="https://www.twitch.tv/jaywuzer" target="_blank">
+          <a  href="https://www.twitch.tv/jaywuzer" target="_blank">
             <img src={TwitchIcon} className='imported'/>
           </a>
           <a href="https://www.reddit.com/user/JayWuzer/" target="_blank">
             <RedditIcon/>
+          </a>
+          <a id = 'patreon' href="https://www.patreon.com/JayWuzer" target="_blank">
+            <img src={PatreonIcon} className='imported'/>
           </a>
         </div>
       </div>

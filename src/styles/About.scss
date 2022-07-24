@@ -38,6 +38,7 @@
             width: max(100vw);
         }
         h2{
+            text-align: center;
             padding: 1em;
             margin: 0;
             font-size: max(1.5em);
@@ -184,10 +185,11 @@
         }
     }
     
-    @media all and (min-width: 375px) and (max-width: 767px) {
+    @media all and (min-width: 300px) and (max-width: 767px) {
         .aboutHeader{
-            margin-bottom: 3em;
+            margin-bottom: 1em;
             .aboutTitle{
+                margin-top: 1em;
                 h1{
                     font-size: 2rem;
                 }
@@ -285,7 +287,7 @@
 
     @media all and (min-width: 768px) and (max-width: 1023px) {
         .aboutHeader{
-            margin-bottom: 5em;
+            margin-bottom: 0em;
             .aboutTitle{
                 h1{
                     font-size: 3rem;
@@ -395,9 +397,6 @@
                 }
             }
         }
-    }
-
-    @media all and (min-width: 1280px){
     }
 
 }

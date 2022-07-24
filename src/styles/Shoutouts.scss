@@ -4,8 +4,8 @@
     .youtubeButton{
         display: flex;
         justify-content: center;
-        button{
-            font-size: 1rem;
+        img{
+            width: 4em;
         }
         margin-bottom: 1em;
     }
@@ -97,7 +97,7 @@
     }
 
 
-    @media all and (min-width: 375px) and (max-width: 767px) {
+    @media all and (min-width: 300px) and (max-width: 767px) {
         .header{
             margin-bottom: 1em;
             h1{

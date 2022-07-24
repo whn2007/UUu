@@ -14,6 +14,7 @@ import { BooksList } from '../helpers/Books';
 import { MangaList } from '../helpers/MangaList'
 import { VideoGameList } from '../helpers/VideoGameList'
 import { Link } from 'react-router-dom';
+import YoutubeIcon from '../assets/youtube.png'
 
 function Shoutouts() {
   return (
@@ -209,7 +210,7 @@ function Shoutouts() {
 
         <div className='youtubeButton'>
           <Link to='/youtube/'>
-            
+            <img src={YoutubeIcon}/>
           </Link>
         </div>
 

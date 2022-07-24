@@ -96,6 +96,30 @@
 
   }
   
+  //tiny phones
+  @media all and (min-width: 300px) and (max-width: 374px){
+    .leftSide{
+      white-space: nowrap;
+      font-size: 0.7em;
+      .hiddenLinks{
+        margin-left: -2em;
+        a{
+          padding: 0.4em;
+        }
+      }
+    }
+
+    .rightSide{
+      a{
+        display: none;
+      }
+      img{
+        display: none;
+      }
+    }
+  
+  }
+  
   /* smartphones */
 
   @media all and (min-width: 375px) and (max-width: 767px){

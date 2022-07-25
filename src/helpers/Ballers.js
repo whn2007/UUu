@@ -17,20 +17,15 @@ export const BallersList = [
         image: JamesonTabor,
         link: "https://www.jamesontabor.com/",
     }, 
-    {
-        name: "Josh Braun",
-        image: JoshBraun,
-        link: "https://joshbraun.com/",
-    }, 
+    // {
+    //     name: "Josh Braun",
+    //     image: JoshBraun,
+    //     link: "https://joshbraun.com/",
+    // }, 
     {
         name: "Kanpeki",
         image: Kanpeki,
         link: "https://www.twitch.tv/kanpeki",
-    }, 
-    {
-        name: "Jenni Li",
-        image: PigmentPenguin,
-        link: "https://www.instagram.com/pigmentpenguin/",
     }, 
     {
         name: "Rio Root",

@@ -19,19 +19,19 @@ function Navbar() {
           <img src={Logo} className="logo" alt="Handshake Logo"/>
         </Link>
         <div className="hiddenLinks">
-          <Link to="/"> Home </Link>
-          <Link to="/values/"> Values </Link>
-          <Link to="/diamonds/"> Diamonds </Link>
-          <Link to="/boss/"> Boss </Link>
-          <Link to="/inspirations/"> Inspirations </Link>
+          <Link to="/"> <b>Home</b> </Link>
+          <Link to="/values/"> <b>Values</b> </Link>
+          <Link to="/diamonds/"> <b>Diamonds</b> </Link>
+          <Link to="/boss/"> <b>Boss</b> </Link>
+          <Link to="/inspirations/"> <b>Inspirations</b> </Link>
         </div>
       </div>
       <div className="rightSide">
-        <Link to="/"> Home </Link>
-        <Link to="/values/"> Values </Link>
-        <Link to="/diamonds/"> Diamonds </Link>
-        <Link to="/boss/"> Boss </Link>
-        <Link to="/inspirations/"> Inspirations </Link>
+        <Link to="/"> <b>Home</b> </Link>
+        <Link to="/values/"> <b>Values</b> </Link>
+        <Link to="/diamonds/"> <b>Diamonds</b> </Link>
+        <Link to="/boss/"> <b>Boss</b> </Link>
+        <Link to="/inspirations/"> <b>Inspirations</b> </Link>
         <div className="greenLogo"><img src={GreenLogo}/></div>
         <button onClick={toggleNavbar}>
           <ReorderIcon />

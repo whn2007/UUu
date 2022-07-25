@@ -1,5 +1,10 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/JayWuzer/status/1551356869234475009?t=QZzwanxJL1ig0lIE9H-p4g&s=19',
+        tweet: "If it's a problem that money can solve, then it's not a problem.",
+        date: 7/25/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1550773002228232192',
         tweet: 'Most people are just interested in being right. \n I only want the truth.',
         date: 7/23/2022
@@ -31,7 +36,7 @@ export const TweetList = [
     },
     {  
         link: 'https://twitter.com/JayWuzer/status/1548373548908961793',
-        tweet: "90% of people live in the past. \n 9% of people live in the present. \n 1% of people live in the future.",
+        tweet: "90% of people live in the past. \n 9% of people live in the present. \n 1% of are creating the future.",
         date: 7/16/2022
     },
     {  
@@ -76,7 +81,7 @@ export const TweetList = [
     },
     {  
         link: 'https://twitter.com/JayWuzer/status/1543054763809390592',
-        tweet: "I understand the value of things deeply, but there are 3 things that are Invaluable: \n 1. Time \n 2. Respect \n 3. Faith",
+        tweet: "I understand the value of things deeply, but there are 3 things that are invaluable: \n 1. Time \n 2. Respect \n 3. Faith",
         date: 7/1/2022
     },
     {  

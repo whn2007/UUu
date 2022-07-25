@@ -59,7 +59,7 @@ function Johnny() {
         • #1 YouTuber<br/>
         • ABRSM Grade 7<br/>
         • Ambassador to China<br/>
-        • American Political Party
+        • American Political Party <br/>
         • A-List Actor<br/>
         • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game Player<br/>

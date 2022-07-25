@@ -17,7 +17,7 @@ function Mission() {
         </div>
         <div className="right">
           <h2>Act With Integrity.</h2>
-          <p>Working for the net-positive sake of <span style={{color: '#238811'}}>True Sustainability</span> is paramount, and above all else, no matter our personal differences, we will not encroach on the integrity of True Sustainability.</p>
+          <p>Working for the net-positive sake of <span style={{color: '#238811'}}>True Sustainability</span> is paramount, and above all else, no matter our personal differences, we will not encroach on the integrity of <span style={{color: '#238811'}}>True Sustainability</span>.</p>
         </div>
       </div>
 

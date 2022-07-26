@@ -28,6 +28,16 @@ import TimHoWan from '../assets/restaurants/timhowan.png'
 import JuiceGeneration from '../assets/restaurants/juicegeneration.png'
 import Ichiran from '../assets/restaurants/ichiran.png'
 import Venchi from '../assets/restaurants/venchi.png'
+import Jua from '../assets/restaurants/jua.png'
+import Silky from '../assets/restaurants/silky.png'
+import Vanessas from '../assets/restaurants/vanessas.png'
+import ChaAn from '../assets/restaurants/chaan.png'
+import Sobaya from '../assets/restaurants/sobaya.png'
+import Russ from '../assets/restaurants/russ.png'
+import Rawesome from '../assets/rawesome.png'
+import Awash from '../assets/awash.png'
+import Shewat from '../assets/shewat.png'
+import HandsomeRice from '../assets/handsomerice.png'
 
 
 export const RestaurantsList = [
@@ -35,6 +45,11 @@ export const RestaurantsList = [
         name: "A La Turka",
         image: Turka,
         link: "https://www.alaturkany.com/",
+    }, 
+    {
+        name: "Awash",
+        image: Awash,
+        link: "https://awashny.com/",
     }, 
     {
         name: "Beersmith Gastropub",
@@ -52,6 +67,11 @@ export const RestaurantsList = [
         link: "https://cafechinanyc.com/",
     }, 
     {
+        name: "Cha-An Teahouse",
+        image: ChaAn,
+        link: "https://www.chaanteahouse.com/",
+    }, 
+    {
         name: "Cote Steakhouse",
         image: Cote,
         link: "https://www.cotenyc.com/",
@@ -67,9 +87,19 @@ export const RestaurantsList = [
         link: "http://haejangchon.com/",
     }, 
     {
+        name: "Handsome Rice",
+        image: HandsomeRice,
+        link: "https://www.handsomerice.com/",
+    }, 
+    {
         name: "Ichiran",
         image: Ichiran,
         link: "https://www.ichiranusa.com/",
+    }, 
+    {
+        name: "Jua",
+        image: Jua,
+        link: "https://juanyc.com/",
     }, 
     {
         name: "Juice Generation",
@@ -102,6 +132,11 @@ export const RestaurantsList = [
         link: "http://www.masanyc.com/",
     }, 
     {
+        name: "Rawsome Treats",
+        image: Rawesome,
+        link: "http://www.rawsometreats.com/",
+    }, 
+    {
         name: "Roberta's Pizza",
         image: Robertas,
         link: "https://www.robertaspizza.com/",
@@ -112,19 +147,39 @@ export const RestaurantsList = [
         link: "https://rushhourcookie.com/password",
     }, 
     {
+        name: "Russ & Daughters",
+        image: Russ,
+        link: "https://www.russanddaughters.com/",
+    }, 
+    {
         name: "Saffron Mediterranean Grill",
         image: Saffron, 
         link: "https://www.safronmediterraneangrill.com/",
-    }, 
+    },
+    {
+        name: "Shewat Cafe",
+        image: Shewat, 
+        link: "https://www.shewhatcafe.com/",
+    },
     {
         name: "Shima Steak",
         image: ShimaSteak, 
         link: "https://www.tripadvisor.com/Restaurant_Review-g14129589-d1684652-Reviews-Shima_Steak-Nihonbashi_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
     },
     {
+        name: "Silky Kitchen",
+        image: Silky, 
+        link: "https://silkykitchen.com/",
+    },
+    {
         name: "Slow Boat Brewery",
         image: SlowBoatBrewery, 
         link: "http://www.slowboatbrewery.com/",
+    },
+    {
+        name: "Sobaya",
+        image: Sobaya,
+        link: "https://sobaya.square.site/",
     },
     {
         name: "Soothr Thai Noodle Bar",
@@ -170,7 +225,12 @@ export const RestaurantsList = [
         name: "Up Thai",
         image: UpThai,
         link: "http://www.upthainyc.com/",
-    }, 
+    },
+    {
+        name: "Vanessa's Dumpling House",
+        image: Vanessas,
+        link: "https://vanessas.com/",
+    },  
     {
         name: "Venchi",
         image: Venchi,

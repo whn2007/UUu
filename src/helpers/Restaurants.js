@@ -34,10 +34,20 @@ import Vanessas from '../assets/restaurants/vanessas.png'
 import ChaAn from '../assets/restaurants/chaan.png'
 import Sobaya from '../assets/restaurants/sobaya.png'
 import Russ from '../assets/restaurants/russ.png'
-import Rawesome from '../assets/rawesome.png'
-import Awash from '../assets/awash.png'
-import Shewat from '../assets/shewat.png'
-import HandsomeRice from '../assets/handsomerice.png'
+import Rawesome from '../assets/restaurants/rawesome.png'
+import Awash from '../assets/restaurants/awash.png'
+import Shewat from '../assets/restaurants/shewat.png'
+import HandsomeRice from '../assets/restaurants/handsomerice.png'
+import Davelle from '../assets/restaurants/davelle.png'
+import Overthrow from '../assets/restaurants/overthrow.png'
+import Yopparai from '../assets/restaurants/yopparai.png'
+import LeBotaniste from '../assets/restaurants/lebotaniste.png'
+import TopDog from '../assets/restaurants/topdog.png'
+import Schallers from '../assets/restaurants/schallers.png'
+import Levain from '../assets/restaurants/levain.png'
+import Birria from '../assets/restaurants/birria.png'
+import Sedutto from '../assets/restaurants/sedutto.png'
+import Vietnaam from '../assets/restaurants/vietnaam.png'
 
 
 export const RestaurantsList = [
@@ -67,6 +77,11 @@ export const RestaurantsList = [
         link: "https://cafechinanyc.com/",
     }, 
     {
+        name: "Casa Birria NYC",
+        image: Birria,
+        link: "https://www.yelp.com/biz/casa-birria-nyc-new-york",
+    }, 
+    {
         name: "Cha-An Teahouse",
         image: ChaAn,
         link: "https://www.chaanteahouse.com/",
@@ -75,6 +90,11 @@ export const RestaurantsList = [
         name: "Cote Steakhouse",
         image: Cote,
         link: "https://www.cotenyc.com/",
+    }, 
+    {
+        name: "Davelle",
+        image: Davelle,
+        link: "https://davellenewyork.com/",
     }, 
     {
         name: "Emily",
@@ -117,6 +137,16 @@ export const RestaurantsList = [
         link: "https://www.langersdeli.com/",
     }, 
     {
+        name: "Le Botaniste",
+        image: LeBotaniste,
+        link: "https://lebotaniste.us/",
+    }, 
+    {
+        name: "Levain Bakery",
+        image: Levain,
+        link: "https://levainbakery.com/",
+    }, 
+    {
         name: "Leven Deli Co.",
         image: Leven,
         link: "https://eatleven.com/",
@@ -130,6 +160,11 @@ export const RestaurantsList = [
         name: "Masa",
         image: Masa,
         link: "http://www.masanyc.com/",
+    }, 
+    {
+        name: "Overthrow Hospitality",
+        image: Overthrow,
+        link: "https://www.overthrowhospitality.com/",
     }, 
     {
         name: "Rawsome Treats",
@@ -155,6 +190,16 @@ export const RestaurantsList = [
         name: "Saffron Mediterranean Grill",
         image: Saffron, 
         link: "https://www.safronmediterraneangrill.com/",
+    },
+    {
+        name: "Schaller's Stube",
+        image: Schallers, 
+        link: "https://www.schallerstube.com/",
+    },
+    {
+        name: "Sedutto",
+        image: Sedutto, 
+        link: "http://kosheradvantage.com/sedutto/",
     },
     {
         name: "Shewat Cafe",
@@ -212,6 +257,11 @@ export const RestaurantsList = [
         link: "https://timhowanusa.com/",
     }, 
     {
+        name: "Top Dog",
+        image: TopDog,
+        link: "http://topdoghotdogs.com/",
+    }, 
+    {
         name: "TRB Hutong",
         image: Hutong,
         link: "https://trb-hutong.com/",
@@ -237,8 +287,18 @@ export const RestaurantsList = [
         link: "https://us.venchi.com/",
     }, 
     {
+        name: "Vietnaam",
+        image: Vietnaam,
+        link: "https://www.vietnaam88.com/order-online",
+    }, 
+    {
         name: "Xi'an Famous Foods",
         image: Xian,
         link: "https://www.xianfoods.com/",
+    }, 
+    {
+        name: "Yopparai",
+        image: Yopparai,
+        link: "https://yopparainyc.com/",
     }, 
 ]

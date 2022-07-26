@@ -16,6 +16,18 @@ import Emily from '../assets/restaurants/emily.png'
 import Cote from '../assets/restaurants/cotesteakhouse.png'
 import CafeChina from '../assets/restaurants/cafechina.png'
 import Turka from '../assets/restaurants/alaturks.png'
+import ShimaSteak from '../assets/restaurants/shimasteak.png'
+import Beersmith from '../assets/restaurants/beersmith.png'
+import SlowBoatBrewery from '../assets/restaurants/slowboatbrewery.png'
+import Hutong from '../assets/restaurants/hutong.png'
+import BunCha from '../assets/restaurants/buncha.png'
+import Haejangchon from '../assets/restaurants/haejangchon.png'
+import Robertas from "../assets/restaurants/roberta's.png"
+import Turco from '../assets/restaurants/turkos.png'
+import TimHoWan from '../assets/restaurants/timhowan.png'
+import JuiceGeneration from '../assets/restaurants/juicegeneration.png'
+import Ichiran from '../assets/restaurants/ichiran.png'
+import Venchi from '../assets/restaurants/venchi.png'
 
 
 export const RestaurantsList = [
@@ -23,6 +35,16 @@ export const RestaurantsList = [
         name: "A La Turka",
         image: Turka,
         link: "https://www.alaturkany.com/",
+    }, 
+    {
+        name: "Beersmith Gastropub",
+        image: Beersmith,
+        link: "https://www.tripadvisor.com/Restaurant_Review-g294212-d13170523-Reviews-Beersmith_Gastropub-Beijing.html",
+    }, 
+    {
+        name: "Bún Chả Hương Liên",
+        image: BunCha,
+        link: "https://m.facebook.com/bunchahuonglienobama",
     }, 
     {
         name: "Cafe China",
@@ -38,6 +60,21 @@ export const RestaurantsList = [
         name: "Emily",
         image: Emily,
         link: "https://www.pizzalovesemily.com/",
+    }, 
+    {
+        name: "Haejangchon AYCE",
+        image: Haejangchon,
+        link: "http://haejangchon.com/",
+    }, 
+    {
+        name: "Ichiran",
+        image: Ichiran,
+        link: "https://www.ichiranusa.com/",
+    }, 
+    {
+        name: "Juice Generation",
+        image: JuiceGeneration,
+        link: "https://www.juicegeneration.com/",
     }, 
     {
         name: "Keki",
@@ -65,6 +102,11 @@ export const RestaurantsList = [
         link: "http://www.masanyc.com/",
     }, 
     {
+        name: "Roberta's Pizza",
+        image: Robertas,
+        link: "https://www.robertaspizza.com/",
+    }, 
+    {
         name: "Rush Hour Cookies",
         image: Cookies,
         link: "https://rushhourcookie.com/password",
@@ -74,6 +116,16 @@ export const RestaurantsList = [
         image: Saffron, 
         link: "https://www.safronmediterraneangrill.com/",
     }, 
+    {
+        name: "Shima Steak",
+        image: ShimaSteak, 
+        link: "https://www.tripadvisor.com/Restaurant_Review-g14129589-d1684652-Reviews-Shima_Steak-Nihonbashi_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+    },
+    {
+        name: "Slow Boat Brewery",
+        image: SlowBoatBrewery, 
+        link: "http://www.slowboatbrewery.com/",
+    },
     {
         name: "Soothr Thai Noodle Bar",
         image: Soothr,
@@ -100,9 +152,29 @@ export const RestaurantsList = [
         link: "https://www.yelp.com/biz/tacos-el-autlense-albany",
     }, 
     {
+        name: "Tim Ho Wan",
+        image: TimHoWan,
+        link: "https://timhowanusa.com/",
+    }, 
+    {
+        name: "TRB Hutong",
+        image: Hutong,
+        link: "https://trb-hutong.com/",
+    }, 
+    {
+        name: "Turco Mediterranean Grill",
+        image: Turco,
+        link: "https://www.turconyc.com/",
+    }, 
+    {
         name: "Up Thai",
         image: UpThai,
         link: "http://www.upthainyc.com/",
+    }, 
+    {
+        name: "Venchi",
+        image: Venchi,
+        link: "https://us.venchi.com/",
     }, 
     {
         name: "Xi'an Famous Foods",

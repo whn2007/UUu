@@ -59,6 +59,27 @@ import TheTalosPrinciple from '../assets/videogames/thetalosprinciple.png'
 import WiisSports from '../assets/videogames/wiisports.png'
 import WormsReloaded from '../assets/videogames/wormsreloaded.png'
 import YuGiOh from '../assets/videogames/yugioh.png'
+import TicketToRide from '../assets/videogames/tickettoride.png'
+import Catan from '../assets/videogames/catan.png'
+import Monopoly from '../assets/videogames/monopoly.png'
+import Sorry from '../assets/videogames/sorry.png'
+import Connect4 from '../assets/videogames/connect4.png'
+import Battleship from '../assets/videogames/battleship.png'
+import Jenga from '../assets/videogames/jenga.png'
+import Blokus from '../assets/videogames/blokus.png'
+import Chess from '../assets/videogames/chess.png'
+import OneNightWerewolf from '../assets/videogames/onenightwerewolf.png'
+import Stratego from '../assets/videogames/stratego.png'
+import Clue from '../assets/videogames/clue.png'
+import Creationary from '../assets/videogames/creationary.png'
+import Life from '../assets/videogames/gameoflife.png'
+import Codenames from '../assets/videogames/codenames.png'
+import Scribble from '../assets/videogames/scribble.png'
+import MachiKoro from '../assets/videogames/machikoro.png'
+import Acquire from '../assets/videogames/acquire.png'
+import TexasHoldem from '../assets/videogames/texasholdem.png'
+import AnimalCrossing from '../assets/videogames/animalcrossing.png'
+
 
 export const VideoGameList = [
     {
@@ -77,6 +98,16 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild'
     },
     {
+        name: 'Acquire',
+        image: Acquire,
+        link: 'https://en.wikipedia.org/wiki/Acquire'
+    },
+    {
+        name: 'Animal Crossing',
+        image: AnimalCrossing,
+        link: 'https://animal-crossing.com/'
+    },
+    {
         name: 'Army of Two',
         image: ArmyOfTwo,
         link: 'https://en.wikipedia.org/wiki/Army_of_Two'
@@ -87,9 +118,19 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/Assassin%27s_Creed'
     },
     {
+        name: 'Battleship',
+        image: Battleship,
+        link: 'https://en.wikipedia.org/wiki/Battleship_(game)'
+    },
+    {
         name: 'Beat Saber',
         image: BeatSaber,
         link: 'https://en.wikipedia.org/wiki/Beat_Saber'
+    },
+    {
+        name: 'Blokus',
+        image: Blokus,
+        link: 'https://en.wikipedia.org/wiki/Blokus'
     },
     {
         name: 'Borderlands',
@@ -105,6 +146,36 @@ export const VideoGameList = [
         name: 'Call of Duty',
         image: CallOfDuty,
         link: 'https://en.wikipedia.org/wiki/Call_of_Duty'
+    },
+    {
+        name: 'Catan',
+        image: Catan,
+        link: 'https://en.wikipedia.org/wiki/Catan'
+    },
+    {
+        name: 'Chess',
+        image: Chess,
+        link: 'https://en.wikipedia.org/wiki/Chess'
+    },
+    {
+        name: 'Clue',
+        image: Clue,
+        link: 'https://www.amazon.com/Hasbro-A5826079-Clue-Game/dp/B01JYVHMVA'
+    },
+    {
+        name: 'Codenames',
+        image: Codenames,
+        link: 'https://en.wikipedia.org/wiki/Codenames_(board_game)'
+    },
+    {
+        name: 'Connect 4',
+        image: Connect4,
+        link: 'https://en.wikipedia.org/wiki/Connect_Four'
+    },
+    {
+        name: 'Creationary',
+        image: Creationary,
+        link: 'https://www.amazon.com/LEGO-4568231-Creationary-Game/dp/B001U3Y5XE'
     },
     {
         name: 'Creed: Rise to Glory',
@@ -152,6 +223,11 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/Human_Resource_Machine'
     },
     {
+        name: 'Jenga',
+        image: Jenga,
+        link: 'https://en.wikipedia.org/wiki/Jenga'
+    },
+    {
         name: 'Job Simulator',
         image: JobSimulator,
         link: 'https://en.wikipedia.org/wiki/Job_Simulator'
@@ -165,6 +241,11 @@ export const VideoGameList = [
         name: 'Kirby',
         image: Kirby,
         link: 'https://en.wikipedia.org/wiki/Kirby_(series)'
+    },
+    {
+        name: 'Machi Koro',
+        image: MachiKoro,
+        link: 'https://en.wikipedia.org/wiki/Machi_Koro'
     },
     {
         name: 'Madden',
@@ -197,6 +278,11 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/Minecraft'
     },
     {
+        name: 'Monopoly',
+        image: Monopoly,
+        link: 'https://en.wikipedia.org/wiki/Monopoly_(game)'
+    },
+    {
         name: 'Naruto: Ultimate Ninja Storm',
         image: Naruto,
         link: 'https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm'
@@ -215,6 +301,11 @@ export const VideoGameList = [
         name: 'Okami',
         image: Okami,
         link: 'https://en.wikipedia.org/wiki/%C5%8Ckami'
+    },
+    {
+        name: 'One Night Werewolf',
+        image: OneNightWerewolf,
+        link: 'https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf'
     },
     {
         name: 'OrbusVR: Reborn',
@@ -282,6 +373,11 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/Saints_Row'
     },
     {
+        name: "Skribble.io",
+        image: Scribble,
+        link: 'https://skribbl.io/'
+    },
+    {
         name: "Sid Meier's Civilization",
         image: SidmeiersCivilization,
         link: 'https://en.wikipedia.org/wiki/Civilization_(video_game)'
@@ -297,9 +393,19 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim'
     },
     {
+        name: 'Sorry!',
+        image: Sorry,
+        link: 'https://en.wikipedia.org/wiki/Sorry!_(game)'
+    },
+    {
         name: 'Space Pirate Trainer',
         image: SpacePirateTrainer,
         link: 'https://en.wikipedia.org/wiki/Space_Pirate_Trainer'
+    },
+    {
+        name: 'Stratego',
+        image: Stratego,
+        link: 'https://en.wikipedia.org/wiki/Stratego'
     },
     {
         name: 'Superhot VR',
@@ -317,6 +423,16 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/Super_Smash_Bros.'
     },
     {
+        name: "Texas Hold'em",
+        image: TexasHoldem,
+        link: 'https://en.wikipedia.org/wiki/Texas_hold_%27em'
+    },
+    {
+        name: 'The Game of Life',
+        image: Life,
+        link: 'https://en.wikipedia.org/wiki/The_Game_of_Life'
+    },
+    {
         name: 'The Jack Box Party Pack',
         image: TheJackBoxPartyPack,
         link: 'https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack'
@@ -325,6 +441,11 @@ export const VideoGameList = [
         name: 'The Lab',
         image: TheLab,
         link: 'https://en.wikipedia.org/wiki/The_Lab_(video_game)'
+    },
+    {
+        name: 'Ticket to Ride',
+        image: TicketToRide,
+        link: 'https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)'
     },
     {
         name: 'TLoZ: Skyward Sword',

@@ -1,5 +1,25 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/JayWuzer/status/1552078759808733184?t=Zn0qSecw2MvOZe8_p2GJTg&s=19',
+        tweet: "Only 2 kinds of products and services exist: \n 1. Best overall \n 2. Best value \n That's it.",
+        date: 7/27/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1552057996892483585',
+        tweet: "Children fight with their words. \n Adults fight with their fists. \n Demigods fight with their actions.",
+        date: 7/27/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1551767821650079744',
+        tweet: "Being too smart for your own good means you've become too exceptional at one thing, which deluded you into believing you are exceptional at everything.",
+        date: 7/26/2022
+    },
+    {
+        link: 'https://twitter.com/JayWuzer/status/1551751431752847361',
+        tweet: "The overall lesson I learned from being locked up for 12 days: \n You can lead a horse to water, but you can't make it drink.",
+        date: 7/26/2022
+    },
+    {
         link: 'https://twitter.com/JayWuzer/status/1551356869234475009?t=QZzwanxJL1ig0lIE9H-p4g&s=19',
         tweet: "If it's a problem that money can solve, then it's not a problem.",
         date: 7/25/2022

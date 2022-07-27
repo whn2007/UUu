@@ -28,13 +28,18 @@ body::-webkit-scrollbar {
 }
 
 h1 {
+  //font bolder
   font-weight: var(--font-weight-bolder);
+  //white border
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 h2,
 h3,
 h4 {
   font-weight: var(--font-weight-bold);
+  //white border
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 button,

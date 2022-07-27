@@ -1,15 +1,17 @@
-import CleanRobotics from "../assets/products/clean_robotics.png"
-import Atlas from "../assets/products/atlas.png"
+import CleanRobotics from "../assets/diamonds/cleanrobotics.png"
+import Atlas from "../assets/diamonds/atlas.png"
 import Tony from '../assets/diamonds/tony.png'
 
 export const DiamondsList = [
     {
-        name: "AtlasPROFilax",
+        name: "Earthly Living",
+        description: 'AtlasPROfilax® Specialist',
         image: Atlas,
-        link: "https://www.atlasprofilax.ch/en/",
+        link: "https://www.earthlyliving.org/",
     }, 
     {
         name: "CleanRobotics",
+        description: 'Creators of TrashBot',
         image: CleanRobotics,
         link: "https://cleanrobotics.com/trashbot/",
     }, 

@@ -11,6 +11,7 @@ import KibaGateaux from '../assets/ballers/kibagateaux.png'
 import NathanSegal from '../assets/ballers/nathansegal.png'
 import Eskimo from '../assets/ballers/eskimo.png'
 import PattiLi from '../assets/ballers/pattili.png'
+import CatherynLi from '../assets/ballers/catherynli.png'
 
 
 
@@ -19,6 +20,11 @@ export const BallersList = [
         name: "Bennett Hoffman",
         image: BennettHoffman,
         link: "https://twitter.com/bennhoffman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    }, 
+    {
+        name: "Catheryn Li",
+        image: CatherynLi,
+        link: "https://www.linkedin.com/in/catherynli",
     }, 
     {
         name: "David Vorick",

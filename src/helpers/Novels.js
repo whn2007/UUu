@@ -30,6 +30,7 @@ import TheOydssey from '../assets/novels/odyssey.png'
 import Leagues from '../assets/novels/20kleagues.png'
 import Anthem from '../assets/novels/anthem.png'
 import Cuckoo from '../assets/novels/cuckoo.png'
+import JourneyToTheWest from '../assets/novels/journeytothewest.png'
 
 
 export const NovelsList = [
@@ -87,6 +88,11 @@ export const NovelsList = [
         name: "Journey to the Center of the Earth",
         image: Journey,
         link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth",
+    }, 
+    {
+        name: "Journey to the West",
+        image: JourneyToTheWest,
+        link: "https://en.wikipedia.org/wiki/Journey_to_the_West",
     }, 
     {
         name: "Odyssey",

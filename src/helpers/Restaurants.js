@@ -64,6 +64,7 @@ import Acai from '../assets/restaurants/acai.png'
 import ElFarolito from '../assets/restaurants/elfarolito.png'
 import Padrecito from '../assets/restaurants/padrecito.png'
 import WildSeed from '../assets/restaurants/wildseed.png'
+import MenshoTokyo from '../assets/restaurants/mensho.png'
 
 
 export const RestaurantsList = [
@@ -211,6 +212,11 @@ export const RestaurantsList = [
         name: "Masa",
         image: Masa,
         link: "http://www.masanyc.com/",
+    }, 
+    {
+        name: "Mensho Tokyo",
+        image: MenshoTokyo,
+        link: "http://menshogroup.com/",
     }, 
     {
         name: "Overthrow Hospitality",

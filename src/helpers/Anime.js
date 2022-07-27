@@ -25,6 +25,8 @@ import Howl from '../assets/anime/howl.png'
 import Pong from '../assets/anime/pong.png'
 import Lupin from '../assets/anime/lupin.png'
 import Shokugeki from '../assets/anime/shokugeki.png'
+import DarkMaiden from '../assets/anime/darkmaiden.png'
+import OnePunchMan from '../assets/anime/onepunchman.png'
 
 export const AnimeList = [
     {
@@ -93,6 +95,11 @@ export const AnimeList = [
         link: 'https://myanimelist.net/anime/523/Tonari_no_Totoro?q=my%20neighbor%20totoro&cat=anime',   
     },
     {
+        name: 'One Punch Man',
+        image : OnePunchMan,
+        link: 'https://myanimelist.net/anime/30276/One_Punch_Man',   
+    },
+    {
         name: 'Ousama Ranking',
         image : Ousama,
         link: 'https://myanimelist.net/anime/40834/Ousama_Ranking?q=ousama%20r&cat=anime',   
@@ -146,6 +153,11 @@ export const AnimeList = [
         name: 'Spirited Away',
         image : Spirited,
         link: 'https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi',   
+    },
+    {
+        name: 'Tasogare Otome x Amnesia',
+        image : DarkMaiden,
+        link: 'https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia',   
     },
     {
         name: 'The Girl Who Leapt Through Time',

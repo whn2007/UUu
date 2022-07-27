@@ -48,6 +48,12 @@ import Levain from '../assets/restaurants/levain.png'
 import Birria from '../assets/restaurants/birria.png'
 import Sedutto from '../assets/restaurants/sedutto.png'
 import Vietnaam from '../assets/restaurants/vietnaam.png'
+import DiAnDi from '../assets/restaurants/diandi.png'
+import Thipsamai from '../assets/restaurants/thipsamai.png'
+import TianTian from '../assets/restaurants/tiantian.png'
+import JoesStoneCrab from '../assets/restaurants/joesstonecrab.png'
+import SaffronGrill from '../assets/restaurants/saffrongrill.png'
+import HaidiLao from '../assets/restaurants/haidilao.png'
 
 
 export const RestaurantsList = [
@@ -97,6 +103,11 @@ export const RestaurantsList = [
         link: "https://davellenewyork.com/",
     }, 
     {
+        name: "Di An Di",
+        image: DiAnDi,
+        link: "https://www.diandi.nyc/",
+    },
+    {
         name: "Emily",
         image: Emily,
         link: "https://www.pizzalovesemily.com/",
@@ -107,6 +118,11 @@ export const RestaurantsList = [
         link: "http://haejangchon.com/",
     }, 
     {
+        name: "Haidilao",
+        image: HaidiLao,
+        link: "https://www.haidilao.com/sg/",
+    }, 
+    {
         name: "Handsome Rice",
         image: HandsomeRice,
         link: "https://www.handsomerice.com/",
@@ -115,6 +131,11 @@ export const RestaurantsList = [
         name: "Ichiran",
         image: Ichiran,
         link: "https://www.ichiranusa.com/",
+    }, 
+    {
+        name: "Joe's Stone Crab",
+        image: JoesStoneCrab,
+        link: "https://joesstonecrab.com/",
     }, 
     {
         name: "Jua",
@@ -187,6 +208,11 @@ export const RestaurantsList = [
         link: "https://www.russanddaughters.com/",
     }, 
     {
+        name: "Saffron Grill",
+        image: SaffronGrill, 
+        link: "https://safron-grill.business.site/",
+    },
+    {
         name: "Saffron Mediterranean Grill",
         image: Saffron, 
         link: "https://www.safronmediterraneangrill.com/",
@@ -250,6 +276,16 @@ export const RestaurantsList = [
         name: "Tacos El Autlense",
         image: Tacos,
         link: "https://www.yelp.com/biz/tacos-el-autlense-albany",
+    }, 
+    {
+        name: "Thipsamai",
+        image: Thipsamai,
+        link: "https://thipsamai.com/",
+    }, 
+    {
+        name: "Tian Tian Chicken Rice",
+        image: TianTian,
+        link: "https://www.instagram.com/tiantianchicken/",
     }, 
     {
         name: "Tim Ho Wan",

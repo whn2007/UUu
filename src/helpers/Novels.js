@@ -35,6 +35,21 @@ import JourneyToTheWest from '../assets/novels/journeytothewest.png'
 
 export const NovelsList = [
     {
+        name: "Robinson Crusoe",
+        image: RobinsonCrusoe,
+        link: "https://en.wikipedia.org/wiki/Robinson_Crusoe",
+    },  
+    {
+        name: "The Count of Monte Cristo",
+        image: MonteCristo,
+        link: "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+    }, 
+    {
+        name: "Odyssey",
+        image: TheOydssey,
+        link: "https://en.wikipedia.org/wiki/Odyssey",
+    },
+    {
         name: "20000 Leagues Under the Seas",
         image: Leagues,
         link: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas",
@@ -95,11 +110,6 @@ export const NovelsList = [
         link: "https://en.wikipedia.org/wiki/Journey_to_the_West",
     }, 
     {
-        name: "Odyssey",
-        image: TheOydssey,
-        link: "https://en.wikipedia.org/wiki/Odyssey",
-    },
-    {
         name: "One Flew Over the Cuckoo's Nest",
         image: Cuckoo,
         link: "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel)",
@@ -113,11 +123,6 @@ export const NovelsList = [
         name: "Ringworld",
         image: Ringworld,
         link: "https://en.wikipedia.org/wiki/Ringworld",
-    }, 
-    {
-        name: "Robinson Crusoe",
-        image: RobinsonCrusoe,
-        link: "https://en.wikipedia.org/wiki/Robinson_Crusoe",
     }, 
     {
         name: "Romance of the Three Kingdoms",
@@ -153,11 +158,6 @@ export const NovelsList = [
         name: "The Catcher in the Rye",
         image: Rye,
         link: "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
-    }, 
-    {
-        name: "The Count of Monte Cristo",
-        image: MonteCristo,
-        link: "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
     }, 
     {
         name: "The Giver",

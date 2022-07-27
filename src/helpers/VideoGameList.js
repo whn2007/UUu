@@ -5,7 +5,6 @@ import BeatSaber from '../assets/videogames/beatsaber.png'
 import Borderlands from '../assets/videogames/borderlands.png'
 import BrainAge from '../assets/videogames/brainage.png'
 import CallOfDuty from '../assets/videogames/callofduty.png'
-import Cars2 from '../assets/videogames/cars2.png'
 import Creed from '../assets/videogames/creed:risetoglory.png'
 import EliteBeatAgents from '../assets/videogames/elitebeatagents.png'
 import Fallout from '../assets/videogames/fallout.png'
@@ -68,6 +67,16 @@ export const VideoGameList = [
         link: 'https://en.wikipedia.org/wiki/A_Dark_Room'
     },
     {
+        name: 'Kings of Glory',
+        image: KingsOfGlory,
+        link: 'https://en.wikipedia.org/wiki/Honor_of_Kings'
+    },
+    {
+        name: 'TLoZ: Breath of the Wild',
+        image: BreathoftheWild,
+        link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild'
+    },
+    {
         name: 'Army of Two',
         image: ArmyOfTwo,
         link: 'https://en.wikipedia.org/wiki/Army_of_Two'
@@ -96,11 +105,6 @@ export const VideoGameList = [
         name: 'Call of Duty',
         image: CallOfDuty,
         link: 'https://en.wikipedia.org/wiki/Call_of_Duty'
-    },
-    {
-        name: 'Cars 2',
-        image: Cars2,
-        link: 'https://en.wikipedia.org/wiki/Cars_2_(video_game)'
     },
     {
         name: 'Creed: Rise to Glory',
@@ -156,11 +160,6 @@ export const VideoGameList = [
         name: 'Jump Ultimate Stars',
         image: JumpUltimateStars,
         link: 'https://en.wikipedia.org/wiki/Jump_Ultimate_Stars'
-    },
-    {
-        name: 'Kings of Glory',
-        image: KingsOfGlory,
-        link: 'https://en.wikipedia.org/wiki/Honor_of_Kings'
     },
     {
         name: 'Kirby',
@@ -326,11 +325,6 @@ export const VideoGameList = [
         name: 'The Lab',
         image: TheLab,
         link: 'https://en.wikipedia.org/wiki/The_Lab_(video_game)'
-    },
-    {
-        name: 'TLoZ: Breath of the Wild',
-        image: BreathoftheWild,
-        link: 'https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild'
     },
     {
         name: 'TLoZ: Skyward Sword',

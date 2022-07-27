@@ -60,9 +60,26 @@ import WorldTrigger from '../assets/manga/worldtrigger.png'
 import Yasashiisekainotsukurikata from '../assets/manga/yasashiisekainotsukurikata.png'
 import Yuyuhakusho from '../assets/manga/yuyuhakusho.png'
 import Onizuka from '../assets/manga/onizuka.png'
+import Shokugeki from '../assets/manga/shokugeki.png'
+import Yasashii from '../assets/manga/yasashii.png'
 
 
 export const MangaList = [
+    {
+        name: 'Half & Half',
+        image: HalfnHalf,
+        link: 'https://myanimelist.net/manga/42545/Half___Half?q=half%20%26&cat=manga'
+    },
+    {
+        name: 'Shokugeki no Soma',
+        image: Shokugeki,
+        link: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma'
+    },
+    {
+        name: 'Yasashii Sekai',
+        image: Yasashii,
+        link: 'https://myanimelist.net/manga/18939/Yasashii_Sekai_no_Tsukurikata'
+    },
     {
         name: 'Ao Haru Ride',
         image: AoHaruRide,
@@ -162,11 +179,6 @@ export const MangaList = [
         name: 'Haikyuu!!',
         image: Haikyu,
         link: 'https://myanimelist.net/manga/35243/Haikyuu?q=haikyu&cat=manga'
-    },
-    {
-        name: 'Half & Half',
-        image: HalfnHalf,
-        link: 'https://myanimelist.net/manga/42545/Half___Half?q=half%20%26&cat=manga'
     },
     {
         name: 'Hana-kun to Koisuru Watashi',

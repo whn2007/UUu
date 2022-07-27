@@ -30,6 +30,21 @@ import OnePunchMan from '../assets/anime/onepunchman.png'
 
 export const AnimeList = [
     {
+        name: 'One Punch Man',
+        image : OnePunchMan,
+        link: 'https://myanimelist.net/anime/30276/One_Punch_Man',   
+    },
+    {
+        name: 'Ousama Ranking',
+        image : Ousama,
+        link: 'https://myanimelist.net/anime/40834/Ousama_Ranking?q=ousama%20r&cat=anime',   
+    },
+    {
+        name: 'Saiki Kusuo no Ψ-nan',
+        image : Saiki,
+        link: 'https://myanimelist.net/anime/33255/Saiki_Kusuo_no_%CE%A8-nan',   
+    },
+    {
         name: 'A Silent Voice',
         image : SilentVoice,
         link: 'https://myanimelist.net/anime/28851/Koe_no_Katachi',   
@@ -95,16 +110,6 @@ export const AnimeList = [
         link: 'https://myanimelist.net/anime/523/Tonari_no_Totoro?q=my%20neighbor%20totoro&cat=anime',   
     },
     {
-        name: 'One Punch Man',
-        image : OnePunchMan,
-        link: 'https://myanimelist.net/anime/30276/One_Punch_Man',   
-    },
-    {
-        name: 'Ousama Ranking',
-        image : Ousama,
-        link: 'https://myanimelist.net/anime/40834/Ousama_Ranking?q=ousama%20r&cat=anime',   
-    },
-    {
         name: 'Paprika',
         image : Paprika,
         link: 'https://myanimelist.net/anime/1943/Paprika',   
@@ -128,11 +133,6 @@ export const AnimeList = [
         name: 'Redine',
         image : Redine,
         link: 'https://myanimelist.net/anime/6675/Redline',   
-    },
-    {
-        name: 'Saiki Kusuo no Ψ-nan',
-        image : Saiki,
-        link: 'https://myanimelist.net/anime/33255/Saiki_Kusuo_no_%CE%A8-nan',   
     },
     {
         name: 'Sakamoto Desu ga?',

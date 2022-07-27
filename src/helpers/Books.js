@@ -83,9 +83,25 @@ import PowerSystemAnalysis from '../assets/books/powersystemanalysis.png'
 import PracticalLockPicking from '../assets/books/practicallockpicking.png'
 import HeadMassTransfer from '../assets/books/principlesofheadandmasstransfer.png'
 import ModernChemistry from '../assets/books/principlesofmodernchemistry.png'
+import EatPrayLove from '../assets/books/eatpraylove.png'
 
 
 export const BooksList = [
+    {
+        name: "The Happiness Advantage",
+        image: Happiness,
+        link: "https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656540989&sr=1-1",
+    },
+    {
+        name: "Eat Pray Love",
+        image: EatPrayLove,
+        link: "https://www.amazon.com/Eat-Pray-Love-Womans-Everything/dp/0747585660",
+    },
+    {
+        name: "Range",
+        image: Range,
+        link: "https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/ref=sr_1_1?crid=E6WBELXO1Z7H&keywords=range+david+epstein&qid=1656539564&s=books&sprefix=range%2Cstripbooks%2C142&sr=1-1",
+    },
     {
         name: "7 Powers",
         image: SevenPowers,
@@ -302,11 +318,6 @@ export const BooksList = [
         link: "https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656539535&sr=1-1",
     },
     {
-        name: "Range",
-        image: Range,
-        link: "https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/ref=sr_1_1?crid=E6WBELXO1Z7H&keywords=range+david+epstein&qid=1656539564&s=books&sprefix=range%2Cstripbooks%2C142&sr=1-1",
-    },
-    {
         name: "Remote",
         image: Remote,
         link: "https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656539598&sr=1-1",
@@ -405,11 +416,6 @@ export const BooksList = [
         name: "The Go-Giver",
         image: GoGiver,
         link: "https://www.amazon.com/Go-Giver-Little-Story-Powerful-Business/dp/0241976278/ref=sr_1_1?crid=2RY1LX9OX2GJ2&keywords=go+giver&qid=1656547993&s=books&sprefix=go+giver%2Cstripbooks%2C152&sr=1-1",
-    },
-    {
-        name: "The Happiness Advantage",
-        image: Happiness,
-        link: "https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656540989&sr=1-1",
     },
     {
         name: "The Lean Startup",

@@ -69,6 +69,21 @@ import MenshoTokyo from '../assets/restaurants/mensho.png'
 
 export const RestaurantsList = [
     {
+        name: "Langer's Delicatessen Restaurant",
+        image: Langers,
+        link: "https://www.langersdeli.com/",
+    }, 
+    {
+        name: "Shima Steak",
+        image: ShimaSteak, 
+        link: "https://www.tripadvisor.com/Restaurant_Review-g14129589-d1684652-Reviews-Shima_Steak-Nihonbashi_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
+    },
+    {
+        name: "Sushi Amane",
+        image: Amane,
+        link: "https://www.sushi-amane.com/",
+    }, 
+    {
         name: "A La Turka",
         image: Turka,
         link: "https://www.alaturkany.com/",
@@ -184,11 +199,6 @@ export const RestaurantsList = [
         link: "https://www.kekimoderncakes.com/menu",
     }, 
     {
-        name: "Langer's Delicatessen Restaurant",
-        image: Langers,
-        link: "https://www.langersdeli.com/",
-    }, 
-    {
         name: "Le Botaniste",
         image: LeBotaniste,
         link: "https://lebotaniste.us/",
@@ -284,11 +294,6 @@ export const RestaurantsList = [
         link: "https://www.shewhatcafe.com/",
     },
     {
-        name: "Shima Steak",
-        image: ShimaSteak, 
-        link: "https://www.tripadvisor.com/Restaurant_Review-g14129589-d1684652-Reviews-Shima_Steak-Nihonbashi_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html",
-    },
-    {
         name: "Silky Kitchen",
         image: Silky, 
         link: "https://silkykitchen.com/",
@@ -312,11 +317,6 @@ export const RestaurantsList = [
         name: "Super Super Restaurant",
         image: Pho,
         link: "https://www.yelp.com/biz/super-super-restaurant-berkeley",
-    }, 
-    {
-        name: "Sushi Amane",
-        image: Amane,
-        link: "https://www.sushi-amane.com/",
     }, 
     {
         name: "Szechuan Mountain House",

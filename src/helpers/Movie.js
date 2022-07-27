@@ -107,6 +107,7 @@ import LionKing from '../assets/movies/lionking.png'
 import Holes from '../assets/movies/holes.png'
 import FindingNemo from '../assets/movies/findingnemo.png'
 import Cars from '../assets/movies/cars.png'
+import Cars2 from '../assets/movies/cars2.png'
 import Ratatouille from '../assets/movies/ratatouille.png'
 import WallE from '../assets/movies/wall-e.png'
 import Up from '../assets/movies/up.png'
@@ -164,6 +165,22 @@ import TrainingDay from '../assets/movies/trainingday.png'
 
 
 export const MovieList = [
+    {
+        name: "Django Unchained",
+        image: Django,
+        link: "https://www.imdb.com/title/tt1853728/?ref_=nv_sr_srsg_0",
+        
+    }, 
+    {
+        name: "Ratatouille",
+        image: Ratatouille,
+        link: "https://www.imdb.com/title/tt0382932/?ref_=nv_sr_srsg_0",
+    },
+    {
+        name: "Scott Pilgrim vs. the World",
+        image: Scott,
+        link: "https://www.imdb.com/title/tt0446029/",
+    }, 
     {
         name: "101 Dalmations",
         image: Dalmations,
@@ -287,6 +304,11 @@ export const MovieList = [
         
     },
     {
+        name: 'Cars 2',
+        image: Cars2,
+        link: 'https://en.wikipedia.org/wiki/Cars_2_(video_game)'
+    },
+    {
         name: "Coach Carter",
         image: CoachCarter,
         link: "https://www.imdb.com/title/tt0393162/?ref_=nv_sr_srsg_0",
@@ -323,12 +345,6 @@ export const MovieList = [
         name: "Despicable Me",
         image: Despicable,
         link: "https://www.imdb.com/title/tt1323594/?ref_=nv_sr_srsg_0",
-        
-    }, 
-    {
-        name: "Django Unchained",
-        image: Django,
-        link: "https://www.imdb.com/title/tt1853728/?ref_=nv_sr_srsg_0",
         
     }, 
     {
@@ -739,11 +755,6 @@ export const MovieList = [
         
     },
     {
-        name: "Ratatouille",
-        image: Ratatouille,
-        link: "https://www.imdb.com/title/tt0382932/?ref_=nv_sr_srsg_0",
-    },
-    {
         name: "Rise of the Planet of the Apes",
         image: Apes,
         link: "https://www.imdb.com/title/tt1318514/?ref_=fn_al_tt_1",
@@ -788,11 +799,6 @@ export const MovieList = [
         image: PrivateRyan,
         link: "https://www.imdb.com/title/tt0120815/?ref_=nv_sr_srsg_0",
     },  
-    {
-        name: "Scott Pilgrim vs. the World",
-        image: Scott,
-        link: "https://www.imdb.com/title/tt0446029/",
-    }, 
     {
         name: "Shaun of the Dead",
         image: ShaunDead,

@@ -17,6 +17,21 @@ import CatherynLi from '../assets/ballers/catherynli.png'
 
 export const BallersList = [
     {
+        name: "Jameson Tabor",
+        image: JamesonTabor,
+        link: "https://www.jamesontabor.com/",
+    }, 
+    {
+        name: "Rio Root",
+        image: RioRoot,
+        link: "https://www.pulserecordings.com/clients/rio-root/",
+    }, 
+    {
+        name: "Stephen Torres",
+        image: StephenTorres,
+        link: "https://www.stephentorres.com/",
+    },  
+    {
         name: "Bennett Hoffman",
         image: BennettHoffman,
         link: "https://twitter.com/bennhoffman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -30,11 +45,6 @@ export const BallersList = [
         name: "David Vorick",
         image: DavidVorick,
         link: "https://twitter.com/DavidVorick?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    }, 
-    {
-        name: "Jameson Tabor",
-        image: JamesonTabor,
-        link: "https://www.jamesontabor.com/",
     }, 
     {
         name: "Jarrett Duran",
@@ -72,18 +82,8 @@ export const BallersList = [
         link: "https://en.wikipedia.org/wiki/Hao_Zhihua",
     }, 
     {
-        name: "Rio Root",
-        image: RioRoot,
-        link: "https://www.pulserecordings.com/clients/rio-root/",
-    }, 
-    {
         name: "Sifu David Dong",
         image: DavidDong,
         link: "https://www.goldnlion.com/about-sifu-david-dong",
-    },  
-    {
-        name: "Stephen Torres",
-        image: StephenTorres,
-        link: "https://www.stephentorres.com/",
     },  
 ];

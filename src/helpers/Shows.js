@@ -32,6 +32,21 @@ import PersonOfInterest from '../assets/shows/personofinterest.png'
 
 export const ShowsList = [
     {
+        name: "Entourage",
+        image: Entourage,
+        link: "https://www.imdb.com/title/tt0387199/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Last Dance",
+        image: LastDance,
+        link: "https://www.imdb.com/title/tt8420184/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Person of Interest",
+        image: PersonOfInterest,
+        link: "https://www.imdb.com/title/tt1839578/",
+    }, 
+    {
         name: "Adventure Time",
         image: AdventureTime,
         link: "https://www.imdb.com/title/tt0113198/?ref_=nv_sr_srsg_0",
@@ -55,11 +70,6 @@ export const ShowsList = [
         name: "Dexter's Laboratory",
         image: Dexter,
         link: "https://www.imdb.com/title/tt0115157/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "Entourage",
-        image: Entourage,
-        link: "https://www.imdb.com/title/tt0387199/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "Family Guy",
@@ -97,11 +107,6 @@ export const ShowsList = [
         link: "https://www.imdb.com/title/tt0278866/?ref_=nv_sr_srsg_0",
     }, 
     {
-        name: "The Last Dance",
-        image: LastDance,
-        link: "https://www.imdb.com/title/tt8420184/?ref_=nv_sr_srsg_0",
-    }, 
-    {
         name: "The Looney Tunes Show",
         image: LooneyTunes,
         link: "https://www.imdb.com/title/tt1726839/?ref_=nv_sr_srsg_2",
@@ -120,11 +125,6 @@ export const ShowsList = [
         name: "Planet Earth",
         image: PlanetEarth,
         link: "https://www.imdb.com/title/tt0795176/?ref_=nv_sr_srsg_3",
-    }, 
-    {
-        name: "Person of Interest",
-        image: PersonOfInterest,
-        link: "https://www.imdb.com/title/tt1839578/",
     }, 
     {
         name: "Popeye the Sailor",

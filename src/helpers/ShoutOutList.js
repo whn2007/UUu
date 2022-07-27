@@ -20,15 +20,15 @@ export const ShoutOutList = [
         link: "https://ekster.com/",
     },   
     {
-        name: "Established Titles",
-        image: EstablishedTitles,
-        link: "https://establishedtitles.com/",
-    },   
-    {
         name: "Groove Life",
         image: GrooveLife,
         link: "https://groovelife.com/",
-    },   
+    }, 
+    {
+        name: "Established Titles",
+        image: EstablishedTitles,
+        link: "https://establishedtitles.com/",
+    },     
     {
         name: "Handshake (HNS)",
         image: HNS,

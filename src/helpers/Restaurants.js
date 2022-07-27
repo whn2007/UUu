@@ -54,6 +54,16 @@ import TianTian from '../assets/restaurants/tiantian.png'
 import JoesStoneCrab from '../assets/restaurants/joesstonecrab.png'
 import SaffronGrill from '../assets/restaurants/saffrongrill.png'
 import HaidiLao from '../assets/restaurants/haidilao.png'
+import TempleCanteen from '../assets/restaurants/templecanteen.png'
+import Versailles from '../assets/restaurants/versailles.png'
+import Ichimi from '../assets/restaurants/ichimi.png'
+import Sanguich from '../assets/restaurants/sanguich.png'
+import Itamae from '../assets/restaurants/itamae.png'
+import RushBowl from '../assets/restaurants/rushbowl.png'
+import Acai from '../assets/restaurants/acai.png'
+import ElFarolito from '../assets/restaurants/elfarolito.png'
+import Padrecito from '../assets/restaurants/padrecito.png'
+import WildSeed from '../assets/restaurants/wildseed.png'
 
 
 export const RestaurantsList = [
@@ -61,6 +71,11 @@ export const RestaurantsList = [
         name: "A La Turka",
         image: Turka,
         link: "https://www.alaturkany.com/",
+    }, 
+    {
+        name: "Acai R",
+        image: Acai,
+        link: "https://www.theacair.com/",
     }, 
     {
         name: "Awash",
@@ -108,6 +123,11 @@ export const RestaurantsList = [
         link: "https://www.diandi.nyc/",
     },
     {
+        name: "El Farolito",
+        image: ElFarolito,
+        link: "https://elfarolitosf.com/",
+    }, 
+    {
         name: "Emily",
         image: Emily,
         link: "https://www.pizzalovesemily.com/",
@@ -128,9 +148,19 @@ export const RestaurantsList = [
         link: "https://www.handsomerice.com/",
     }, 
     {
+        name: "Ichimi Ramen Bar",
+        image: Ichimi,
+        link: "https://www.ichimiramenbar.com/",
+    }, 
+    {
         name: "Ichiran",
         image: Ichiran,
         link: "https://www.ichiranusa.com/",
+    }, 
+    {
+        name: "Itamae",
+        image: Itamae,
+        link: "https://www.itamaemiami.com/",
     }, 
     {
         name: "Joe's Stone Crab",
@@ -188,6 +218,11 @@ export const RestaurantsList = [
         link: "https://www.overthrowhospitality.com/",
     }, 
     {
+        name: "Padrecito",
+        image: Padrecito,
+        link: "https://www.padrecitosf.com/",
+    }, 
+    {
         name: "Rawsome Treats",
         image: Rawesome,
         link: "http://www.rawsometreats.com/",
@@ -196,6 +231,11 @@ export const RestaurantsList = [
         name: "Roberta's Pizza",
         image: Robertas,
         link: "https://www.robertaspizza.com/",
+    }, 
+    {
+        name: "Rush Bowls",
+        image: RushBowl,
+        link: "https://rushbowls.com/",
     }, 
     {
         name: "Rush Hour Cookies",
@@ -216,6 +256,11 @@ export const RestaurantsList = [
         name: "Saffron Mediterranean Grill",
         image: Saffron, 
         link: "https://www.safronmediterraneangrill.com/",
+    },
+    {
+        name: "Sanguich",
+        image: Sanguich, 
+        link: "https://sanguich.com/",
     },
     {
         name: "Schaller's Stube",
@@ -278,6 +323,11 @@ export const RestaurantsList = [
         link: "https://www.yelp.com/biz/tacos-el-autlense-albany",
     }, 
     {
+        name: "Temple Canteen",
+        image: TempleCanteen,
+        link: "https://canteen.nyganeshtemple.org/",
+    }, 
+    {
         name: "Thipsamai",
         image: Thipsamai,
         link: "https://thipsamai.com/",
@@ -323,9 +373,19 @@ export const RestaurantsList = [
         link: "https://us.venchi.com/",
     }, 
     {
+        name: "Versailles Cuban Food",
+        image: Versailles,
+        link: "https://versaillescubanfood.com/",
+    },
+    {
         name: "Vietnaam",
         image: Vietnaam,
         link: "https://www.vietnaam88.com/order-online",
+    }, 
+    {
+        name: "Wildseed",
+        image: WildSeed,
+        link: "https://www.wildseedsf.com/san-francisco-menus/",
     }, 
     {
         name: "Xi'an Famous Foods",

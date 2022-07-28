@@ -7,6 +7,7 @@ import NemuNemu from "../assets/products/nemu_nemu.png"
 import DrSquatch from "../assets/products/dr_squatch.png"
 import Bengals from '../assets/products/bengals.png'
 import StartEngine from '../assets/products/startengine.png'
+import MeUndies from '../assets/products/meundies.png'
 
 export const ShoutOutList = [  
     {
@@ -34,6 +35,11 @@ export const ShoutOutList = [
         image: HNS,
         link: "https://handshake.org/",
     },   
+    {
+        name: "MeUndies",
+        image: MeUndies,
+        link: "https://www.meundies.com/",
+    },  
     {
         name: "Nemu Nemu",
         image: NemuNemu,

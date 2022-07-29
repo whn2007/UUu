@@ -12,6 +12,7 @@ import NathanSegal from '../assets/ballers/nathansegal.png'
 import Eskimo from '../assets/ballers/eskimo.png'
 import PattiLi from '../assets/ballers/pattili.png'
 import CatherynLi from '../assets/ballers/catherynli.png'
+import HuangWeihong from '../assets/ballers/huang.png'
 
 
 
@@ -46,6 +47,11 @@ export const BallersList = [
         image: DavidVorick,
         link: "https://twitter.com/DavidVorick?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     }, 
+    {
+        name: "Huang Weihong",
+        image: HuangWeihong,
+        link: "https://www.linkedin.com/in/huang-weihong-97042037",
+    },
     {
         name: "Jarrett Duran",
         image: JarretDuran,

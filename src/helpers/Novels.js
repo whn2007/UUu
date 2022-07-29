@@ -31,6 +31,9 @@ import Leagues from '../assets/novels/20kleagues.png'
 import Anthem from '../assets/novels/anthem.png'
 import Cuckoo from '../assets/novels/cuckoo.png'
 import JourneyToTheWest from '../assets/novels/journeytothewest.png'
+import Maus from '../assets/novels/maus.png'
+import RomeoAndJuliet from '../assets/novels/romeoandjuliet.png'
+import Macbeth from '../assets/novels/macbeth.png'
 
 
 export const NovelsList = [
@@ -110,6 +113,16 @@ export const NovelsList = [
         link: "https://en.wikipedia.org/wiki/Journey_to_the_West",
     }, 
     {
+        name: "Macbeth",
+        image: Macbeth,
+        link: "https://en.wikipedia.org/wiki/Macbeth",
+    }, 
+    {
+        name: "Maus",
+        image: Maus,
+        link: "https://en.wikipedia.org/wiki/Maus",
+    }, 
+    {
         name: "One Flew Over the Cuckoo's Nest",
         image: Cuckoo,
         link: "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel)",
@@ -128,6 +141,11 @@ export const NovelsList = [
         name: "Romance of the Three Kingdoms",
         image: Romance,
         link: "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms",
+    }, 
+    {
+        name: "Romeo and Juliet",
+        image: RomeoAndJuliet,
+        link: "https://en.wikipedia.org/wiki/Romeo_and_Juliet",
     }, 
     {
         name: "Sherlock Holmes",

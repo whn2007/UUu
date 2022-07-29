@@ -162,6 +162,7 @@ import GranTorino from '../assets/movies/grantorino.png'
 import GIJoe from '../assets/movies/gijoe.png'
 import HardcoreHenry from '../assets/movies/hardcorehenry.png'
 import TrainingDay from '../assets/movies/trainingday.png'
+import RomeoAndJuliet from '../assets/movies/romeoandjuliet.png'
 
 
 export const MovieList = [
@@ -758,6 +759,11 @@ export const MovieList = [
         name: "Rise of the Planet of the Apes",
         image: Apes,
         link: "https://www.imdb.com/title/tt1318514/?ref_=fn_al_tt_1",
+    },
+    {
+        name: "Romeo and Juliet",
+        image: RomeoAndJuliet,
+        link: "https://www.imdb.com/title/tt0117509/",
     },
     {
         name: "Rush Hour",

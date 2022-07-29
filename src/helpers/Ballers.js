@@ -31,6 +31,7 @@ import Shiva from '../assets/ballers/shiva.png'
 import TaigeZhang from '../assets/ballers/taigezhang.png'
 import ZachWoogen from '../assets/ballers/zachwoogen.png'
 import RongyuNa from '../assets/ballers/rongyuna.png'
+import PatrickAngelo from '../assets/ballers/patrickangelo.png'
 
 
 export const BallersList = [
@@ -153,6 +154,11 @@ export const BallersList = [
         name: "Nathaniel Segal",
         image: NathanSegal,
         link: "https://www.segalmagic.com/",
+    }, 
+    {
+        name: "Patrick Angelo",
+        image: PatrickAngelo,
+        link: "https://www.linkedin.com/in/patrick-angelo/",
     }, 
     {
         name: "Patti Li",

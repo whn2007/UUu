@@ -20,6 +20,17 @@ import AaronPuttawong from '../assets/ballers/aaronputtawong.png'
 import DavidMichaelOtt from '../assets/ballers/davidmichaelott.png'
 import AndreHoward from '../assets/ballers/andrehoward.png'
 import DeniseChen from '../assets/ballers/denisechen.png'
+import Jujube from '../assets/ballers/jujube.png'
+import JayRTaylor from '../assets/ballers/jayrtaylor.png'
+import Ralphamale from '../assets/ballers/ralphamale.png'
+import AlfieTorres from '../assets/ballers/alfietorres.png'
+import TomNash from '../assets/ballers/tomnash.png'
+import Constanzo from '../assets/ballers/constanzo.png'
+import ProperPeach from '../assets/ballers/properpeach.png'
+import Shiva from '../assets/ballers/shiva.png'
+import TaigeZhang from '../assets/ballers/taigezhang.png'
+import ZachWoogen from '../assets/ballers/zachwoogen.png'
+import RongyuNa from '../assets/ballers/rongyuna.png'
 
 
 export const BallersList = [
@@ -44,6 +55,11 @@ export const BallersList = [
         link: "https://www.dive-careers.com/dive-careers-aaron-puttawong.html",
     }, 
     {
+        name: "Alfie Torres",
+        image: AlfieTorres,
+        link: "https://twitter.com/alfietorres_",
+    },
+    {
         name: "Andre Howard",
         image: AndreHoward,
         link: "https://bigappleathletics.com/",
@@ -57,6 +73,11 @@ export const BallersList = [
         name: "Catheryn Li",
         image: CatherynLi,
         link: "https://www.linkedin.com/in/catherynli",
+    }, 
+    {
+        name: "Constanzo/",
+        image: Constanzo,
+        link: "https://twitter.com/Stanzo_89",
     }, 
     {
         name: "David Michael Ott",
@@ -89,6 +110,11 @@ export const BallersList = [
         link: "https://www.instagram.com/jay_izaak/",
     },
     {
+        name: "Jay R. Taylor",
+        image: JayRTaylor,
+        link: "https://twitter.com/JayRTaylor5",
+    },
+    {
         name: "Jeremy King",
         image: JeremyKing,
         link: "https://www.linkedin.com/in/jeremyeking",
@@ -108,6 +134,11 @@ export const BallersList = [
         image: JonJay,
         link: "https://www.linkedin.com/in/jon-jayaprakash",
     }, 
+    {
+        name: 'Jujube',
+        image: Jujube,
+        link: "https://www.linkedin.com/in/jujube/",
+    },
     {
         name: "Kanpeki",
         image: Kanpeki,
@@ -129,8 +160,43 @@ export const BallersList = [
         link: "https://en.wikipedia.org/wiki/Hao_Zhihua",
     }, 
     {
+        name: "Proper Peach",
+        image: ProperPeach,
+        link: "https://twitter.com/ProperPeachlive",
+    },
+    {
+        name: "Ralphamale",
+        image: Ralphamale,
+        link: "https://twitter.com/ralphamale",
+    }, 
+    {
+        name: "Rongyu Na",
+        image: RongyuNa,
+        link: "https://www.linkedin.com/in/sodium-na/",
+    }, 
+    {
         name: "Sifu David Dong",
         image: DavidDong,
         link: "https://www.goldnlion.com/about-sifu-david-dong",
     },  
+    {
+        name: "Shiva Raisinghani",
+        image: Shiva,
+        link: "https://www.linkedin.com/in/sraising/",
+    },  
+    {
+        name: "Taige Zhang",
+        image: TaigeZhang,
+        link: "https://twitter.com/taigeair?lang=en",
+    },
+    {
+        name: "Tom Nash",
+        image: TomNash,
+        link: "https://twitter.com/iamtomnash",
+    },
+    {
+        name: "Zach Woogen",
+        image: ZachWoogen,
+        link: "https://www.strategen.com/zach-woogen",
+    },
 ];

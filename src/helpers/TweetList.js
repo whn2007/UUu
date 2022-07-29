@@ -1,5 +1,10 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/JayWuzer/status/1552720919868583936',
+        tweet: "America is black.",
+        date: 7/28/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1552078759808733184?t=Zn0qSecw2MvOZe8_p2GJTg&s=19',
         tweet: "Only 2 kinds of products and services exist: \n 1. Best overall \n 2. Best value \n That's it.",
         date: 7/27/2022

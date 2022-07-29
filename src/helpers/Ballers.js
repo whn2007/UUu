@@ -13,7 +13,13 @@ import Eskimo from '../assets/ballers/eskimo.png'
 import PattiLi from '../assets/ballers/pattili.png'
 import CatherynLi from '../assets/ballers/catherynli.png'
 import HuangWeihong from '../assets/ballers/huang.png'
-
+import JonJay from '../assets/ballers/jonjay.png'
+import JeremyKing from '../assets/ballers/jeremyking.png'
+import JayIzaak from '../assets/ballers/jayizaak.png'
+import AaronPuttawong from '../assets/ballers/aaronputtawong.png'
+import DavidMichaelOtt from '../assets/ballers/davidmichaelott.png'
+import AndreHoward from '../assets/ballers/andrehoward.png'
+import DeniseChen from '../assets/ballers/denisechen.png'
 
 
 export const BallersList = [
@@ -33,6 +39,16 @@ export const BallersList = [
         link: "https://www.stephentorres.com/",
     },  
     {
+        name: "Aaron Puttawong",
+        image: AaronPuttawong,
+        link: "https://www.dive-careers.com/dive-careers-aaron-puttawong.html",
+    }, 
+    {
+        name: "Andre Howard",
+        image: AndreHoward,
+        link: "https://bigappleathletics.com/",
+    }, 
+    {
         name: "Bennett Hoffman",
         image: BennettHoffman,
         link: "https://twitter.com/bennhoffman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -43,9 +59,19 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/catherynli",
     }, 
     {
+        name: "David Michael Ott",
+        image: DavidMichaelOtt,
+        link: "https://patents.justia.com/inventor/david-michael-ott",
+    }, 
+    {
         name: "David Vorick",
         image: DavidVorick,
         link: "https://twitter.com/DavidVorick?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    }, 
+    {
+        name: "Denise Chen",
+        image: DeniseChen,
+        link: "https://www.linkedin.com/in/denise-chen-347981140/",
     }, 
     {
         name: "Huang Weihong",
@@ -57,6 +83,16 @@ export const BallersList = [
         image: JarretDuran,
         link: "https://www.instagram.com/jarrettduran/",
     },
+    {
+        name: "Jay Izaak",
+        image: JayIzaak,
+        link: "https://www.instagram.com/jay_izaak/",
+    },
+    {
+        name: "Jeremy King",
+        image: JeremyKing,
+        link: "https://www.linkedin.com/in/jeremyeking",
+    },
     // {
     //     name: "Josh Braun",
     //     image: JoshBraun,
@@ -67,6 +103,11 @@ export const BallersList = [
         image: Eskimo,
         link: "https://twitter.com/eskimo_dev",
     },  
+    {
+        name: 'Jon Jay',
+        image: JonJay,
+        link: "https://www.linkedin.com/in/jon-jayaprakash",
+    }, 
     {
         name: "Kanpeki",
         image: Kanpeki,

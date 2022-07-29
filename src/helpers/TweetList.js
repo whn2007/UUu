@@ -20,6 +20,11 @@ export const TweetList = [
         date: 7/26/2022
     },
     {
+        link: 'https://twitter.com/JayWuzer/status/1551653152910282752',
+        tweet: "Your nature is your privilege, your nurture is your effort.",
+        date: 7/25/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1551356869234475009?t=QZzwanxJL1ig0lIE9H-p4g&s=19',
         tweet: "If it's a problem that money can solve, then it's not a problem.",
         date: 7/25/2022

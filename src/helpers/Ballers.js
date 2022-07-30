@@ -47,6 +47,50 @@ import Belgutei from '../assets/ballers/belgutei.png'
 import ChrisHenderson from '../assets/ballers/chrishenderson.png'
 import MichaelRenato from '../assets/ballers/michael-renato.png'
 import EthanAndrianos from '../assets/ballers/ethanandrianos.png'
+import JohnAbabseh from '../assets/ballers/johnababseh.png'
+import BenjaminFranklin from '../assets/ballers/benjaminfranklin.png'
+import RJPimentel from '../assets/ballers/rjpimentel.png'
+import EmmaDesilva from '../assets/ballers/emmadesilva.png'
+import ZakWehman from '../assets/ballers/zakwehman.png'
+import RayChen from '../assets/ballers/raychen.png'
+import TylerChen from '../assets/ballers/tylerchen.png'
+import EricEom from '../assets/ballers/ericeom.png'
+import ZacharyFogg from '../assets/ballers/zacharyfogg.png'
+import AmritAyalur from '../assets/ballers/amritayalur.png'
+import JenniferChen from '../assets/ballers/jenniferchen.png'
+import AveneelWaadhwa from '../assets/ballers/aveneelwaadhwa.png'
+import BenGrasty from '../assets/ballers/bengrasty.png'
+import VeronicaCargay from '../assets/ballers/veronicacargay.png'
+import BaileyFarren from '../assets/ballers/baileyfarren.png'
+import NinaForeYu from '../assets/ballers/ninafore-yu.png'
+import JustinLuke from '../assets/ballers/justinluke.png'
+import AureoMesquita from '../assets/ballers/aureomesquita.png'
+import HarmolSamra from '../assets/ballers/harmolsamra.png'
+import Brighu from '../assets/ballers/brighu.png'
+import JackTrinh from '../assets/ballers/jacktrinh.png'
+import EthanPuttawong from '../assets/ballers/ethanputtawong.png'
+import JacquelineTruong from '../assets/ballers/jacquelinetruong.png'
+import HarryEvans from '../assets/ballers/harryevans.png'
+import MichaelMcleggan from '../assets/ballers/michaelmcleggan.png'
+import AndresFelipe from '../assets/ballers/andresfelipe.png'
+import JonahKorchin from '../assets/ballers/jonahkorchin.png'
+import KaiyaLevine from '../assets/ballers/kaiyalevine.png'
+import FranciscoPeralta from '../assets/ballers/franciscoperalta.png'
+import EddiePacheco from '../assets/ballers/eddiepacheco.png'
+import SteveGaines from '../assets/ballers/stevegaines.png'
+import ConnorDavidson from '../assets/ballers/connordavidson.png'
+import Placeholder from '../assets/ballers/placeholder.png'
+import AlexSundt from '../assets/ballers/alexandersundt.png'
+import NoahMatthew from '../assets/ballers/noahmatthew.png'
+import Evie from '../assets/ballers/evie.png'
+import MelaniePiedra from '../assets/ballers/melaniepiedra.png'
+import KathrynYamada from '../assets/ballers/kathrynyamada.png'
+import HansenCheng from '../assets/ballers/hansencheng.png'
+import EvelynEnciso from '../assets/ballers/evelynenciso.png'
+import Devo from '../assets/ballers/devo.png'
+import SophiaLarman from '../assets/ballers/sophialarman.png'
+import GrantBlack from '../assets/ballers/grantblack.png'
+import Ivan from '../assets/ballers/ivan.png'
 
 
 export const BallersList = [
@@ -71,14 +115,54 @@ export const BallersList = [
         link: "https://www.dive-careers.com/dive-careers-aaron-puttawong.html",
     }, 
     {
+        name: "Alex Sundt",
+        image: AlexSundt,
+        link: "https://www.linkedin.com/in/alexsundt/",
+    },
+    {
         name: "Alfie Torres",
         image: AlfieTorres,
         link: "https://twitter.com/alfietorres_",
     },
     {
+        name: "Amrit Ayalur",
+        image: AmritAyalur,
+        link: "https://www.linkedin.com/in/amritayalur/",
+    },
+    {
         name: "Andre Howard",
         image: AndreHoward,
         link: "https://bigappleathletics.com/",
+    }, 
+    {
+        name: "Andres Felipe Wasson",
+        image: AndresFelipe,
+        link: "https://www.linkedin.com/in/andreswasson/",
+    }, 
+    {
+        name: "Anthony Hakim",
+        image: Placeholder,
+        link: "https://www.linkedin.com/in/anthonyhakim1/",
+    }, 
+    {
+        name: "Aureo Mesquita",
+        image: AureoMesquita,
+        link: "https://www.linkedin.com/in/aureomesquita/",
+    }, 
+    {
+        name: "Aurora Sun",
+        image: Placeholder,
+        link: "https://www.linkedin.com/in/auroraling/",
+    }, 
+    {
+        name: "Aveneel Waadhwa",
+        image: AveneelWaadhwa,
+        link: "https://www.linkedin.com/in/aveneel/",
+    }, 
+    {
+        name: "Bailey Farren",
+        image: BaileyFarren,
+        link: "https://www.linkedin.com/in/baileyfarren/",
     }, 
     {
         name: "Belen Castillo",
@@ -91,6 +175,16 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/belguteie/",
     }, 
     {
+        name: "Ben Grasty",
+        image: BenGrasty,
+        link: "https://www.linkedin.com/in/ben-grasty/",
+    }, 
+    {
+        name: "Benjamin Franklin",
+        image: BenjaminFranklin,
+        link: "https://www.facebook.com/benjamin.nystrom.16",
+    }, 
+    {
         name: "Bennett Hoffman",
         image: BennettHoffman,
         link: "https://twitter.com/bennhoffman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -99,6 +193,11 @@ export const BallersList = [
         name: "Brian Tang",
         image: BrianTang,
         link: "https://www.linkedin.com/in/briantang18/",
+    },
+    {
+        name: "Bhrigu Gollabinnie",
+        image: Brighu,
+        link: "https://www.linkedin.com/in/bhrigu-gollabinnie/",
     },
     {
         name: "Cameron Quach",
@@ -114,6 +213,11 @@ export const BallersList = [
         name: "Chris Henderson",
         image: ChrisHenderson,
         link: "https://www.linkedin.com/in/chris-henderson-sf/",
+    }, 
+    {
+        name: "Connor Davidson",
+        image: ConnorDavidson,
+        link: "https://www.linkedin.com/in/connor-davidson-93603a97/",
     }, 
     {
         name: "Constanzo/",
@@ -141,6 +245,16 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/denise-chen-347981140/",
     }, 
     {
+        name: "Devo Goldschmidt",
+        image: Devo,
+        link: "https://www.linkedin.com/in/devo-goldschmidt/",
+    }, 
+    {
+        name: "Eddie Pacheco",
+        image: EddiePacheco,
+        link: "https://www.facebook.com/epachecosounds",
+    }, 
+    {
         name: "Edward Gong",
         image: EdwardGong,
         link: "https://www.linkedin.com/in/edgong/",
@@ -151,10 +265,61 @@ export const BallersList = [
         link: "https://www.instagram.com/elsa_shuen/",
     }, 
     {
+        name: "Emma Desilva",
+        image: EmmaDesilva,
+        link: "https://www.linkedin.com/in/emmadesilva/",
+    }, 
+    {
+        name: "Eric Eom",
+        image: EricEom,
+        link: "https://www.linkedin.com/in/ericeom/",
+    }, 
+    {
         name: "Ethan Andrianos",
         image: EthanAndrianos,
         link: "https://www.linkedin.com/in/ethanandrianos/",
     }, 
+    {
+        name: "Ethan Puttawong",
+        image: EthanPuttawong,
+        link: "https://www.dive-careers.com/dive-careers-ethan-puttawong.html",
+    }, 
+    {
+        name: "Evelyn Enciso",
+        image: EvelynEnciso,
+        link: "https://www.linkedin.com/in/evelynenciso/",
+    }, 
+    {
+        name: "Evie Odbayar",
+        image: Evie,
+        link: "https://www.linkedin.com/in/odbayar-evie/",
+    }, 
+    {
+        name: "Francisco Peralta",
+        image: FranciscoPeralta,
+        link: "https://www.linkedin.com/in/franciscojperalta/",
+    }, 
+    {
+        name: "Grant Black",
+        image: GrantBlack,
+        link: "https://www.linkedin.com/in/grant-black-7b54aa99/",
+    }, 
+    {
+        name: "Harmol Samra",
+        image: HarmolSamra,
+        link: "https://www.linkedin.com/in/harmol-samra-24641ab5/",
+        
+    },
+    {
+        name: "Hansen Chang",
+        image: HansenCheng,
+        link: "https://www.linkedin.com/in/hansenchang/",
+    },
+    {
+        name: "Harry Evans",
+        image: HarryEvans,
+        link: "https://www.linkedin.com/in/harrymevans/",
+    },
     {
         name: "Helen Kou",
         image: HelenKou,
@@ -166,14 +331,29 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/huang-weihong-97042037",
     },
     {
+        name: "Ivan R Melero",
+        image: Ivan,
+        link: "https://www.linkedin.com/in/ivan-r-melero-143b91197/",
+    },
+    {
+        name: "Jack Trinh",
+        image: JackTrinh,
+        link: "https://www.facebook.com/sontung",
+    },
+    {
         name: "Jaclyn Lai",
         image: JaclynLai,
         link: "https://www.linkedin.com/in/jaclynlai/",
     },
     {
+        name: "Jacqueline Truong",
+        image: JacquelineTruong,
+        link: "https://www.linkedin.com/in/jacqueline-truong-b8a70895/",
+    },
+    {
         name: "Jarrett Duran",
         image: JarretDuran,
-        link: "https://www.instagram.com/jarrettduran/",
+        link: "https://www.linkedin.com/in/jarrettduran/",
     },
     {
         name: "Jay Izaak",
@@ -186,6 +366,11 @@ export const BallersList = [
         link: "https://twitter.com/JayRTaylor5",
     },
     {
+        name: "Jennifer Chen",
+        image: JenniferChen,
+        link: "https://www.linkedin.com/in/jennifer-chen-swe/",
+    },
+    {
         name: "Jeremy King",
         image: JeremyKing,
         link: "https://www.linkedin.com/in/jeremyeking",
@@ -195,6 +380,16 @@ export const BallersList = [
     //     image: JoshBraun,
     //     link: "https://joshbraun.com/",
     // },
+    {
+        name: 'John Ababseh',
+        image: JohnAbabseh,
+        link: "https://www.linkedin.com/in/johnababseh/",
+    },
+    {
+        name: 'Jonah Korchin',
+        image: JonahKorchin,
+        link: "https://www.linkedin.com/in/jonah-korchin-9a2298b9/",
+    },
     {
         name: 'Jordan Capelle',
         image: JordanCapelle,
@@ -216,14 +411,39 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/jujube/",
     },
     {
+        name: 'Justin Luke',
+        image: JustinLuke,
+        link: "https://www.linkedin.com/in/justin-luke/",
+    },
+    {
+        name: "Kaiya Levine",
+        image: KaiyaLevine,
+        link: "https://www.linkedin.com/in/kaiya-levine/",
+    }, 
+    {
         name: "Kanpeki",
         image: Kanpeki,
         link: "https://www.twitch.tv/kanpeki",
     }, 
     {
+        name: "Kathryn Yamada",
+        image: KathrynYamada,
+        link: "https://www.linkedin.com/in/katy-yamada/",
+    }, 
+    {
         name: "Kiba Gateaux",
         image: KibaGateaux,
         link: "https://twitter.com/kibagateaux",
+    }, 
+    {
+        name: "Melanie Piedra",
+        image: MelaniePiedra,
+        link: "https://www.linkedin.com/in/melaniepiedra/",
+    }, 
+    {
+        name: "Michael Mcleggan",
+        image: MichaelMcleggan,
+        link: "https://ironmanbasketball.com/",
     }, 
     {
         name: "Michael-Renato Diliberto",
@@ -235,6 +455,16 @@ export const BallersList = [
         image: NathanSegal,
         link: "https://www.segalmagic.com/",
     }, 
+    {
+        name: "Nina Fore-Yu",
+        image: NinaForeYu,
+        link: "https://www.linkedin.com/in/ninah-fore/",
+    }, 
+    {
+        name: "Noah Matthew",
+        image: NoahMatthew,
+        link: "https://www.linkedin.com/in/noah-matthew-10a435103/",
+    },
     {
         name: "Patrick Angelo",
         image: PatrickAngelo,
@@ -266,6 +496,16 @@ export const BallersList = [
         link: "https://twitter.com/ralphamale",
     }, 
     {
+        name: "Ray Chen",
+        image: RayChen,
+        link: "https://www.facebook.com/raychensg",
+    }, 
+    {
+        name: "RJ Pimentel",
+        image: RJPimentel,
+        link: "https://www.linkedin.com/in/rj-pimentel-182444b5/",
+    },
+    {
         name: "Rongyu Na",
         image: RongyuNa,
         link: "https://www.linkedin.com/in/sodium-na/",
@@ -281,6 +521,16 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/sraising/",
     },  
     {
+        name: "Sophia Larman",
+        image: SophiaLarman,
+        link: "https://www.linkedin.com/in/sophia-larman-917a12203/",
+    }, 
+    {
+        name: "Steve Gaines",
+        image: SteveGaines,
+        link: "https://www.rollingstone.com/music/music-news/zion-i-rapper-steve-zumbi-gaines-dead-obit-1212345/",
+    }, 
+    {
         name: "Taige Zhang",
         image: TaigeZhang,
         link: "https://twitter.com/taigeair?lang=en",
@@ -291,8 +541,28 @@ export const BallersList = [
         link: "https://twitter.com/iamtomnash",
     },
     {
+        name: "Tyler Chen",
+        image: TylerChen,
+        link: "https://www.linkedin.com/in/tyler-chen/",
+    },
+    {
+        name: "Veronica Cargay",
+        image: VeronicaCargay,
+        link: "https://www.linkedin.com/in/veronicacargay/",
+    },
+    {
         name: "Zach Woogen",
         image: ZachWoogen,
         link: "https://www.strategen.com/zach-woogen",
+    },
+    {
+        name: "Zachary Fogg",
+        image: ZacharyFogg,
+        link: "https://www.linkedin.com/in/zfogg/",
+    },
+    {
+        name: "Zak Wehman",
+        image: ZakWehman,
+        link: "https://www.linkedin.com/in/zakwehman/",
     },
 ];

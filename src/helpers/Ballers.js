@@ -91,6 +91,16 @@ import Devo from '../assets/ballers/devo.png'
 import SophiaLarman from '../assets/ballers/sophialarman.png'
 import GrantBlack from '../assets/ballers/grantblack.png'
 import Ivan from '../assets/ballers/ivan.png'
+import Genevieve from '../assets/ballers/genevieve.png'
+import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
+import DavidEchavarria from '../assets/ballers/davidechavarria.png'
+import JuliaGu from '../assets/ballers/juliagu.png'
+import MatthewZipkin from '../assets/ballers/matthewzipkin.png'
+import KevinC from '../assets/ballers/kevinc.png'
+import SpencerPerry from '../assets/ballers/spencerperry.png'
+import ElliotPerry from '../assets/ballers/elliotperry.png'
+import MaxAgress from '../assets/ballers/maxagress.png'
+import BenjaminVelasquez from '../assets/ballers/benjaminvelasquez.png'
 
 
 export const BallersList = [
@@ -145,6 +155,11 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/anthonyhakim1/",
     }, 
     {
+        name: "Ashley Twynam",
+        image: AshleyTwynam,
+        link: "https://www.earthlyliving.org/about",
+    }, 
+    {
         name: "Aureo Mesquita",
         image: AureoMesquita,
         link: "https://www.linkedin.com/in/aureomesquita/",
@@ -183,6 +198,11 @@ export const BallersList = [
         name: "Benjamin Franklin",
         image: BenjaminFranklin,
         link: "https://www.facebook.com/benjamin.nystrom.16",
+    }, 
+    {
+        name: "Benjamin Velasquez",
+        image: BenjaminVelasquez,
+        link: "https://accidentdatacenter.com/us/california/san-francisco-oakland-san-jose-ca/kentfield/15/11/20/motorcyclist-benjamin-velasquez-19-seriously-injured-and-woman-sustains-minor-injuries-collision-sir",
     }, 
     {
         name: "Bennett Hoffman",
@@ -235,6 +255,11 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/dannver/",
     }, 
     {
+        name: "David Echavarria",
+        image: DavidEchavarria,
+        link: "https://www.earthlyliving.org/about",
+    }, 
+    {
         name: "David Vorick",
         image: DavidVorick,
         link: "https://twitter.com/DavidVorick?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -258,6 +283,11 @@ export const BallersList = [
         name: "Edward Gong",
         image: EdwardGong,
         link: "https://www.linkedin.com/in/edgong/",
+    }, 
+    {
+        name: "Elliot Perry",
+        image: ElliotPerry,
+        link: "https://www.linkedin.com/in/elliott-perry-aaa8a094/",
     }, 
     {
         name: "Elsa Shuen",
@@ -298,6 +328,11 @@ export const BallersList = [
         name: "Francisco Peralta",
         image: FranciscoPeralta,
         link: "https://www.linkedin.com/in/franciscojperalta/",
+    }, 
+    {
+        name: "Genevieve Weiscovitz",
+        image: Genevieve,
+        link: "https://weiscovitz.com/",
     }, 
     {
         name: "Grant Black",
@@ -411,6 +446,11 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/jujube/",
     },
     {
+        name: 'Julia Gu',
+        image: JuliaGu,
+        link: "https://www.linkedin.com/in/juliagu/",
+    },
+    {
         name: 'Justin Luke',
         image: JustinLuke,
         link: "https://www.linkedin.com/in/justin-luke/",
@@ -431,9 +471,24 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/katy-yamada/",
     }, 
     {
+        name: "Kevin C.",
+        image: KevinC,
+        link: "https://www.linkedin.com/in/kevinchung76/",
+    }, 
+    {
         name: "Kiba Gateaux",
         image: KibaGateaux,
         link: "https://twitter.com/kibagateaux",
+    }, 
+    {
+        name: "Matthew Zipkin",
+        image: MatthewZipkin,
+        link: "https://twitter.com/matthewzipkin?lang=en",
+    }, 
+    {
+        name: "Max Agress",
+        image: MaxAgress,
+        link: "https://www.linkedin.com/in/max-agress/",
     }, 
     {
         name: "Melanie Piedra",
@@ -524,6 +579,11 @@ export const BallersList = [
         name: "Sophia Larman",
         image: SophiaLarman,
         link: "https://www.linkedin.com/in/sophia-larman-917a12203/",
+    }, 
+    {
+        name: "Spencer Perry",
+        image: SpencerPerry,
+        link: "https://www.linkedin.com/in/spencermperry/",
     }, 
     {
         name: "Steve Gaines",

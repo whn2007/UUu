@@ -65,6 +65,7 @@ import ElFarolito from '../assets/restaurants/elfarolito.png'
 import Padrecito from '../assets/restaurants/padrecito.png'
 import WildSeed from '../assets/restaurants/wildseed.png'
 import MenshoTokyo from '../assets/restaurants/mensho.png'
+import PiOnSunet from '../assets/restaurants/pionsunset.png'
 
 
 export const RestaurantsList = [
@@ -237,6 +238,11 @@ export const RestaurantsList = [
         name: "Padrecito",
         image: Padrecito,
         link: "https://www.padrecitosf.com/",
+    }, 
+    {
+        name: "Pi On Sunset",
+        image: PiOnSunet,
+        link: "http://pionsunset.cafe/",
     }, 
     {
         name: "Rawsome Treats",

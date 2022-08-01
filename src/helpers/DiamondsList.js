@@ -1,6 +1,5 @@
 import CleanRobotics from "../assets/diamonds/cleanrobotics.png"
 import Atlas from "../assets/diamonds/atlas.png"
-import Tony from '../assets/diamonds/tony.png'
 
 export const DiamondsList = [
     {
@@ -14,11 +13,5 @@ export const DiamondsList = [
         description: 'Creators of TrashBot',
         image: CleanRobotics,
         link: "https://cleanrobotics.com/trashbot/",
-    }, 
-    {
-        name: 'Tony "nijynot" Jin',
-        description: 'Automata Labs Founder',
-        image: Tony,
-        link: "https://twitter.com/0xnijynot",
     }, 
 ]

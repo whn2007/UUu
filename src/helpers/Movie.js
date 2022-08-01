@@ -163,6 +163,7 @@ import GIJoe from '../assets/movies/gijoe.png'
 import HardcoreHenry from '../assets/movies/hardcorehenry.png'
 import TrainingDay from '../assets/movies/trainingday.png'
 import RomeoAndJuliet from '../assets/movies/romeoandjuliet.png'
+import FallingDown from '../assets/movies/fallingdown.png'
 
 
 export const MovieList = [
@@ -372,6 +373,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt0413099/?ref_=fn_al_tt_1",
         
     },
+    {
+        name: "Falling Down",
+        image: FallingDown,
+        link: "https://www.imdb.com/title/tt0106856/",
+    }, 
     {
         name: "Fantasia",
         image: Fantasia,

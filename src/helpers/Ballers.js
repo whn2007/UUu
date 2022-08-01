@@ -145,6 +145,7 @@ import KevinMahoney from '../assets/ballers/kevinmahoney.png'
 import PrimusLam from '../assets/ballers/primuslam.png'
 import RupertKay from '../assets/ballers/rupertkay.png'
 import JamesKoh from '../assets/ballers/jameskoh.png'
+import TonyJin from '../assets/ballers/tonyjin.png'
 
 
 export const BallersList = [
@@ -848,6 +849,11 @@ export const BallersList = [
         name: "Tom Nash",
         image: TomNash,
         link: "https://twitter.com/iamtomnash",
+    },
+    {
+        name: "Tony Jin",
+        image: TonyJin,
+        link: "https://automata.fi/",
     },
     {
         name: "Trevor Dunbar",

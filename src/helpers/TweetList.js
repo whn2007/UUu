@@ -1,5 +1,95 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/JayWuzer/status/1553804606265651200',
+        tweet: "Being your full authentic self is a life hack. \n The ones who don't vibe with you will naturally be repulsed, and the ones who do vibe with you will naturally be drawn to you. \n Saves a LOT of time and heartache.",
+        date: 7/31/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553772108592713733',
+        tweet: "Understand thyself and you shall understand others.",
+        date: 7/31/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553569265474686976',
+        tweet: "Everybody just wants to be the product of everyone they look up to.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553508046529110016',
+        tweet: "I don't understand why showing off is a bad thing. \n It's not. \n \"Always be selling.\" - Mark Cuban",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553507408047063041',
+        tweet: "Definition of inspiring: Eliminating others' know-do gaps.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553501304462315521',
+        tweet: "Do not tip waiters if you are broke. \n You have to take care of yourself first before you can take care of others.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553499926625038337',
+        tweet: "The KPI for sustainability is NOT CO2, it's Sustainability. \n It's that simple: can we continue to operate business as usual for the next 1000 years? \n No? Then it's not sustainable. \n Yes? Then it is.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553498288870985728',
+        tweet: "NEVER act out of fear, you will inevitably do something stoopid as fuck. \n The solution to all fear is education, so first go learn more about the thing that's causing you fear, THEN come back and try again.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553486371888590848',
+        tweet: "I wear the same shit everyday because I only rock the best of the best, and the best overall is always 1/1. \n You only need one of each item, any more than that is called \"excess\".",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553482281653719040',
+        tweet: "You only truly begin to understand the game when you actually play in it. \n If you're just on the sidelines, you haven't even scratched the surface yet.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553464508152025090',
+        tweet: "Here's the definition of an \"artist\": Someone who creates order out of chaos. \n The antonym of an \"artist\" is called a \"destroyer\": Someone who creates chaos out of order.",
+        date: 7/30/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553225798928084993',
+        tweet: "Art imitates life.",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553159629458120704',
+        tweet: "If you know what you are looking for, you will inevitably find it.",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553104609303924736',
+        tweet: "Cats are for leaders, dogs are for followers.",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553057473614864384',
+        tweet: "The name you are given represents your potential, because it represents your parents' abilities. \n If your name is whack as fuck, then your parents' abilities were extremely limited. \n Elon Musk's abilities are fire but he's also hella goofy, hence why his child is \"X Æ A-12\".",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553040584893353986',
+        tweet: "The metaverse represents the state of human consciousness. It is everybody's internal thoughts and feelings exposed. \n Currently, there's much hate in the metaverse (Internet). \n Because there's hate in the world.",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553038309303078912',
+        tweet: "Shit happens faster than you think. \n Always.",
+        date: 7/29/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1553037160189534209',
+        tweet: "The strong are attracted to the stronger.",
+        date: 7/29/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1552720919868583936',
         tweet: "America is black.",
         date: 7/28/2022

@@ -66,6 +66,8 @@ import Padrecito from '../assets/restaurants/padrecito.png'
 import WildSeed from '../assets/restaurants/wildseed.png'
 import MenshoTokyo from '../assets/restaurants/mensho.png'
 import PiOnSunet from '../assets/restaurants/pionsunset.png'
+import CousinsMaineLobster from '../assets/restaurants/cousinsmainelobster.png'
+import SunsetGrill from '../assets/restaurants/sunsetgrill.png'
 
 
 export const RestaurantsList = [
@@ -129,6 +131,11 @@ export const RestaurantsList = [
         image: Cote,
         link: "https://www.cotenyc.com/",
     }, 
+    {
+        name: "Cousins Maine Lobster",
+        image: CousinsMaineLobster,
+        link: "https://www.cousinsmainelobster.com/",
+    },
     {
         name: "Davelle",
         image: Davelle,
@@ -318,6 +325,11 @@ export const RestaurantsList = [
         name: "Soothr Thai Noodle Bar",
         image: Soothr,
         link: "https://soothrnyc.com/",
+    }, 
+    {
+        name: "Sunset Grill",
+        image: SunsetGrill,
+        link: "https://sunsetgrillhollywood.com/",
     }, 
     {
         name: "Super Super Restaurant",

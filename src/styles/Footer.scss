@@ -38,8 +38,12 @@
       }
     }
     .imported{
-      width: 2.6em;
+      width: 2.9em;
       margin-bottom: 0.1em;
+    }
+    .special{
+      border: 1px solid $red;
+      border-radius: 10px;
     }
   }
 
@@ -69,7 +73,6 @@
         margin-top: 0.3em;
       }
       .imported{
-        padding-top: 0.8em;
         width: 1em;
       }
     }

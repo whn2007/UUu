@@ -23,6 +23,12 @@ function Footer() {
       <div className="redBottomLogo"><img src={RedBottomLogo} /></div>
       <div className="socialMedia">  
         <div className="firstHalf">
+          <a href="https://twitter.com/UUuLLC" target="_blank">
+            <TwitterIcon className="special"/>
+          </a>
+          <a id = 'tiktok' href="https://www.tiktok.com/@lordjaywu" target="_blank">
+            <img src={TikTokIcon} className = 'imported special'/>
+          </a>
           <a id = 'spotify' href="https://open.spotify.com/user/12166954044" target='_blank'>
             <img src= {SpotifyIcon} 
             className="imported"/>
@@ -30,14 +36,8 @@ function Footer() {
           <a href="https://www.youtube.com/c/JayWuzer" target="_blank">
             <YouTubeIcon />
           </a>
-          <a href="https://twitter.com/UUuLLC" target="_blank">
-            <TwitterIcon />
-          </a>
           <a href="https://www.instagram.com/jaywuzer/" target="_blank">
             <InstagramIcon />
-          </a>
-          <a id = 'tiktok' href="https://www.tiktok.com/@lordjaywu" target="_blank">
-            <img src={TikTokIcon} className = 'imported'/>
           </a>
         </div>    
         <div className="secondHalf">

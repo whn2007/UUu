@@ -150,11 +150,6 @@ import TonyJin from '../assets/ballers/tonyjin.png'
 
 export const BallersList = [
     {
-        name: "Jameson Tabor",
-        image: JamesonTabor,
-        link: "https://www.jamesontabor.com/",
-    }, 
-    {
         name: "Rio Root",
         image: RioRoot,
         link: "https://www.pulserecordings.com/clients/rio-root/",

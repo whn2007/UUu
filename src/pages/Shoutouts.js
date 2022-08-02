@@ -15,6 +15,7 @@ import { MangaList } from '../helpers/MangaList'
 import { VideoGameList } from '../helpers/VideoGameList'
 import { Link } from 'react-router-dom';
 import YoutubeIcon from '../assets/youtube.png'
+import { VillainList } from '../helpers/VillainList';
 
 function Shoutouts() {
   return (
@@ -197,6 +198,24 @@ function Shoutouts() {
 
         <div className="aboutList">
           {ShoutOutList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+            <h1>Bullies</h1>
+            <p>I love bullying bullies</p>
+        </div>
+
+        <div className="aboutList">
+          {VillainList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
                 key={key}

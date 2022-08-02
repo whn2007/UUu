@@ -23,6 +23,11 @@
         &:first-child{
             margin-top: 7em;
         }
+        p{
+            color: $red;
+            font-size: 2rem;
+            margin: 0;
+        }
     }
 
     .aboutList{
@@ -106,6 +111,9 @@
             &:first-child{
                 margin-top: 4em;
             }
+            p{
+                font-size: 1rem;
+            }
         }
 
         .aboutList{
@@ -165,6 +173,9 @@
             }
             &:first-child{
                 margin-top: 5em;
+            }
+            p{
+                font-size: 1.5rem;
             }
         }
         .aboutList{

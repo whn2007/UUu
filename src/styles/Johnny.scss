@@ -2,12 +2,12 @@
 
 .johnny{
     .intro{
-        margin-top: 3.5em;
+        margin-top: -4em;
         background-image: url('../assets/background2.jpg');
         background-size: cover;
         background-position: center 0;
         background-repeat: no-repeat;
-        height: 137vh;
+        height: 140vh;
         
         .title{
             text-align: center;
@@ -117,7 +117,7 @@
             height: 90vh;
                       
             .title{
-                padding-top: 5em;
+                padding-top: 8em;
                 h2{
                     font-size: 0.9rem;
                 }
@@ -182,6 +182,7 @@
     /* smartphones landscape*/
     @media all and (min-width: 600px) and (max-width: 1023px) and (orientation:landscape) {
         .intro{
+            margin-top: 0em;
             height: 115vh;
                         
             .title{
@@ -231,7 +232,7 @@
             height: 95vh;
                       
             .title{
-                padding-top: 5em;
+                padding-top: 9em;
                 h2{
                     font-size: 2rem;
                 }
@@ -284,6 +285,7 @@
     /* tablets landscape*/
     @media all and (min-width: 1024px) and (orientation:landscape) {
         .intro{
+            margin-top: -1em;
             height: 89vh;
                         
             .title{
@@ -332,10 +334,11 @@
     
     @media all and (min-width: 1280px){
         .intro{
-            height: 105vh;
+            margin-top: -4em;
+            height: 110vh;
 
             .title{
-                padding-top: 6em;
+                padding-top: 8.5em;
             }
         }
     }

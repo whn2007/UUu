@@ -209,12 +209,12 @@ function Shoutouts() {
           })}
         </div>
 
-        <div className='header'>
+        {/* <div className='header'>
             <h1>Bullies</h1>
             <p>I love bullying bullies</p>
-        </div>
+        </div> */}
 
-        <div className="aboutList">
+        {/* <div className="aboutList">
           {VillainList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
@@ -226,7 +226,8 @@ function Shoutouts() {
             );
           })}
         </div>
-        
+         */}
+         
         <div className='header'>
             <h1>Videos</h1>
         </div>

@@ -16,6 +16,7 @@ import { VideoGameList } from '../helpers/VideoGameList'
 import { Link } from 'react-router-dom';
 import YoutubeIcon from '../assets/youtube.png'
 import { VillainList } from '../helpers/VillainList';
+import { PodcastsList } from '../helpers/PodcastsList';
 
 function Shoutouts() {
   return (
@@ -78,6 +79,23 @@ function Shoutouts() {
 
         <div className="aboutList">
           {BooksList.map((aboutItem, key) => {
+            return (
+              <ShoutOutItem
+                key={key}
+                image={aboutItem.image}
+                name={aboutItem.name}
+                link={aboutItem.link}
+              />
+            );
+          })}
+        </div>
+
+        <div className='header'>
+          <h1>Podcasts</h1>
+        </div>
+
+        <div className="aboutList">
+          {PodcastsList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
                 key={key}

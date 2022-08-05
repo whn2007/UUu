@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from "../components/Footer";
 import "../styles/Shoutouts.scss"
 import ShoutOutItem from '../components/ShoutOutItem';
-import { ShoutOutList } from "../helpers/ShoutOutList";
+import { ProjectsList } from "../helpers/ProjectsList";
 import { BallersList } from "../helpers/Ballers"
 import { AnimeList } from "../helpers/Anime"
 import { MovieList } from "../helpers/Movie"
@@ -211,11 +211,11 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-            <h1>Products</h1>
+            <h1>Projects</h1>
         </div>
 
         <div className="aboutList">
-          {ShoutOutList.map((aboutItem, key) => {
+          {ProjectsList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
                 key={key}

@@ -1,16 +1,17 @@
-import Ekster from "../assets/products/ekster.png"
-import Quikflip from "../assets/products/quikflip.png"
-import GrooveLife from "../assets/products/groove_life.png"
-import EstablishedTitles from "../assets/products/established_titles.png"
-import HNS from "../assets/products/hns.png"
-import NemuNemu from "../assets/products/nemu_nemu.png"
-import DrSquatch from "../assets/products/dr_squatch.png"
-import Bengals from '../assets/products/bengals.png'
-import StartEngine from '../assets/products/startengine.png'
-import MeUndies from '../assets/products/meundies.png'
-import Mous from '../assets/products/mous.png'
+import Ekster from "../assets/projects/ekster.png"
+import Quikflip from "../assets/projects/quikflip.png"
+import GrooveLife from "../assets/projects/groove_life.png"
+import EstablishedTitles from "../assets/projects/established_titles.png"
+import HNS from "../assets/projects/hns.png"
+import NemuNemu from "../assets/projects/nemu_nemu.png"
+import DrSquatch from "../assets/projects/dr_squatch.png"
+import Bengals from '../assets/projects/bengals.png'
+import StartEngine from '../assets/projects/startengine.png'
+import MeUndies from '../assets/projects/meundies.png'
+import Mous from '../assets/projects/mous.png'
+import NatureAquarium from '../assets/projects/natureaquarium.png'
 
-export const ShoutOutList = [  
+export const ProjectsList = [  
     {
         name: "Dr. Squatch",
         image: DrSquatch,
@@ -45,6 +46,11 @@ export const ShoutOutList = [
         name: "Mous",
         image: Mous,
         link: "https://www.mous.co/?device-picker",
+    }, 
+    {
+        name: "Nature Aquarium",
+        image: NatureAquarium,
+        link: "https://www.instagram.com/natureaquarium/?hl=en",
     }, 
     {
         name: "Nemu Nemu",

@@ -16,7 +16,7 @@ export const DiamondsList = [
         name: "Connor \"Redwood\" Davidson",
         description: 'CEO of Proxi',
         image: ConnorDavidson,
-        link: "https://www.linkedin.com/in/connor-davidson-93603a97/",
+        link: "https://www.instagram.com/proxiitheapp/",
     }, 
     {
         name: "Jameson Tabor",
@@ -25,9 +25,9 @@ export const DiamondsList = [
         link: "https://www.jamesontabor.com/",
     }, 
     {
-        name: "Zak Wehman",
+        name: "Zak \"Zak\" Wehman",
         description: 'Head of Business Development \n at CleanRobotics',
         image: ZakWehman,
-        link: "https://cleanrobotics.com/trashbot/",
+        link: "https://cleanrobotics.com/",
     }, 
 ]

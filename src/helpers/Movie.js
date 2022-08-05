@@ -164,6 +164,7 @@ import HardcoreHenry from '../assets/movies/hardcorehenry.png'
 import TrainingDay from '../assets/movies/trainingday.png'
 import RomeoAndJuliet from '../assets/movies/romeoandjuliet.png'
 import FallingDown from '../assets/movies/fallingdown.png'
+import EightMile from '../assets/movies/8mile.png'
 
 
 export const MovieList = [
@@ -222,6 +223,11 @@ export const MovieList = [
         name: "500 Days of Summer",
         image: Summer,
         link: "https://www.imdb.com/title/tt1022603/?ref_=fn_al_tt_1",
+    }, 
+    {
+        name: "8 Mile",
+        image: EightMile,
+        link: "https://www.imdb.com/title/tt0298203/",
     }, 
     {
         name: "A Goofy Movie",

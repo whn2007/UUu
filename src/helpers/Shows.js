@@ -29,22 +29,18 @@ import CSI from '../assets/shows/csi.png'
 import TheOffice from '../assets/shows/theoffice.png'
 import Foster from '../assets/shows/foster.png'
 import PersonOfInterest from '../assets/shows/personofinterest.png'
+import Descendants from '../assets/shows/descendants.png'
 
 export const ShowsList = [
+    {
+        name: "Descendants of the Sun",
+        image: Descendants,
+        link: "https://www.imdb.com/title/tt4925000/",
+    }, 
     {
         name: "Entourage",
         image: Entourage,
         link: "https://www.imdb.com/title/tt0387199/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "The Last Dance",
-        image: LastDance,
-        link: "https://www.imdb.com/title/tt8420184/?ref_=nv_sr_srsg_0",
-    }, 
-    {
-        name: "Person of Interest",
-        image: PersonOfInterest,
-        link: "https://www.imdb.com/title/tt1839578/",
     }, 
     {
         name: "Adventure Time",
@@ -122,6 +118,11 @@ export const ShowsList = [
         link: "https://www.imdb.com/title/tt15264192/?ref_=nv_sr_srsg_0",
     }, 
     {
+        name: "Person of Interest",
+        image: PersonOfInterest,
+        link: "https://www.imdb.com/title/tt1839578/",
+    }, 
+    {
         name: "Planet Earth",
         image: PlanetEarth,
         link: "https://www.imdb.com/title/tt0795176/?ref_=nv_sr_srsg_3",
@@ -175,6 +176,11 @@ export const ShowsList = [
         name: "Teen Titans",
         image: TeenTitans,
         link: "https://www.imdb.com/title/tt0113198/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "The Last Dance",
+        image: LastDance,
+        link: "https://www.imdb.com/title/tt8420184/?ref_=nv_sr_srsg_0",
     }, 
     {
         name: "The Powder Puff Girls",

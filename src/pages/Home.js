@@ -26,7 +26,7 @@ function Home() {
           <h1>"Zero know-do gap"</h1>
           <p>
             <b>Join UUu LLC to eliminate your know-do gap.</b> <br/>
-            The deepest chasm in the world is the gap between what you know <br/> and what you do — most people's know-do gaps are miles long. <br/>
+            The deepest chasm in the world is the gap between what you know and what you do — most people's know-do gaps are miles long. <br/>
           </p>
         </div>
       </div>
@@ -55,7 +55,7 @@ function Home() {
           <h1>"1/1"</h1>
           <p>
           <b>Join UUu LLC to become 1/1.</b><br/> 
-          1/1 just means you grinded in one direction so long <br/> that everyone else around you has dropped out, <br/> so you're the only one left. If you love what you do, <br/> then you will naturally become 1/1. Anyone can become 1/1!
+          1/1 just means you grinded in one direction so long that everyone else around you has dropped out, so you're the only one left. If you love what you do, then you will naturally become 1/1. <br/> Anyone can become 1/1!
           </p>
         </div>
       </div>

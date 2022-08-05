@@ -1,24 +1,33 @@
 import CleanRobotics from "../assets/diamonds/cleanrobotics.png"
 import Atlas from "../assets/diamonds/atlas.png"
 import JamesonTabor from '../assets/ballers/jamesontabor.png'
+import ZakWehman from '../assets/ballers/zakwehman.png'
+import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
+import ConnorDavidson from '../assets/ballers/connordavidson.png'
 
 export const DiamondsList = [
     {
-        name: "CleanRobotics",
-        description: 'Creators of TrashBot',
-        image: CleanRobotics,
-        link: "https://cleanrobotics.com/trashbot/",
+        name: "Ashley Twynam",
+        description: 'AtlasProfilax Specialist',
+        image: AshleyTwynam,
+        link: "https://www.earthlyliving.org",
     }, 
     {
-        name: "Earthly Living",
-        description: 'AtlasPROfilax® Specialist',
-        image: Atlas,
-        link: "https://www.earthlyliving.org/",
+        name: "Connor \"Redwood\" Davidson",
+        description: 'CEO of Proxi',
+        image: ConnorDavidson,
+        link: "https://www.linkedin.com/in/connor-davidson-93603a97/",
     }, 
     {
         name: "Jameson Tabor",
-        description: 'Singer',
+        description: 'Vocal Coach',
         image: JamesonTabor,
         link: "https://www.jamesontabor.com/",
+    }, 
+    {
+        name: "Zak Wehman",
+        description: 'Head of Business Development \n at CleanRobotics',
+        image: ZakWehman,
+        link: "https://cleanrobotics.com/trashbot/",
     }, 
 ]

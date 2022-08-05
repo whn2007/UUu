@@ -30,12 +30,13 @@ function Johnny() {
         <h1>Achievements</h1>
         <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
-        • Released EP, Introducing: UUu 7/31/2022 <br/>  
-        • 10,000 followers within 6 days of account creation — July 25th, 2022 <br/>
+        • 2M views on a TikTok — August 4th, 2022 <br/>  
+        • Released EP, Introducing: UUu — July 31st, 2022 <br/>  
+        • 10k TikTok followers within 6 days of account creation — July 25th, 2022 <br/>
         • Survived being locked up for 12 days — July 14th, 2022 <br/>
         • FBI Watchlist — July 7th, 2022 <br/>
         • Certified maniac — July 4th, 2022 <br/>
-        • 10k organic views on YouTube within 6 days of first video upload — June 17th, 2022<br/>
+        • 10k YouTube views within 6 days of first video upload — June 17th, 2022<br/>
         • #1 expert on Handshake (HNS) — June 11th, 2022 <br/>
         • Head of Product (CEO Equivalent) at Namebase — May 11th, 2022<br/>
         • UUu LLC, CEO — March 14th, 2022<br/>
@@ -66,6 +67,7 @@ function Johnny() {
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>
         • Nobel Prize<br/>
+        • Pursuit: USA Olympic Basketball Gold Medal <br/>
         • Stanford MBA <br/>
         • <span style={{color: '#238811'}}>True Sustainability</span> <br/>
         • Winner's Ultimate <br/>

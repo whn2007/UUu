@@ -51,7 +51,6 @@ import JohnAbabseh from '../assets/ballers/johnababseh.png'
 import BenjaminFranklin from '../assets/ballers/benjaminfranklin.png'
 import RJPimentel from '../assets/ballers/rjpimentel.png'
 import EmmaDesilva from '../assets/ballers/emmadesilva.png'
-import ZakWehman from '../assets/ballers/zakwehman.png'
 import RayChen from '../assets/ballers/raychen.png'
 import TylerChen from '../assets/ballers/tylerchen.png'
 import EricEom from '../assets/ballers/ericeom.png'
@@ -78,7 +77,6 @@ import KaiyaLevine from '../assets/ballers/kaiyalevine.png'
 import FranciscoPeralta from '../assets/ballers/franciscoperalta.png'
 import EddiePacheco from '../assets/ballers/eddiepacheco.png'
 import SteveGaines from '../assets/ballers/stevegaines.png'
-import ConnorDavidson from '../assets/ballers/connordavidson.png'
 import Placeholder from '../assets/ballers/placeholder.png'
 import AlexSundt from '../assets/ballers/alexandersundt.png'
 import NoahMatthew from '../assets/ballers/noahmatthew.png'
@@ -92,7 +90,6 @@ import SophiaLarman from '../assets/ballers/sophialarman.png'
 import GrantBlack from '../assets/ballers/grantblack.png'
 import Ivan from '../assets/ballers/ivan.png'
 import Genevieve from '../assets/ballers/genevieve.png'
-import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
 import DavidEchevarria from '../assets/ballers/davidechevarria.png'
 import JuliaGu from '../assets/ballers/juliagu.png'
 import MatthewZipkin from '../assets/ballers/matthewzipkin.png'
@@ -230,11 +227,6 @@ export const BallersList = [
         link: "https://www.linkedin.com/in/arianne-gardizi-a84a6810a/",
     }, 
     {
-        name: "Ashley Twynam",
-        image: AshleyTwynam,
-        link: "https://www.earthlyliving.org/about",
-    }, 
-    {
         name: "Aureo Mesquita",
         image: AureoMesquita,
         link: "https://www.linkedin.com/in/aureomesquita/",
@@ -338,11 +330,6 @@ export const BallersList = [
         name: "Christopher Wilson",
         image: ChristopherWilson,
         link: "https://www.instagram.com/chris2o9/",
-    }, 
-    {
-        name: "Connor Davidson",
-        image: ConnorDavidson,
-        link: "https://www.linkedin.com/in/connor-davidson-93603a97/",
     }, 
     {
         name: "Constanzo/",
@@ -889,10 +876,5 @@ export const BallersList = [
         name: "Zachary Fogg",
         image: ZacharyFogg,
         link: "https://www.linkedin.com/in/zfogg/",
-    },
-    {
-        name: "Zak Wehman",
-        image: ZakWehman,
-        link: "https://www.linkedin.com/in/zakwehman/",
     },
 ];

@@ -1,5 +1,15 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/JayWuzer/status/1555599164343345152',
+        tweet: "The recipe for success is so simple: \n Deliver what you promise. \n Always.",
+        date: 8/5/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1554579790606188544',
+        tweet: "Artists = Missionaries",
+        date: 8/2/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1553804606265651200',
         tweet: "Being your full authentic self is a life hack. \n The ones who don't vibe with you will naturally be repulsed, and the ones who do vibe with you will naturally be drawn to you. \n Saves a LOT of time and heartache.",
         date: 7/31/2022

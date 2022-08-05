@@ -8,6 +8,7 @@ import DrSquatch from "../assets/products/dr_squatch.png"
 import Bengals from '../assets/products/bengals.png'
 import StartEngine from '../assets/products/startengine.png'
 import MeUndies from '../assets/products/meundies.png'
+import Mous from '../assets/products/mous.png'
 
 export const ShoutOutList = [  
     {
@@ -40,6 +41,11 @@ export const ShoutOutList = [
         image: MeUndies,
         link: "https://www.meundies.com/",
     },  
+    {
+        name: "Mous",
+        image: Mous,
+        link: "https://www.mous.co/?device-picker",
+    }, 
     {
         name: "Nemu Nemu",
         image: NemuNemu,

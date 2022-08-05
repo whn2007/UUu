@@ -38,6 +38,15 @@
             text-decoration: none;
             margin-bottom: 1em;
 
+            &:first-child, &:nth-child(2), &:nth-child(3){
+                .profilePic{
+                    img{
+                        border: 3px solid $red;
+                        border-radius: 8em;
+                    }
+                }  
+            }
+
             .profilePic{
                 display: flex;
                 justify-content: center;

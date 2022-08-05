@@ -30,8 +30,15 @@ import TheOffice from '../assets/shows/theoffice.png'
 import Foster from '../assets/shows/foster.png'
 import PersonOfInterest from '../assets/shows/personofinterest.png'
 import Descendants from '../assets/shows/descendants.png'
+import YanxiPalace from '../assets/shows/yanxipalace.png'
+
 
 export const ShowsList = [
+    {
+        name: "延禧攻略",
+        image: YanxiPalace,
+        link: "https://www.imdb.com/title/tt8865016/",
+    }, 
     {
         name: "Descendants of the Sun",
         image: Descendants,

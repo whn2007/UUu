@@ -13,6 +13,7 @@
         text-align: center;
 
         .top{  
+
             .diamonds{
                 display: flex;
                 justify-content: center;
@@ -113,13 +114,15 @@
 
     /* smartphones portrait*/
     @media all and (min-width: 300px) and (max-width: 767px) and (orientation:portrait) {
+        .header{
+            margin-top: 3em;
+        }
         .intro{
             height: 62vh;
-    
             .top{  
                 .diamonds{
                     img{
-                        padding-top: 1.5em;
+                        padding-top: 2em;
                         width:3em;
                         height: 2em;
                     }
@@ -130,7 +133,7 @@
                     font-size: 1.2rem;
                 }
                 h2{
-                    margin: 0.2em;
+                    margin-top: 0em;
                     font-size: 0.8rem;
                 }
             }
@@ -245,6 +248,10 @@
     }
     /* tablets portrait*/
     @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:portrait){
+        .header{
+            margin-top: -2em;
+        }
+
         .intro{
             height: 80vh;
     
@@ -358,8 +365,14 @@
 
     /*computers*/
     @media all and (min-width: 1024px){
+        .header{
+            margin-top: -3em;
+        }
         .intro{
             height: 110vh;
+            .top{
+                padding-top: 3em;
+            }
         }
     }
     

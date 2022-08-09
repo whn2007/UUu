@@ -12,7 +12,7 @@ function About() {
     <div className="about">
       <div className="aboutHeader">
         <div className="aboutTitle">
-          <h1>Diamonds</h1>
+          <h1>Diamonds 💎</h1>
           <p>We will enable <span style={{color: '#238811'}}>True Sustainability</span>, together.</p>
         </div>
       </div>
@@ -23,7 +23,7 @@ function About() {
       </div> 
 
       <div className="title">
-        <h1>Squad</h1>
+        <h1>Squad 🎖️</h1>
       </div>
 
       <div className="aboutList">
@@ -42,7 +42,7 @@ function About() {
       </div>
 
       <div className="title">
-        <h1>Diamonds</h1>
+        <h1>Diamonds 💎</h1>
       </div>
 
       <div className="diamondList">
@@ -57,6 +57,10 @@ function About() {
               />
             );
         })}
+      </div>
+
+      <div className="title">
+        <h1>Patrons 💰</h1>
       </div>
 
       <div className="chat">

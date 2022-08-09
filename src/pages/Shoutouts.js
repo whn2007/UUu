@@ -23,7 +23,7 @@ function Shoutouts() {
     <div className='shoutouts'>
 
         <div className='header'>
-          <h1>Ballers</h1>
+          <h1>Ballers 🏀</h1>
         </div>
 
         <div className="aboutList">
@@ -40,7 +40,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Restaurants</h1>
+          <h1>Restaurants 🥩</h1>
         </div>
 
         <div className="aboutList">
@@ -57,7 +57,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Novels</h1>
+          <h1>Novels 📚</h1>
         </div>
 
         <div className="aboutList">
@@ -74,7 +74,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Books</h1>
+          <h1>Books 📖</h1>
         </div>
 
         <div className="aboutList">
@@ -91,7 +91,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Podcasts</h1>
+          <h1>Podcasts 📻</h1>
         </div>
 
         <div className="aboutList">
@@ -108,7 +108,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Plays</h1>
+          <h1>Plays 🎥</h1>
         </div>
 
         <div className="aboutList">
@@ -125,7 +125,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Anime</h1>
+          <h1>Anime 👺</h1>
         </div>
 
         <div className="aboutList">
@@ -142,7 +142,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Manga</h1>
+          <h1>Manga 📕</h1>
         </div>
 
         <div className="aboutList">
@@ -159,7 +159,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Games</h1>
+          <h1>Games 🎮</h1>
         </div>
 
         <div className="aboutList">
@@ -177,7 +177,7 @@ function Shoutouts() {
 
 
         <div className='header'>
-          <h1>Movies</h1>
+          <h1>Movies 🎬</h1>
         </div>
 
         <div className="aboutList">
@@ -194,7 +194,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-          <h1>Shows</h1>
+          <h1>Shows 📺</h1>
         </div>
 
         <div className="aboutList">
@@ -211,7 +211,7 @@ function Shoutouts() {
         </div>
 
         <div className='header'>
-            <h1>Projects</h1>
+            <h1>Projects 🎁</h1>
         </div>
 
         <div className="aboutList">
@@ -226,11 +226,21 @@ function Shoutouts() {
             );
           })}
         </div>
+         
+        <div className='header'>
+            <h1>Videos 📹</h1>
+        </div>
 
-        {/* <div className='header'>
-            <h1>Bullies</h1>
+        <div className='youtubeButton'>
+          <Link to='/youtube/'>
+            <img src={YoutubeIcon}/>
+          </Link>
+        </div>
+
+        <div className='header'>
+            <h1>Villains ☠️</h1>
             <p>I love bullying bullies</p>
-        </div> */}
+        </div>
 
         {/* <div className="aboutList">
           {VillainList.map((aboutItem, key) => {
@@ -245,16 +255,6 @@ function Shoutouts() {
           })}
         </div>
          */}
-         
-        <div className='header'>
-            <h1>Videos</h1>
-        </div>
-
-        <div className='youtubeButton'>
-          <Link to='/youtube/'>
-            <img src={YoutubeIcon}/>
-          </Link>
-        </div>
 
         <Footer className = "footer"/>
     </div>

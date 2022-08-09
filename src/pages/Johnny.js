@@ -12,13 +12,13 @@ function Johnny() {
     <div className='johnny'>
       <div className='intro'>
         <div className='title'>
-          <h1>Lord Jay "Boss" UUu</h1>
+          <h1>Lord Jay "Boss" UUu 😼</h1>
           <h2>"UUu's Chinese name is <span style={{color: '#238811'}}>吴绿</span>, which means <span style={{color: '#238811'}}>"green"</span>. He was born to <span style={{color: '#238811'}}>green</span> the world."</h2>
         </div>
       </div>
 
       <div className="originPitch">
-        <h1>Letter from UUu</h1>
+        <h1>Letter from UUu 💌</h1>
         <a href = {Proposal} download>
           <img src={OriginPitch} className="pitch"/>
           <img src={OriginPitch2} className="pitch"/>
@@ -27,10 +27,10 @@ function Johnny() {
       
 
       <div className='achievements'>
-        <h1>Achievements</h1>
+        <h1>Achievements 🏆</h1>
         <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
-        • 2M views on a TikTok — August 4th, 2022 <br/>  
+        • 1M views on a TikTok video — August 3rd, 2022 <br/>  
         • Released EP, Introducing: UUu — July 31st, 2022 <br/>  
         • 10k TikTok followers within 6 days of account creation — July 25th, 2022 <br/>
         • Survived being locked up for 12 days — July 14th, 2022 <br/>
@@ -55,7 +55,7 @@ function Johnny() {
       </div>
 
       <div className='ongoing'>
-        <h1>Pursuits</h1>
+        <h1>Pursuits 🎯</h1>
         <p>
         • #1 Hit Album<br/>
         • #1 YouTuber<br/>
@@ -76,7 +76,7 @@ function Johnny() {
       </div>
 
       <div className='wisdom'>
-        <h1>Quotes</h1>
+        <h1>Quotes 💭</h1>
         <div className='wise-tweets'>
           {TweetList.map((tweet, key) =>{
             return (

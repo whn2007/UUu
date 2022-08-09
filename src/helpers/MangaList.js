@@ -62,6 +62,7 @@ import Yuyuhakusho from '../assets/manga/yuyuhakusho.png'
 import Onizuka from '../assets/manga/onizuka.png'
 import Shokugeki from '../assets/manga/shokugeki.png'
 import Yasashii from '../assets/manga/yasashii.png'
+import TheWorldOnlyGodKnows from '../assets/manga/theworldonlygodknows.png'
 
 
 export const MangaList = [
@@ -354,6 +355,11 @@ export const MangaList = [
         name: 'The Strongest Wizard',
         image: TheStrongestWizard,
         link: 'https://myanimelist.net/manga/119304/Saikyou_no_Madoushi_Hiza_ni_Ya_wo_Uketeshimatta_node_Inaka_no_Eihei_ni_Naru?q=the%20strongest%20wizard&cat=manga'
+    },
+    {
+        name: "The World Only God Knows",
+        image: TheWorldOnlyGodKnows,
+        link: 'https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai'
     },
     {
         name: "The World's Strongest Fighter",

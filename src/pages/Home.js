@@ -27,7 +27,7 @@ function Home() {
           <img src = {Zero}/>
         </div>
         <div className="textBlock">
-          <h1>"Zero know-do gap"</h1>
+          <h1>Zero know-do gap 🧑‍🚀</h1>
           <p>
             <b>Join UUu LLC to eliminate your know-do gap.</b> <br/>
             The deepest chasm in the world is the gap between what you know and what you do — most people's know-do gaps are miles long. <br/>
@@ -36,7 +36,7 @@ function Home() {
       </div>
       <div className="founder">
         <div className="textBlock">
-          <h1>"S-Tier"</h1>
+          <h1>S-Tier 🦸</h1>
           <p>
             <b>Join UUu LLC to become S-Tier.</b><br/>
             • S-Tier: You love your job and have hobbies. <br/>
@@ -56,7 +56,7 @@ function Home() {
           <img src = {OneOfOne}/>
         </div>
         <div className="textBlock">
-          <h1>"1/1"</h1>
+          <h1>1/1 🤴</h1>
           <p>
           <b>Join UUu LLC to become 1/1.</b><br/> 
           1/1 just means you grinded in one direction so long that everyone else around you has dropped out, so you're the only one left. If you love what you do, then you will naturally become 1/1. <br/> Anyone can become 1/1!
@@ -66,7 +66,7 @@ function Home() {
       
 
       <div className="merch">
-        <h1>Merch</h1>
+        <h1>Merch 👕</h1>
         <h2>The best way to support our endeavors is by <a href="https://merch.uuu.vip/" target='_blank'>purchasing</a> and rockin' our company merch!</h2>
         <a href="https://merch.uuu.vip/" target='_blank'><img src={Merch}/></a>
       </div>

@@ -1,5 +1,20 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/LordJayWu/status/1556764804206845952',
+        tweet: "Anyone can accurately assess your personality by the pets you raise. \n Choose wisely.",
+        date: 8/8/2022
+    }, 
+    {
+        link: 'https://twitter.com/JayWuzer/status/1556649855669248000',
+        tweet: "Popular = # of people who have heard of you > # of people you have heard of",
+        date: 8/8/2022
+    }, 
+    {
+        link: 'https://twitter.com/LordJayWu/status/1556357201249181697',
+        tweet: "Money is a useful tool for exposing people's true colors.",
+        date: 8/7/2022
+    }, 
+    {
         link: 'https://twitter.com/JayWuzer/status/1555599164343345152',
         tweet: "The recipe for success is so simple: \n Deliver what you promise. \n Always.",
         date: 8/5/2022

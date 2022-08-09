@@ -88,14 +88,14 @@ import EatPrayLove from '../assets/books/eatpraylove.png'
 
 export const BooksList = [
     {
-        name: "The Happiness Advantage",
-        image: Happiness,
-        link: "https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656540989&sr=1-1",
-    },
-    {
         name: "Eat Pray Love",
         image: EatPrayLove,
         link: "https://www.amazon.com/Eat-Pray-Love-Womans-Everything/dp/0747585660",
+    },
+    {
+        name: "The Happiness Advantage",
+        image: Happiness,
+        link: "https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1656540989&sr=1-1",
     },
     {
         name: "Range",

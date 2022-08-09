@@ -147,6 +147,11 @@ import TonyJin from '../assets/ballers/tonyjin.png'
 
 export const BallersList = [
     {
+        name: "Aaron Puttawong",
+        image: AaronPuttawong,
+        link: "https://www.dive-careers.com/dive-careers-aaron-puttawong.html",
+    }, 
+    {
         name: "Rio Root",
         image: RioRoot,
         link: "https://www.pulserecordings.com/clients/rio-root/",
@@ -156,11 +161,6 @@ export const BallersList = [
         image: StephenTorres,
         link: "https://www.stephentorres.com/",
     },  
-    {
-        name: "Aaron Puttawong",
-        image: AaronPuttawong,
-        link: "https://www.dive-careers.com/dive-careers-aaron-puttawong.html",
-    }, 
     {
         name: "Abdo",
         image: Abdo,

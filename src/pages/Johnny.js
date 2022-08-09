@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from "../components/Footer";
 import OriginPitch from "../assets/proposal1.png"
 import OriginPitch2 from "../assets/proposal2.png"
-import Proposal from "../assets/proposal.pdf"
+import Proposal from "../assets/letter.pdf"
 import "../styles/Johnny.scss";
 import { TweetList } from '../helpers/TweetList';
 import Tweet from "../components/Tweet.js"
@@ -58,7 +58,7 @@ function Johnny() {
         <h1>Pursuits 🎯</h1>
         <p>
         • #1 Hit Album<br/>
-        • #1 YouTuber<br/>
+        • #1 TikToker<br/>
         • ABRSM Grade 7<br/>
         • Ambassador to China<br/>
         • American Political Party <br/>
@@ -66,8 +66,10 @@ function Johnny() {
         • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>
-        • Nobel Prize<br/>
-        • Pursuit: USA Olympic Basketball Gold Medal <br/>
+        • Nobel Prize <br/>
+        • Pass California Bar exam <br/>
+        • Real estate license <br/>
+        • USA Olympic Basketball Gold Medal <br/>
         • Stanford MBA <br/>
         • <span style={{color: '#238811'}}>True Sustainability</span> <br/>
         • Winner's Ultimate <br/>

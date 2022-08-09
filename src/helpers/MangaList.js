@@ -77,7 +77,7 @@ export const MangaList = [
         link: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma'
     },
     {
-        name: 'Yuu Tomonaga',
+        name: 'Yasashii Sekai no Tsukurikata',
         image: Yasashii,
         link: 'https://myanimelist.net/manga/18939/Yasashii_Sekai_no_Tsukurikata'
     },

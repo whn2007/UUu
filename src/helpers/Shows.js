@@ -35,11 +35,6 @@ import YanxiPalace from '../assets/shows/yanxipalace.png'
 
 export const ShowsList = [
     {
-        name: "延禧攻略",
-        image: YanxiPalace,
-        link: "https://www.imdb.com/title/tt8865016/",
-    }, 
-    {
         name: "Descendants of the Sun",
         image: Descendants,
         link: "https://www.imdb.com/title/tt4925000/",
@@ -48,6 +43,11 @@ export const ShowsList = [
         name: "Entourage",
         image: Entourage,
         link: "https://www.imdb.com/title/tt0387199/?ref_=nv_sr_srsg_0",
+    }, 
+    {
+        name: "Story of Yanxi Palace",
+        image: YanxiPalace,
+        link: "https://www.imdb.com/title/tt8865016/",
     }, 
     {
         name: "Adventure Time",

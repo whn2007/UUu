@@ -245,7 +245,7 @@ function Shoutouts() {
             <p>Become a <a href='https://merch.uuu.vip/collections/uuu-merch' target='none'>patron</a> of UUu LLC to be forgiven</p>
         </div>
 
-        {/* <div className="aboutList">
+        <div className="aboutList">
           {VillainList.map((aboutItem, key) => {
             return (
               <ShoutOutItem
@@ -257,7 +257,7 @@ function Shoutouts() {
             );
           })}
         </div>
-         */}
+        
 
         <Footer className = "footer"/>
     </div>

@@ -24,13 +24,13 @@ function Footer() {
       <div className="redBottomLogo"><img src={RedBottomLogo} /></div>
       <div className="socialMedia">  
         <div className="firstHalf">
+          <a href="https://twitter.com/LordJayWu" target="_blank">
+            <TwitterIcon className="special"/>
+          </a>
           <a id = 'tiktok' href="https://www.tiktok.com/@lordjaywu" target="_blank">
             <img src={TikTokIcon} className = 'imported special'/>
           </a>
-          <a href="https://twitter.com/UUuLLC" target="_blank">
-            <TwitterIcon className="special"/>
-          </a>
-          <a id = 'soundcloud' href="https://soundcloud.com/jaywuzer" target='_blank'>
+          <a id = 'soundcloud' href="https://soundcloud.com/LordJayWu" target='_blank'>
             <img src= {SoundcloudIcon} 
             className="imported special"/>
           </a>

@@ -1,5 +1,15 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/LordJayWu/status/1557504591943458816',
+        tweet: "How do you know you’ve made it? \n It’s when you can be your full authentic self with zero fear of repercussions.",
+        date: 8/10/2022
+    }, 
+    {
+        link: 'https://twitter.com/LordJayWu/status/1557263350697828353',
+        tweet: "If your audience struggles to understand what you're saying, they are not poor students. You are just a poor teacher. \n Learn to communicate better.",
+        date: 8/9/2022
+    }, 
+    {
         link: 'https://twitter.com/LordJayWu/status/1556764804206845952',
         tweet: "Anyone can accurately assess your personality by the pets you raise. \n Choose wisely.",
         date: 8/8/2022

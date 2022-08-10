@@ -16,7 +16,7 @@ export const AboutList = [
     image: JohnnyWu,
     stars: FiveStars,
     description: "CEO",
-    link: "https://twitter.com/JayWuzer",
+    link: "https://twitter.com/LordJayWu",
   },
   {
     name: "William \"Boss Jr.\" Nguyen",
@@ -30,6 +30,6 @@ export const AboutList = [
     image: Apex,
     stars: OneStar,
     description: "Mascot",
-    link: "https://twitter.com/JayWuzer",
+    link: "https://twitter.com/LordJayWu",
   },
 ];

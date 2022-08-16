@@ -14,10 +14,10 @@ function Home() {
         <div className="intro">
           <div className="top">
             <div className="diamonds">
-            <h3>Diamonds, will shine.</h3>
+            <h1>Diamonds, will shine.</h1>
             <img src={Diamond}/>
             </div>
-            <h2>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</h2>
+            <p>If you <i>know</i> you are a Diamond in the rough, join UUu LLC and you will be polished to shine.</p>
           </div>
         </div>
       </div>

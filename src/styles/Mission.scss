@@ -134,8 +134,18 @@
     }
 
     @media all and (min-width: 768px) and (max-width: 1023px) {
+        .footer{
+            margin-top: 2em;
+        }
         .header{
-            margin-bottom: 0em;
+            margin-bottom: 1em;
+            margin-top: 0.5em;
+            h1{
+                font-size: 3rem;
+            }
+            p{
+                font-size: 1.5rem;
+            }
         }
         .value{
             display: flex;

@@ -1,5 +1,15 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/lordjaywu/status/1558257365228482560',
+        tweet: "Your peak is when you start getting lazy — when you start to settle.",
+        date: 8/12/2022
+    }, 
+    {
+        link: 'https://twitter.com/LordJayWu/status/1557548549205680128',
+        tweet: "If you ask for help before spending at least 5 minutes figuring it out yourself, you're wasting everyone else's time. \n If you spend more than 5 minutes struggling to figure it out yourself and fail to ask for help, you're wasting your own time",
+        date: 8/10/2022
+    }, 
+    {
         link: 'https://twitter.com/LordJayWu/status/1557504591943458816',
         tweet: "How do you know you’ve made it? \n It’s when you can be your full authentic self with zero fear of repercussions.",
         date: 8/10/2022

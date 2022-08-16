@@ -34,12 +34,12 @@ function Footer() {
             <img src= {SoundcloudIcon} 
             className="imported special"/>
           </a>
+          <a href="https://www.instagram.com/jaywuzer/" target="_blank">
+            <InstagramIcon />
+          </a>
           <a id = 'spotify' href="https://open.spotify.com/user/12166954044" target='_blank'>
             <img src= {SpotifyIcon} 
             className="imported"/>
-          </a>
-          <a href="https://www.instagram.com/jaywuzer/" target="_blank">
-            <InstagramIcon />
           </a>
         </div>    
         <div className="secondHalf">

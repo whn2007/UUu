@@ -6,6 +6,7 @@ import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
 import ConnorDavidson from '../assets/ballers/connordavidson.png'
 import JirehBey from '../assets/diamonds/jirehbey.png'
 import LauraMorton from '../assets/diamonds/lauramorton.png'
+import Marine from '../assets/diamonds/marine.png'
 
 export const DiamondsList = [
     {
@@ -39,8 +40,14 @@ export const DiamondsList = [
         link: "https://www.lauramortondesign.com/",
     }, 
     {
-        name: "Zak \"Zak\" Wehman",
-        description: 'Head of Business Development at CleanRobotics',
+        name: "Marine Kalamdaryan",
+        description: 'Executive Director of LA Community Alliance',
+        image: Marine,
+        link: "https://www.lacommunityalliance.org/",
+    }, 
+    {
+        name: "Zachary \"Zak\" Wehman",
+        description: 'Associate Director of Business Development',
         image: ZakWehman,
         link: "https://cleanrobotics.com/",
     }, 

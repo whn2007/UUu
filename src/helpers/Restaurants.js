@@ -68,6 +68,7 @@ import MenshoTokyo from '../assets/restaurants/mensho.png'
 import PiOnSunet from '../assets/restaurants/pionsunset.png'
 import CousinsMaineLobster from '../assets/restaurants/cousinsmainelobster.png'
 import SunsetGrill from '../assets/restaurants/sunsetgrill.png'
+import Ospero from '../assets/restaurants/ospero.png'
 
 
 export const RestaurantsList = [
@@ -235,6 +236,11 @@ export const RestaurantsList = [
         name: "Mensho Tokyo",
         image: MenshoTokyo,
         link: "http://menshogroup.com/",
+    }, 
+    {
+        name: "Ospero",
+        image: Ospero,
+        link: "https://www.pendry.com/west-hollywood/dining/ospero/",
     }, 
     {
         name: "Overthrow Hospitality",

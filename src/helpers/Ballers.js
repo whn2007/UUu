@@ -4,7 +4,7 @@ import RioRoot from '../assets/ballers/rioroot.png'
 import JamesonTabor from '../assets/ballers/jamesontabor.png'
 import JoshBraun from '../assets/ballers/joshbraun.png'
 import DavidVorick from '../assets/ballers/davidvorick.png'
-import BennettHoffman from '../assets/ballers/bennethoffman.png'
+import BennettHoffman from '../assets/ballers/bennetthoffman.png'
 import DavidDong from '../assets/ballers/daviddong.png'
 import JarretDuran from '../assets/ballers/jarrettduran.png'
 import KibaGateaux from '../assets/ballers/kibagateaux.png'
@@ -108,7 +108,7 @@ import BenjaminKleven from '../assets/ballers/benjaminkleven.png'
 import Nelly from '../assets/ballers/nelly.png'
 import ChristopherBarnes from '../assets/ballers/christopherbarnes.png'
 import Anabelle from '../assets/ballers/anabelle.png'
-import Alex from '../assets/ballers/alex.png'
+import AlexOyle from '../assets/ballers/alexoyle.png'
 import LorenzoOng from '../assets/ballers/lorenzoong.png'
 import PaulChin from '../assets/ballers/paulchin.png'
 import CatherineHsu from '../assets/ballers/catherinehsu.png'
@@ -149,8 +149,9 @@ import ThomasFerry from '../assets/ballers/thomasferry.png'
 import AgathaFerry from '../assets/ballers/agathaferry.png'
 import Shokunin from '../assets/ballers/shokunin.png'
 import Bardia from '../assets/ballers/bardia.png'
-import Jethro from '../assets/ballers/jethro.png'
+import Jethro from '../assets/ballers/jethronieters.png'
 import Ari from '../assets/ballers/ari.png'
+import AnthonyHakim from '../assets/ballers/anthonyhakim.png'
 
 
 export const BallersList = [
@@ -186,7 +187,7 @@ export const BallersList = [
     }, 
     {
         name: "Alex Oyle",
-        image: Alex,
+        image: AlexOyle,
         link: "https://www.instagram.com/bike_life_al/",
     },
     {
@@ -231,7 +232,7 @@ export const BallersList = [
     }, 
     {
         name: "Anthony Hakim",
-        image: Placeholder,
+        image: AnthonyHakim,
         link: "https://www.linkedin.com/in/anthonyhakim1/",
     }, 
     {

@@ -152,6 +152,7 @@ import Bardia from '../assets/ballers/bardia.png'
 import Jethro from '../assets/ballers/jethronieters.png'
 import Ari from '../assets/ballers/ari.png'
 import AnthonyHakim from '../assets/ballers/anthonyhakim.png'
+import PaulPerrone from '../assets/ballers/paulperrone.png'
 
 
 export const BallersList = [
@@ -728,7 +729,7 @@ export const BallersList = [
     }, 
     {
         name: "Paul Perrone",
-        image: Placeholder,
+        image: PaulPerrone,
         link: "https://www.linkedin.com/in/pauljperrone/",
     }, 
     {

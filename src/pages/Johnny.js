@@ -45,6 +45,7 @@ function Johnny() {
         • Master rank in 王者荣耀 (Mobile League of Legends) — November 12th, 2018 <br/>
         • Certified mediator — June 22nd, 2018<br/>
         • 4.0 final semester at UC Berkeley, Energy Engineering — May 12th, 2018<br/>
+        • IQ 140+ March 16th, 2017 <br/>
         • 1 of 2 successful internal transfers into UC Berkeley's College of Engineering — April 20th, 2016 <br/>
         • High school senior favorite — June 13th, 2014 <br/>
         • Eagle scout — October 17th, 2013<br/>
@@ -67,9 +68,9 @@ function Johnny() {
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>
         • Nobel Prize <br/>
-        • Pass California Bar exam <br/>
+        • California Bar Exam <br/>
         • Real estate license <br/>
-        • USA Olympic Basketball Gold Medal <br/>
+        • Owner of Los Angeles Clippers <br/>
         • Stanford MBA <br/>
         • <span style={{color: '#238811'}}>True Sustainability</span> <br/>
         • Winner's Ultimate <br/>

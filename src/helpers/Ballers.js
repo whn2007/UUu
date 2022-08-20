@@ -153,6 +153,7 @@ import Jethro from '../assets/ballers/jethronieters.png'
 import Ari from '../assets/ballers/ari.png'
 import AnthonyHakim from '../assets/ballers/anthonyhakim.png'
 import PaulPerrone from '../assets/ballers/paulperrone.png'
+import LauraMorton from '../assets/diamonds/lauramorton.png'
 
 
 export const BallersList = [
@@ -365,11 +366,6 @@ export const BallersList = [
         name: "David Echevarria",
         image: DavidEchevarria,
         link: "https://www.earthlyliving.org/about",
-    }, 
-    {
-        name: "David Vorick",
-        image: DavidVorick,
-        link: "https://twitter.com/DavidVorick?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     }, 
     {
         name: "Denise Chen",
@@ -643,6 +639,11 @@ export const BallersList = [
         link: "https://twitter.com/kibagateaux",
     }, 
     {
+        name: "Laura Morton",
+        image: LauraMorton,
+        link: "https://www.lauramortondesign.com/",
+    }, 
+    {
         name: "Lexa",
         image: Lexa,
         link: "https://www.instagram.com/six.ian/",
@@ -846,11 +847,6 @@ export const BallersList = [
         name: "Yasmin Jager",
         image: YasminJager,
         link: "https://www.instagram.com/yasmin_jager/",
-    },
-    {
-        name: "Zach Denison",
-        image: ZachDenison,
-        link: "https://www.linkedin.com/in/zachdenison/",
     },
     {
         name: "Zach Woogen",

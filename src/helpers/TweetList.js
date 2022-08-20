@@ -1,5 +1,10 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/LordJayWu/status/1560346626543079424',
+        tweet: "How to become successful: Make promises and deliver. \n How to become wildly successful: Make bold promises and deliver. \n How to become the GOAT: Make the single boldest promise of all time and deliver.",
+        date: 8/18/2022
+    }, 
+    {
         link: 'https://twitter.com/lordjaywu/status/1558257365228482560',
         tweet: "Your peak is when you start getting lazy — when you start to settle.",
         date: 8/12/2022

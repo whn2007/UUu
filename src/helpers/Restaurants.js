@@ -73,9 +73,9 @@ import Ospero from '../assets/restaurants/ospero.png'
 
 export const RestaurantsList = [
     {
-        name: "Langer's Delicatessen Restaurant",
-        image: Langers,
-        link: "https://www.langersdeli.com/",
+        name: "Ospero",
+        image: Ospero,
+        link: "https://www.pendry.com/west-hollywood/dining/ospero/",
     }, 
     {
         name: "Shima Steak",
@@ -208,6 +208,11 @@ export const RestaurantsList = [
         link: "https://www.kekimoderncakes.com/menu",
     }, 
     {
+        name: "Langer's Delicatessen Restaurant",
+        image: Langers,
+        link: "https://www.langersdeli.com/",
+    }, 
+    {
         name: "Le Botaniste",
         image: LeBotaniste,
         link: "https://lebotaniste.us/",
@@ -236,11 +241,6 @@ export const RestaurantsList = [
         name: "Mensho Tokyo",
         image: MenshoTokyo,
         link: "http://menshogroup.com/",
-    }, 
-    {
-        name: "Ospero",
-        image: Ospero,
-        link: "https://www.pendry.com/west-hollywood/dining/ospero/",
     }, 
     {
         name: "Overthrow Hospitality",

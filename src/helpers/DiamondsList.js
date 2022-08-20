@@ -5,8 +5,8 @@ import ZakWehman from '../assets/ballers/zakwehman.png'
 import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
 import ConnorDavidson from '../assets/ballers/connordavidson.png'
 import JirehBey from '../assets/diamonds/jirehbey.png'
-import LauraMorton from '../assets/diamonds/lauramorton.png'
 import Marine from '../assets/diamonds/marine.png'
+import ZachDenison from '../assets/diamonds/zachdenison.png'
 
 export const DiamondsList = [
     {
@@ -34,16 +34,16 @@ export const DiamondsList = [
         link: "https://www.jamesontabor.com/",
     }, 
     {
-        name: "Laura Morton",
-        description: 'Horiculturist Expert',
-        image: LauraMorton,
-        link: "https://www.lauramortondesign.com/",
-    }, 
-    {
         name: "Marine Kalamdaryan",
         description: 'Executive Director of LA Community Alliance',
         image: Marine,
         link: "https://www.lacommunityalliance.org/",
+    }, 
+    {
+        name: "Zach Denison",
+        description: 'Music Producer',
+        image: ZachDenison,
+        link: "https://www.linkedin.com/in/zachdenison/",
     }, 
     {
         name: "Zachary \"Zak\" Wehman",

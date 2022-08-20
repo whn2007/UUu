@@ -39,6 +39,9 @@
             margin: 0.3em 0em 0em 0em;
             a{
                 color: $red;
+                &:hover{
+                    color: $green;
+                }
             }
         }
     }

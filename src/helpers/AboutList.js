@@ -1,14 +1,14 @@
-import JohnnyWu from "../assets/profilepics/jaywuzer.png"
-import WilliamNguyen from "../assets/profilepics/williamnguyen.png";
-import Apex from '../assets/profilepics/apex.png'
-import RunDavidMC from "../assets/profilepics/rundavidmc.png";
-import Bitty from "../assets/profilepics/bitty.png";
-import OneStar from "../assets/1star.png"
-import TwoStars from "../assets/2stars.png"
-import ThreeStars from "../assets/3stars.png"
-import FourStars from "../assets/4stars.png"
-import FiveStars from "../assets/5stars.png"
-import UUu from '../assets/logo.png'
+import JohnnyWu from "../assets/profilepics/jaywuzer.webp"
+import WilliamNguyen from "../assets/profilepics/williamnguyen.webp";
+import Apex from '../assets/profilepics/apex.webp'
+import RunDavidMC from "../assets/profilepics/rundavidmc.webp";
+import Bitty from "../assets/profilepics/bitty.webp";
+import OneStar from "../assets/1star.webp"
+import TwoStars from "../assets/2stars.webp"
+import ThreeStars from "../assets/3stars.webp"
+import FourStars from "../assets/4stars.webp"
+import FiveStars from "../assets/5stars.webp"
+import UUu from '../assets/logo.webp'
 
 export const AboutList = [
   {

@@ -14,7 +14,7 @@ import { BooksList } from '../helpers/Books';
 import { MangaList } from '../helpers/MangaList'
 import { VideoGameList } from '../helpers/VideoGameList'
 import { Link } from 'react-router-dom';
-import YoutubeIcon from '../assets/youtube.png'
+import YoutubeIcon from '../assets/youtube.webp'
 import { VillainList } from '../helpers/VillainList';
 import { PodcastsList } from '../helpers/PodcastsList';
 

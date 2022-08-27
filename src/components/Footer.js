@@ -6,16 +6,16 @@ import YouTubeIcon from "@material-ui/icons/YouTube";
 import RedditIcon from '@material-ui/icons/Reddit';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import "../styles/Footer.scss";
-import GreenBottomLogo from '../assets/greenbottomlogo.png'
-import RedBottomLogo from '../assets/redbottomlogo.png'
-import SpotifyIcon from '../assets/spotify.png'
-import TikTokIcon from '../assets/tiktok.png'
-import TwitchIcon from '../assets/twitch.png'
-import SoundcloudIcon from '../assets/soundcloud.png'
-import PatreonIcon from '../assets/patreon.png'
-import TwitchIconDark from '../assets/twitch2.png'
-import SpotifyIconDark from '../assets/spotify2.png'
-import TikTokIconDark from '../assets/tiktok2.png'
+import GreenBottomLogo from '../assets/greenbottomlogo.webp'
+import RedBottomLogo from '../assets/redbottomlogo.webp'
+import SpotifyIcon from '../assets/spotify.webp'
+import TikTokIcon from '../assets/tiktok.webp'
+import TwitchIcon from '../assets/twitch.webp'
+import SoundcloudIcon from '../assets/soundcloud.webp'
+import PatreonIcon from '../assets/patreon.webp'
+import TwitchIconDark from '../assets/twitch2.webp'
+import SpotifyIconDark from '../assets/spotify2.webp'
+import TikTokIconDark from '../assets/tiktok2.webp'
 
 function Footer() {
   return (

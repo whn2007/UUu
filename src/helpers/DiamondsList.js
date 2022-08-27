@@ -1,13 +1,13 @@
-import CleanRobotics from "../assets/diamonds/cleanrobotics.png"
-import Atlas from "../assets/diamonds/atlas.png"
-import JamesonTabor from '../assets/ballers/jamesontabor.png'
-import ZakWehman from '../assets/ballers/zakwehman.png'
-import AshleyTwynam from '../assets/ballers/ashleytwynam.png'
-import ConnorDavidson from '../assets/ballers/connordavidson.png'
-import JirehBey from '../assets/diamonds/jirehbey.png'
-import Marine from '../assets/diamonds/marine.png'
-import ZachDenison from '../assets/diamonds/zachdenison.png'
-import BrianWest from '../assets/diamonds/brianwest.png'
+import CleanRobotics from "../assets/diamonds/cleanrobotics.webp"
+import Atlas from "../assets/diamonds/atlas.webp"
+import JamesonTabor from '../assets/ballers/jamesontabor.webp'
+import ZakWehman from '../assets/ballers/zakwehman.webp'
+import AshleyTwynam from '../assets/ballers/ashleytwynam.webp'
+import ConnorDavidson from '../assets/ballers/connordavidson.webp'
+import JirehBey from '../assets/diamonds/jirehbey.webp'
+import Marine from '../assets/diamonds/marine.webp'
+import ZachDenison from '../assets/diamonds/zachdenison.webp'
+import BrianWest from '../assets/diamonds/brianwest.webp'
 
 export const DiamondsList = [
     // {

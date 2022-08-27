@@ -1,11 +1,11 @@
 import React from "react";
 import Footer from "../components/Footer";
 import "../styles/Home.scss";
-import Merch from '../assets/jacket.png'
-import Zero from '../assets/knowdogap.png'
-import STier from '../assets/s-tier.png'
-import OneOfOne from '../assets/1@2x.png'
-import Diamond from '../assets/diamond.png'
+import Merch from '../assets/jacket.webp'
+import Zero from '../assets/knowdogap.webp'
+import STier from '../assets/s-tier.webp'
+import OneOfOne from '../assets/1@2x.webp'
+import Diamond from '../assets/diamond.webp'
 
 function Home() {
   return (

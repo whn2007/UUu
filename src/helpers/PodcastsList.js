@@ -1,7 +1,7 @@
-import JoeRogan from '../assets/podcasts/joerogan.png'
-import BillBurr from '../assets/podcasts/billburr.png'
-import Freakonomics from '../assets/podcasts/freakonomics.png'
-import Built from '../assets/podcasts/built.png'
+import JoeRogan from '../assets/podcasts/joerogan.webp'
+import BillBurr from '../assets/podcasts/billburr.webp'
+import Freakonomics from '../assets/podcasts/freakonomics.webp'
+import Built from '../assets/podcasts/built.webp'
 
 export const PodcastsList = [
     {

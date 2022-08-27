@@ -1,7 +1,7 @@
 import React from 'react'
 import Footer from "../components/Footer";
-import OriginPitch from "../assets/proposal1.png"
-import OriginPitch2 from "../assets/proposal2.png"
+import OriginPitch from "../assets/proposal1.webp"
+import OriginPitch2 from "../assets/proposal2.webp"
 import Proposal from "../assets/letter.pdf"
 import "../styles/Johnny.scss";
 import { TweetList } from '../helpers/TweetList';

@@ -1,9 +1,9 @@
-import Hamilton from '../assets/plays/hamilton.png'
-import Mormon from '../assets/plays/mormon.png'
-import Wicked from '../assets/plays/wicked.png'
-import AmericanIdiot from '../assets/plays/americanidiot.png'
-import MammaMia from '../assets/plays/mammamia.png'
-import Phantom from '../assets/plays/phantom.png'
+import Hamilton from '../assets/plays/hamilton.webp'
+import Mormon from '../assets/plays/mormon.webp'
+import Wicked from '../assets/plays/wicked.webp'
+import AmericanIdiot from '../assets/plays/americanidiot.webp'
+import MammaMia from '../assets/plays/mammamia.webp'
+import Phantom from '../assets/plays/phantom.webp'
 
 export const PlaysList = [
     {

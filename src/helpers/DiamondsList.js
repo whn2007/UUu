@@ -7,6 +7,7 @@ import ConnorDavidson from '../assets/ballers/connordavidson.png'
 import JirehBey from '../assets/diamonds/jirehbey.png'
 import Marine from '../assets/diamonds/marine.png'
 import ZachDenison from '../assets/diamonds/zachdenison.png'
+import BrianWest from '../assets/diamonds/brianwest.png'
 
 export const DiamondsList = [
     // {
@@ -15,6 +16,12 @@ export const DiamondsList = [
     //     image: AshleyTwynam,
     //     link: "https://www.earthlyliving.org",
     // }, 
+    {
+        name: "Brian \"Landin\" West",
+        description: 'Founder of Stand-up & Sing',
+        image: BrianWest,
+        link: "https://www.instagram.com/landinwest/",
+    }, 
     {
         name: "Connor \"Redwood\" Davidson",
         description: 'CEO of Proxi',

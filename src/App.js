@@ -25,7 +25,7 @@ function App() {
           <Route path="/youtube/" exact element={<Youtube />} />
           <Route path="*" exact element={<Home/>} />
         </Routes> */}
-        <Johnny/>
+        <Shoutouts/>
       </Router>
     </div>
   );

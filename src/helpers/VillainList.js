@@ -37,6 +37,11 @@ export const VillainList = [
         link: 'https://twitter.com/imigliu'
     },
     {
+        name: 'Cameron Kovach',
+        image: Placeholder,
+        link: 'https://www.linkedin.com/in/cameron-kovach-7720653a/'
+    },
+    {
         name: 'Cameron Magruder',
         image: CameronMagruder,
         link: 'https://twitter.com/Scootermagruder'

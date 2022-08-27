@@ -16,7 +16,7 @@ function App() {
       <Router>
         <ScrollToTop/>
         <Navbar />
-        <Routes>
+        {/* <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/values/" exact element={<Mission />} />
           <Route path="/diamonds/" exact element={<About />} />
@@ -24,7 +24,8 @@ function App() {
           <Route path="/inspirations/" exact element={<Shoutouts />} />
           <Route path="/youtube/" exact element={<Youtube />} />
           <Route path="*" exact element={<Home/>} />
-        </Routes>
+        </Routes> */}
+        <Johnny/>
       </Router>
     </div>
   );

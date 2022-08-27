@@ -9,12 +9,12 @@ import Marine from '../assets/diamonds/marine.png'
 import ZachDenison from '../assets/diamonds/zachdenison.png'
 
 export const DiamondsList = [
-    {
-        name: "Ashley Twynam",
-        description: 'AtlasProfilax™ Specialist',
-        image: AshleyTwynam,
-        link: "https://www.earthlyliving.org",
-    }, 
+    // {
+    //     name: "Ashley Twynam",
+    //     description: 'AtlasProfilax™ Specialist',
+    //     image: AshleyTwynam,
+    //     link: "https://www.earthlyliving.org",
+    // }, 
     {
         name: "Connor \"Redwood\" Davidson",
         description: 'CEO of Proxi',
@@ -29,7 +29,7 @@ export const DiamondsList = [
     }, 
     {
         name: "Jireh \"Chicago\" Bey",
-        description: 'Founder of Hip-Hop on the Pull Up',
+        description: 'Founder of Hip-Hop On Da Pull Up',
         image: JirehBey,
         link: "https://www.jamesontabor.com/",
     }, 
@@ -45,10 +45,10 @@ export const DiamondsList = [
         image: ZachDenison,
         link: "https://www.linkedin.com/in/zachdenison/",
     }, 
-    {
-        name: "Zachary \"Zak\" Wehman",
-        description: 'Associate Director of Business Development',
-        image: ZakWehman,
-        link: "https://cleanrobotics.com/",
-    }, 
+    // {
+    //     name: "Zachary \"Zak\" Wehman",
+    //     description: 'Associate Director of Business Development',
+    //     image: ZakWehman,
+    //     link: "https://cleanrobotics.com/",
+    // }, 
 ]

@@ -13,6 +13,7 @@ import Placeholder from '../assets/ballers/placeholder.png'
 import MarkSmith from '../assets/villains/marksmith.png'
 import RyoMiller from '../assets/villains/ryomiller.png'
 import NatalieJohnson from '../assets/villains/nataliejohnson.png'
+import CameronMagruder from '../assets/villains/cameronmagruder.png'
 
 export const VillainList = [
     {
@@ -34,6 +35,11 @@ export const VillainList = [
         name: 'Anthony Liu',
         image: AnthonyLiu,
         link: 'https://twitter.com/imigliu'
+    },
+    {
+        name: 'Cameron Magruder',
+        image: CameronMagruder,
+        link: 'https://twitter.com/Scootermagruder'
     },
     {
         name: 'Craig Johnson',

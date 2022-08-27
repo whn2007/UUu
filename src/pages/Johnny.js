@@ -30,6 +30,7 @@ function Johnny() {
         <h1>Achievements 🏆</h1>
         <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
+        • Hoop Bus Celebrity Basketball Player — August 21st, 2022 <br/>
         • 1M views on a TikTok video — August 3rd, 2022 <br/>  
         • Released EP, Introducing: UUu — July 31st, 2022 <br/>  
         • 10k TikTok followers within 6 days of account creation — July 25th, 2022 <br/>
@@ -45,7 +46,7 @@ function Johnny() {
         • Master rank in 王者荣耀 (Mobile League of Legends) — November 12th, 2018 <br/>
         • Certified mediator — June 22nd, 2018<br/>
         • 4.0 final semester at UC Berkeley, Energy Engineering — May 12th, 2018<br/>
-        • IQ 140+ March 16th, 2017 <br/>
+        • IQ 140+ — March 16th, 2017 <br/>
         • 1 of 2 successful internal transfers into UC Berkeley's College of Engineering — April 20th, 2016 <br/>
         • High school senior favorite — June 13th, 2014 <br/>
         • Eagle scout — October 17th, 2013<br/>

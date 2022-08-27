@@ -231,11 +231,9 @@ function Shoutouts() {
             <h1>Videos 📹</h1>
         </div>
 
-        <div className='youtubeButton'>
-          <Link to='/youtube/'>
-            <img src={YoutubeIcon}/>
-          </Link>
-        </div>
+        <a className='youtubeButton' href='https://youtube.uuu.vip/'>
+          <img src={YoutubeIcon}/>
+        </a>
 
         <hr/>
 

@@ -1,5 +1,25 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/LordJayWu/status/1561908094984077313',
+        tweet: "The pen is mightier than the sword in the long-term, but the sword absolutely wins in the short-term.",
+        date: 8/22/2022
+    }, 
+    {
+        link: 'https://twitter.com/LordJayWu/status/1561779214088425472',
+        tweet: "Life is binary. \n You're either a 1 or you're a 0. \n There's no in-between. \n For every ninety-nine 0s, there's only a single 1. \n That's why they're called \"1%ers\"",
+        date: 8/22/2022
+    }, 
+    {
+        link: 'https://twitter.com/lordjaywu/status/1561477955150180352',
+        tweet: "This is how to figure out whether you’ve discovered your passion: \n Look around and see if anyone is trying harder than you on whatever you’re working on. \n Yes? \n Keep looking. \n No? \n You’ve found it. \n Can be plural.",
+        date: 8/21/2022
+    }, 
+    {
+        link: 'https://twitter.com/LordJayWu/status/1561078815471718400',
+        tweet: "Your biggest haters are often the ones who were closest to you.",
+        date: 8/20/2022
+    }, 
+    {
         link: 'https://twitter.com/LordJayWu/status/1560346626543079424',
         tweet: "How to become successful: Make promises and deliver. \n How to become wildly successful: Make bold promises and deliver. \n How to become the GOAT: Make the single boldest promise of all time and deliver.",
         date: 8/18/2022

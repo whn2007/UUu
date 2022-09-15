@@ -9,9 +9,14 @@ function Home() {
     <div className="home">
       <div className="header">
         <div className="intro">
-
+          <div className="top">
+            <h1>#1 Branding Expert in the World. 🥇</h1>
+            <p>"Brand is how people talk about you behind your back. 🗣️</p>
+          </div>
         </div>
       </div>
+
+      
 
       <div className="merch">
         <h1>Merch 👕</h1>

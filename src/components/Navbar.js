@@ -21,8 +21,8 @@ function Navbar() {
         <div className="hiddenLinks">
         <a href="https://uuu.vip/" className=""> <b>Home</b> </a>
         <a href="https://values.uuu.vip/" className=""> <b>Values</b> </a>
-        <a href="https://diamonds.uuu.vip/" className=""> <b>Diamonds</b> </a>
-        <a href="https://boss.uuu.vip/" className="current"> <b>Boss</b> </a>
+        <a href="https://diamonds.uuu.vip/" className="current"> <b>Diamonds</b> </a>
+        <a href="https://boss.uuu.vip/" className=""> <b>Boss</b> </a>
         <a href="https://inspirations.uuu.vip/" className=""> <b>Inspirations</b> </a>
           {/* <Link to="/"> <b>Home</b> </Link>
           <Link to="/values/"> <b>Values</b> </Link>
@@ -34,8 +34,8 @@ function Navbar() {
       <div className="rightSide">
         <a href="https://uuu.vip/" className=""> <b>Home</b> </a>
         <a href="https://values.uuu.vip/" className=""> <b>Values</b> </a>
-        <a href="https://diamonds.uuu.vip/" className=""> <b>Diamonds</b> </a>
-        <a href="https://boss.uuu.vip/" className="current"> <b>Boss</b> </a>
+        <a href="https://diamonds.uuu.vip/" className="current"> <b>Diamonds</b> </a>
+        <a href="https://boss.uuu.vip/" className=""> <b>Boss</b> </a>
         <a href="https://inspirations.uuu.vip/" className=""> <b>Inspirations</b> </a>
         <div className="greenLogo"><img src={GreenLogo}/></div>
         <button onClick={toggleNavbar}>

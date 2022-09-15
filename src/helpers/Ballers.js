@@ -159,6 +159,7 @@ import BuddhaBoyd from '../assets/ballers/buddhaboyd.webp'
 import RicardoJacobo from '../assets/ballers/ricardojacobo.webp'
 import BennyCrossover from '../assets/ballers/bennycrossover.webp'
 import ElvinRodriguez from '../assets/ballers/elvinrodriguez.webp'
+import RayXu from '../assets/ballers/rayxu.webp'
 
 
 export const BallersList = [
@@ -367,11 +368,11 @@ export const BallersList = [
         image: DavidMichaelOtt,
         link: "https://patents.justia.com/inventor/david-michael-ott",
     }, 
-    {
-        name: "Dannver Wu",
-        image: DannverWu,
-        link: "https://www.linkedin.com/in/dannver/",
-    }, 
+    // {
+    //     name: "Dannver Wu",
+    //     image: DannverWu,
+    //     link: "https://www.linkedin.com/in/dannver/",
+    // }, 
     {
         name: "David Echevarria",
         image: DavidEchevarria,
@@ -478,11 +479,11 @@ export const BallersList = [
         image: HarryEvans,
         link: "https://www.linkedin.com/in/harrymevans/",
     },
-    {
-        name: "Helen Kou",
-        image: HelenKou,
-        link: "https://www.linkedin.com/in/helenkou/",
-    },
+    // {
+    //     name: "Helen Kou",
+    //     image: HelenKou,
+    //     link: "https://www.linkedin.com/in/helenkou/",
+    // },
     {
         name: "Huang Weihong",
         image: HuangWeihong,
@@ -779,6 +780,11 @@ export const BallersList = [
         link: "https://www.facebook.com/raychensg",
     }, 
     {
+        name: "Ray Xu",
+        image: RayXu,
+        link: "https://www.linkedin.com/in/raymxu/",
+    }, 
+    {
         name: "Ricardo Jacobo",
         image: RicardoJacobo,
         link: "https://www.instagram.com/shangocolibri333_/",
@@ -798,11 +804,11 @@ export const BallersList = [
         image: DavidDong,
         link: "https://www.goldnlion.com/about-sifu-david-dong",
     },  
-    {
-        name: "Shiva Raisinghani",
-        image: Shiva,
-        link: "https://www.linkedin.com/in/sraising/",
-    },  
+    // {
+    //     name: "Shiva Raisinghani",
+    //     image: Shiva,
+    //     link: "https://www.linkedin.com/in/sraising/",
+    // },  
     {
         name: "Shokunin",
         image: Shokunin,
@@ -813,11 +819,11 @@ export const BallersList = [
         image: SophiaLarman,
         link: "https://www.linkedin.com/in/sophia-larman-917a12203/",
     }, 
-    {
-        name: "Stephen Torres",
-        image: StephenTorres,
-        link: "https://www.stephentorres.com/",
-    },  
+    // {
+    //     name: "Stephen Torres",
+    //     image: StephenTorres,
+    //     link: "https://www.stephentorres.com/",
+    // },  
     {
         name: "Steve Gaines",
         image: SteveGaines,

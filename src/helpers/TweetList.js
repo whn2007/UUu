@@ -1,5 +1,10 @@
 export const TweetList = [
     {
+        link: 'https://twitter.com/lordjaywu/status/1564372463948926976',
+        tweet: "If you keep getting surprised, you’re moving too fast. \n Especially relevant when driving.",
+        date: 8/29/2022
+    }, 
+    {
         link: 'https://twitter.com/LordJayWu/status/1561908094984077313',
         tweet: "The pen is mightier than the sword in the long-term, but the sword absolutely wins in the short-term.",
         date: 8/22/2022

@@ -20,7 +20,7 @@ export const DiamondsList = [
         name: "Brian \"Landin\" West",
         description: 'Founder of Stand-up & Sing',
         image: BrianWest,
-        link: "https://www.instagram.com/landinwest/",
+        link: "https://www.instagram.com/standupandsingla/",
     }, 
     {
         name: "Connor \"Redwood\" Davidson",
@@ -38,7 +38,7 @@ export const DiamondsList = [
         name: "Jireh \"Chicago\" Bey",
         description: 'Founder of Hip-Hop On Da Pull Up',
         image: JirehBey,
-        link: "https://www.jamesontabor.com/",
+        link: "https://www.instagram.com/hiphopondapullup/",
     }, 
     {
         name: "Marine Kalamdaryan",
@@ -52,10 +52,10 @@ export const DiamondsList = [
         image: ZachDenison,
         link: "https://www.linkedin.com/in/zachdenison/",
     }, 
-    // {
-    //     name: "Zachary \"Zak\" Wehman",
-    //     description: 'Associate Director of Business Development',
-    //     image: ZakWehman,
-    //     link: "https://cleanrobotics.com/",
-    // }, 
+    {
+        name: "Zachary \"Zak\" Wehman",
+        description: 'Associate Director of Business Development',
+        image: ZakWehman,
+        link: "https://cleanrobotics.com/",
+    }, 
 ]

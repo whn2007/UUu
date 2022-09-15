@@ -60,11 +60,8 @@ function Johnny() {
         <h1>Pursuits 🎯</h1>
         <p>
         • #1 Hit Album<br/>
-        • #1 TikToker<br/>
         • ABRSM Grade 7<br/>
         • Ambassador to China<br/>
-        • American Political Party <br/>
-        • A-List Actor<br/>
         • Family Documentary<br/>
         • NBA All-Star Celebrity Basketball Game Player<br/>
         • Netflix Comedy Special<br/>

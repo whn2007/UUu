@@ -27,14 +27,14 @@ function Footer() {
           <a href="https://twitter.com/LordJayWu" target="_blank">
             <TwitterIcon className="special"/>
           </a>
-          <a id = 'tiktok' href="https://www.tiktok.com/@lordjaywu" target="_blank">
+          <a id = 'tiktok' href="https://www.tiktok.com/@LordJayWu" target="_blank">
             <img src={TikTokIcon} className = 'imported special'/>
           </a>
           <a id = 'soundcloud' href="https://soundcloud.com/LordJayWu" target='_blank'>
             <img src= {SoundcloudIcon} 
             className="imported special"/>
           </a>
-          <a href="https://www.instagram.com/lordjaywu/" target="_blank">
+          <a href="https://www.instagram.com/LordJayWu" target="_blank">
             <InstagramIcon />
           </a>
           <a id = 'spotify' href="https://open.spotify.com/user/12166954044" target='_blank'>
@@ -43,16 +43,16 @@ function Footer() {
           </a>
         </div>    
         <div className="secondHalf">
-          <a href="https://www.youtube.com/c/JayWuzer" target="_blank">
+          <a href="https://www.youtube.com/c/LordJayWu" target="_blank">
             <YouTubeIcon />
           </a>
-          <a href="https://www.linkedin.com/company/uuu-llc/" target="_blank">
+          <a href="https://www.linkedin.com/in/LordJayWu" target="_blank">
             <LinkedInIcon />
           </a>
-          <a href="https://www.facebook.com/JayUUuzer" target="_blank">
+          <a href="https://www.facebook.com/LordJayWu" target="_blank">
             <FacebookIcon />
           </a>
-          <a  href="https://www.twitch.tv/jaywuzer" target="_blank">
+          <a  href="https://www.twitch.tv/LordJayWu" target="_blank">
             <img src={TwitchIcon} className='imported'/>
           </a>
           <a href="https://www.reddit.com/user/JayWuzer/" target="_blank">

@@ -52,10 +52,10 @@ export const DiamondsList = [
         image: ZachDenison,
         link: "https://www.linkedin.com/in/zachdenison/",
     }, 
-    {
-        name: "Zachary \"Zak\" Wehman",
-        description: 'Associate Director of Business Development',
-        image: ZakWehman,
-        link: "https://cleanrobotics.com/",
-    }, 
+    // {
+    //     name: "Zachary \"Zak\" Wehman",
+    //     description: 'Associate Director of Business Development',
+    //     image: ZakWehman,
+    //     link: "https://cleanrobotics.com/",
+    // }, 
 ]

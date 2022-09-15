@@ -16,7 +16,13 @@ function Home() {
         </div>
       </div>
 
-      
+      <div className="polish">
+        <h1>I make sure people talk about you behind your back exactly how you want them to. 💯</h1>
+        <h2>The 3 steps to polishing your brand so it can shine:</h2>
+        <p>1. Aesthetics: What's people's first impression of you? 🎨</p>
+        <p>2. User Experience: Was it a pleasure working with you? 😸</p>
+        <p>3. Marketing: Do people know who you are and what you do? 📣</p>
+      </div>      
 
       <div className="merch">
         <h1>Merch 👕</h1>

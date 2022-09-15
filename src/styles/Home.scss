@@ -27,6 +27,27 @@
         }
     }
 
+    .polish{
+        margin-top: 1em;
+        h1{
+            font-size: 3rem;
+            margin:auto;
+            width: 80%;
+            color: $red;
+            text-align: center;
+        }
+        h2{
+            color: $red;
+            text-align: center;
+            font-size: 2em;
+        }
+        p{
+            font-size: 1.5em;
+            line-height: 2em;
+            margin:auto;
+            width: 55%;
+        }
+    }
 
     .merch{
         display: flex;
@@ -38,7 +59,7 @@
         h1{
             margin: 0em;
             text-align: center;
-            font-size: 2.5rem;
+            font-size: 3rem;
             color: $red;
         }
         h2{
@@ -82,6 +103,24 @@
         }
 
 
+        .polish{
+            h1{
+                font-size: 1.2em;
+                width: 90%;
+            }
+            h2{
+                font-size: 1em;
+                width: 90%;
+                margin:auto;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+            p{
+                font-size: 0.8em;
+                width: 80%;
+            }
+        }
+
         .merch{
             margin-top: 1em;
             margin-bottom: 2em;
@@ -122,6 +161,25 @@
                 font-size: 1rem;
             }
         }
+
+        .polish{
+            h1{
+                font-size: 1.5em;
+                width: 90%;
+            }
+            h2{
+                font-size: 1.2em;
+                width: 90%;
+                margin:auto;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+            p{
+                font-size: 1em;
+                width: 80%;
+            }
+        }
+        
     }
 
     @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:landscape) {
@@ -129,9 +187,9 @@
             height: 170vh;
             margin-top: -em;
             .top{  
-                margin-top: -2em;
+                margin-top: -1.5em;
                 h1{
-                    font-size: 2.8rem;
+                    font-size: 2.7rem;
                     padding-top: 0.7em;
                 }
                 p{
@@ -171,6 +229,24 @@
                 font-size: 2em;
             }
         }
+
+        .polish{
+            h1{
+                font-size: 2em;
+                width: 100%;
+            }
+            h2{
+                font-size: 1.5em;
+                width: 90%;
+                margin:auto;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+            p{
+                font-size: 1.5em;
+                width: 80%;
+            }
+        }
     }
 
     /* tablets landscape*/
@@ -188,28 +264,65 @@
                 }
             }
         }
+        .polish{
+            h1{
+                font-size: 3em;
+                width: 100%;
+            }
+            h2{
+                font-size: 2.5em;
+                width: 90%;
+                margin:auto;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+            p{
+                font-size: 2em;
+                width: 90%;
+            }
+        }
 
     }
 
     /*computers*/
-    @media all and (min-width: 1024px){
-        .header{
-            margin-top: -5em;
-            .top{  
-                h1{
-                    font-size: 3.8rem;
-                    padding-top: 0.4em;
-                }
-                p{
-                    font-size: 1.5rem;
-                    margin-top: 0.5em;
+        @media all and (min-width: 1024px){
+            .header{
+                margin-top: -5em;
+                .top{  
+                    h1{
+                        font-size: 3.8rem;
+                        padding-top: 0.4em;
+                    }
+                    p{
+                        font-size: 1.5rem;
+                        margin-top: 0.5em;
+                    }
                 }
             }
-        }
-        .intro{
-            height: 110vh;
-            .top{
-                padding-top: 4em;
+            .intro{
+                height: 110vh;
+                .top{
+                    padding-top: 4em;
+                }
+            }
+            .polish{
+            margin-top: 1em;
+            h1{
+                font-size: 3rem;
+                margin:auto;
+                width: 80%;
+                color: $red;
+                text-align: center;
+            }
+            h2{
+                text-align: center;
+                font-size: 2.5em;
+            }
+            p{
+                font-size: 2em;
+                line-height: 2em;
+                margin:auto;
+                width: 75%;
             }
         }
     }

@@ -27,7 +27,7 @@ function Footer() {
           <a href="https://twitter.com/LordJayWu" target="_blank">
             <TwitterIcon className="special"/>
           </a>
-          <a id = 'tiktok' href="https://www.tiktok.com/@LordJayWu" target="_blank">
+          <a id = 'tiktok' href="https://www.tiktok.com/@lordjaywu" target="_blank">
             <img src={TikTokIcon} className = 'imported special'/>
           </a>
           <a id = 'soundcloud' href="https://soundcloud.com/LordJayWu" target='_blank'>

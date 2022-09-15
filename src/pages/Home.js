@@ -26,7 +26,7 @@ function Home() {
 
       <table> 
         <tr>
-          <th><h1>The UUu Experience</h1></th>
+          <th><h2>UUu</h2></th>
           <th><h2>Chat</h2> <p>I'll listen to you and give you my blunt feedback.</p></th>
           <th><h2>Strategize</h2> <p>I'll listen to your goals and roadblocks, and then step-by-step what I think you need to do to succeed. Then it's on you.</p></th>
           <th><h2>Execute</h2> <p>My team will ensure our strategy is executed all the way through. You are welcome to be as hands-free or involved as you'd like, but we can take it from here.</p></th>

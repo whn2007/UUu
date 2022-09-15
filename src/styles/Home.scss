@@ -54,13 +54,12 @@
         border-collapse:separate;
         border:solid black 1px;
         border-radius:8px;
-        h1{
-            font-size: 2.5em;
+        h2{
+            font-size: 2rem;
             color: $red;
         }
-        h2{
-            font-size: 2em;
-            color: $red;
+        p{
+            font-size: 1rem;
         }
         text-align: center;
         width: 90%;
@@ -163,7 +162,6 @@
             }
         }
 
-
         .polish{
             h1{
                 font-size: 1.2em;
@@ -179,6 +177,15 @@
             p{
                 font-size: 0.8em;
                 width: 80%;
+            }
+        }
+
+        table{
+            h2{
+                font-size: 0.8rem;
+            }
+            p{
+                font-size: 0.5rem;
             }
         }
 
@@ -212,7 +219,6 @@
             }
         }
 
-
         .merch{
             margin-top: 2em;
             h1{
@@ -240,6 +246,15 @@
                 width: 80%;
             }
         }
+
+        table{
+            h2{
+                font-size: 1.5rem;
+            }
+            p{
+                font-size: 0.8rem;
+            }
+        }
         
     }
 
@@ -256,6 +271,14 @@
                 p{
                     font-size: 1.5rem;
                 }
+            }
+        }
+        table{
+            h2{
+                font-size: 1.5rem;
+            }
+            p{
+                font-size: 0.8rem;
             }
         }
     }
@@ -306,6 +329,15 @@
             p{
                 font-size: 1.5em;
                 width: 80%;
+            }
+        }
+
+        table{
+            h2{
+                font-size: 1.5rem;
+            }
+            p{
+                font-size: 1rem;
             }
         }
     }
@@ -367,26 +399,34 @@
                 }
             }
             .polish{
-            margin-top: 1em;
-            h1{
-                font-size: 2.5rem;
-                margin:auto;
-                width: 80%;
-                color: $red;
-                text-align: center;
+                margin-top: 1em;
+                h1{
+                    font-size: 2.5rem;
+                    margin:auto;
+                    width: 80%;
+                    color: $red;
+                    text-align: center;
+                }
+                h2{
+                    text-align: center;
+                    font-size: 2em;
+                }
+                p{
+                    font-size: 1.5em;
+                    line-height: 2em;
+                    margin:auto;
+                    width: 55%;
+                }
             }
-            h2{
-                text-align: center;
-                font-size: 2em;
-            }
-            p{
-                font-size: 1.5em;
-                line-height: 2em;
-                margin:auto;
-                width: 55%;
+            table{
+                h2{
+                    font-size: 2rem;
+                }
+                p{
+                    font-size: 1rem;
+                }
             }
         }
-    }
     
     /*larger mobile landscapes*/
 }

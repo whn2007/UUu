@@ -10,12 +10,12 @@ import ZachDenison from '../assets/diamonds/zachdenison.webp'
 import BrianWest from '../assets/diamonds/brianwest.webp'
 
 export const DiamondsList = [
-    // {
-    //     name: "Ashley Twynam",
-    //     description: 'AtlasProfilax™ Specialist',
-    //     image: AshleyTwynam,
-    //     link: "https://www.earthlyliving.org",
-    // }, 
+    {
+        name: "Ashley Twynam",
+        description: 'AtlasProfilax™ Specialist',
+        image: AshleyTwynam,
+        link: "https://www.earthlyliving.org",
+    }, 
     {
         name: "Brian \"Landin\" West",
         description: 'Founder of Stand-up & Sing',

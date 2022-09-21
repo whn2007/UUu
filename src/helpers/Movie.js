@@ -165,6 +165,9 @@ import TrainingDay from '../assets/movies/trainingday.webp'
 import RomeoAndJuliet from '../assets/movies/romeoandjuliet.webp'
 import FallingDown from '../assets/movies/fallingdown.webp'
 import EightMile from '../assets/movies/8mile.webp'
+import AttackTheBlock from '../assets/movies/attacktheblock.webp'
+import DeathWish from '../assets/movies/deathwish.webp'
+import Comedians from '../assets/movies/comedians.webp'
 
 
 export const MovieList = [
@@ -270,6 +273,12 @@ export const MovieList = [
         
     }, 
     {
+        name: "Attack the Block",
+        image: AttackTheBlock,
+        link: "https://www.imdb.com/title/tt1478964/",
+        
+    }, 
+    {
         name: "Aquaman",
         image: Aquaman,
         link: "https://www.imdb.com/title/tt1477834/?ref_=nv_sr_srsg_3",
@@ -328,6 +337,11 @@ export const MovieList = [
         link: "https://www.imdb.com/title/tt2380307/?ref_=nv_sr_srsg_0",
     },
     {
+        name: "Comedians In Cars Getting Coffee",
+        image: Comedians,
+        link: "https://www.netflix.com/title/80171362",
+    },
+    {
         name: "Crazy, Stupid, Love.",
         image: CrazyLove,
         link: "https://www.imdb.com/title/tt1570728/?ref_=nv_sr_srsg_0",
@@ -341,6 +355,12 @@ export const MovieList = [
         name: "Deadpool",
         image: Deadpool,
         link: "https://www.imdb.com/title/tt1431045/?ref_=fn_al_tt_1",
+        
+    }, 
+    {
+        name: "Death Wish",
+        image: DeathWish,
+        link: "https://www.imdb.com/title/tt1137450/",
         
     }, 
     {

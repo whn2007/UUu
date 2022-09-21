@@ -50,8 +50,20 @@
         p{
             font-size: 1.5em;
             line-height: 2em;
-            margin:auto;
-            width: 55%;
+            width: 90%;
+            margin: auto;
+        }
+        .comparison{
+            img{
+                width: 30vw;
+                height: auto;
+            }
+            iframe{
+                width: 30vw;
+            }
+            display: flex;
+            justify-content: space-evenly;
+            margin-bottom: 1em;
         }
     }
 
@@ -65,6 +77,7 @@
         h1{
             font-size: 2rem;
             color: $red;
+            margin: 0;
         }
         h2{
             font-size: 2rem;
@@ -118,6 +131,38 @@
                 font-weight: normal;
                 padding-top: 0.5em;
                 padding-bottom: 0.5em;
+            }
+        }
+    }
+
+    .chat{
+        h1{
+            font-size: 3rem;
+            color: $red;
+            text-align: center;
+        }
+        .buttonContainer{
+            display: flex;
+            justify-content: center;
+            font-size: 8rem;
+            color: $red;
+            align-items: center;
+            a{
+                text-decoration: none;
+            }
+            .button{
+                text-align: center;
+                font-size: 2rem;
+                color: white;
+                background-color: $red;
+                border: solid 1px $red;
+                border-radius: 50px;
+                width: 30vw;
+                &:hover{
+                    background-color: $green;
+                    border: solid 1px $green;
+                    transition: 0.2s ease-in-out;
+                }
             }
         }
     }
@@ -179,7 +224,6 @@
             .video{
                 margin: auto;
                 margin-top: 1em;
-                width: 90%;
                 height: auto;
             }
             h1{
@@ -195,7 +239,18 @@
             }
             p{
                 font-size: 0.8em;
-                width: 80%;
+            }
+            .marketing{
+                display: block;
+                iframe{
+                    width: 100vw;
+                }
+                .example{
+                    .exampleImage{
+                        display: flex;
+                        justify-content: center;
+                    }
+                }
             }
         }
 
@@ -211,6 +266,19 @@
             }
             p{
                 font-size: 0.5rem;
+            }
+        }
+
+        .chat{
+            h1{
+                font-size: 1.5rem;
+            }
+            .buttonContainer{
+                font-size: 4rem;
+                .button{
+                    width: 50vw;
+                    font-size: 1rem;
+                }
             }
         }
 
@@ -244,6 +312,19 @@
             }
         }
 
+        .chat{
+            h1{
+                font-size: 1.5rem;
+            }
+            .buttonContainer{
+                font-size: 4rem;
+                .button{
+                    width: 35vw;
+                    font-size: 1rem;
+                }
+            }
+        }
+
         .merch{
             margin-top: 2em;
             h1{
@@ -268,7 +349,18 @@
             }
             p{
                 font-size: 1em;
-                width: 80%;
+            }
+            .marketing{
+                display: block;
+                iframe{
+                    width: 80vw;
+                }
+                .example{
+                    .exampleImage{
+                        display: flex;
+                        justify-content: center;
+                    }
+                }
             }
         }
 
@@ -298,6 +390,21 @@
                 }
                 p{
                     font-size: 1.5rem;
+                }
+            }
+        }
+
+        .polish{
+            .marketing{
+                display: block;
+                iframe{
+                    width: 80vw;
+                }
+                .example{
+                    .exampleImage{
+                        display: flex;
+                        justify-content: center;
+                    }
                 }
             }
         }
@@ -335,6 +442,19 @@
             }
         }
 
+        .chat{
+            h1{
+                font-size: 3.5rem;
+            }
+            .buttonContainer{
+                font-size: 8rem;
+                .button{
+                    width: 50vw;
+                    font-size: 2rem;
+                }
+            }
+        }
+
         .merch{
             h1{
                 font-size: 3.5em;
@@ -359,7 +479,18 @@
             }
             p{
                 font-size: 1.5em;
-                width: 80%;
+            }
+            .marketing{
+                display: block;
+                iframe{
+                    width: 80vw;
+                }
+                .example{
+                    .exampleImage{
+                        display: flex;
+                        justify-content: center;
+                    }
+                }
             }
         }
 
@@ -405,7 +536,18 @@
             }
             p{
                 font-size: 2em;
-                width: 90%;
+            }
+            .marketing{
+                display: block;
+                iframe{
+                    width: 50vw;
+                }
+                .example{
+                    .exampleImage{
+                        display: flex;
+                        justify-content: center;
+                    }
+                }
             }
         }
 
@@ -446,10 +588,15 @@
                     font-size: 2em;
                 }
                 p{
+                    text-align: center;
                     font-size: 1.5em;
                     line-height: 2em;
-                    margin:auto;
-                    width: 55%;
+                }
+                .marketing{
+                    display: flex;
+                    iframe{
+                        width: 40vw;
+                    }
                 }
             }
             table{
@@ -461,6 +608,21 @@
                 }
                 p{
                     font-size: 1rem;
+                }
+            }
+
+            .chat{
+                h1{
+                    font-size: 3rem;
+                    color: $red;
+                    text-align: center;
+                }
+                .buttonContainer{
+                    font-size: 8rem;
+                    .button{
+                        font-size: 2rem;
+                        width: 30vw;
+                    }
                 }
             }
         }

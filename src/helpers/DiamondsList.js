@@ -12,7 +12,7 @@ import BrianWest from '../assets/diamonds/brianwest.webp'
 export const DiamondsList = [
     {
         name: "Ashley Twynam",
-        description: 'AtlasProfilax™ Specialist',
+        description: 'Founder of Earthly Living',
         image: AshleyTwynam,
         link: "https://www.earthlyliving.org",
     }, 
@@ -24,13 +24,13 @@ export const DiamondsList = [
     }, 
     {
         name: "Connor \"Redwood\" Davidson",
-        description: 'CEO of Proxi',
+        description: 'Founder of Proxi',
         image: ConnorDavidson,
         link: "https://www.instagram.com/proxiitheapp/",
     }, 
     {
         name: "Jameson Tabor",
-        description: 'Vocal Coach',
+        description: 'Founder of The Tabor Studio',
         image: JamesonTabor,
         link: "https://www.jamesontabor.com/",
     }, 
@@ -42,7 +42,7 @@ export const DiamondsList = [
     }, 
     {
         name: "Marine Kalamdaryan",
-        description: 'Executive Director of LA Community Alliance',
+        description: 'Founder of LA Community Alliance',
         image: Marine,
         link: "https://www.lacommunityalliance.org/",
     }, 

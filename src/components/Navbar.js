@@ -19,9 +19,9 @@ function Navbar() {
           <img src={Logo} className="logo" alt="Handshake Logo"/>
         </Link>
         <div className="hiddenLinks">
-        <a href="https://uuu.vip/" className=""> <b>Home</b> </a>
+        <a href="https://uuu.vip/" className="current"> <b>Home</b> </a>
         <a href="https://values.uuu.vip/" className=""> <b>Values</b> </a>
-        <a href="https://diamonds.uuu.vip/" className=""> <b>Diamonds</b> </a>
+        <a href="https://lineup.uuu.vip/" className=""> <b>Lineup 👥</b> </a>
         <a href="https://boss.uuu.vip/" className=""> <b>Boss</b> </a>
         <a href="https://inspirations.uuu.vip/" className=""> <b>Inspirations</b> </a>
           {/* <Link to="/"> <b>Home</b> </Link>
@@ -32,9 +32,9 @@ function Navbar() {
         </div>
       </div>
       <div className="rightSide">
-        <a href="https://uuu.vip/" className=""> <b>Home</b> </a>
+        <a href="https://uuu.vip/" className="current"> <b>Home</b> </a>
         <a href="https://values.uuu.vip/" className=""> <b>Values</b> </a>
-        <a href="https://diamonds.uuu.vip/" className=""> <b>Diamonds</b> </a>
+        <a href="https://lineup.uuu.vip/" className=""> <b>Lineup 👥</b> </a>
         <a href="https://boss.uuu.vip/" className=""> <b>Boss</b> </a>
         <a href="https://inspirations.uuu.vip/" className=""> <b>Inspirations</b> </a>
         <div className="greenLogo"><img src={GreenLogo}/></div>

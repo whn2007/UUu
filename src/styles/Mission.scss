@@ -1,6 +1,12 @@
 @import './variables.scss';
 
 .mission{
+    hr{
+        margin-top: 3em;
+        margin-bottom: 3em;
+        border-color: $red;
+    }
+
     margin: 0;
     padding: 0;
     .header{

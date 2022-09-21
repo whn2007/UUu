@@ -12,7 +12,7 @@ function About() {
     <div className="about">
       <div className="aboutHeader">
         <div className="aboutTitle">
-          <h1>Diamonds 💎</h1>
+          <h1>Lineup 👥</h1>
           <p>We will enable <span style={{color: '#238811'}}>True Sustainability</span>, together.</p>
         </div>
       </div>

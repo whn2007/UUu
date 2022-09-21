@@ -56,6 +56,8 @@ function Mission() {
         </div>
       </div>
 
+      <hr/>
+
       <div className="top">
         <div className="diamonds">
           <h1>Diamonds, will shine.</h1>

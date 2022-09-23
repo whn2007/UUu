@@ -36,6 +36,7 @@
   
   
   .leftSide {
+    white-space: nowrap;
     flex: 50%;
     height: 100%;
     display: flex;
@@ -99,7 +100,6 @@
   //tiny phones
   @media all and (min-width: 300px) and (max-width: 374px){
     .leftSide{
-      white-space: nowrap;
       font-size: 0.7em;
       .hiddenLinks{
         margin-left: -2em;
@@ -125,9 +125,9 @@
   @media all and (min-width: 375px) and (max-width: 767px){
     .leftSide{
       white-space: nowrap;
-      font-size: 0.7em;
+      font-size: 0.6em;
       .hiddenLinks{
-        margin-left: -2em;
+        margin-left: -4em;
         a{
           padding: 0.4em;
         }

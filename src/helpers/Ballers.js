@@ -654,11 +654,11 @@ export const BallersList = [
         image: KibaGateaux,
         link: "https://twitter.com/kibagateaux",
     }, 
-    {
-        name: "Laura Morton",
-        image: LauraMorton,
-        link: "https://www.lauramortondesign.com/",
-    }, 
+    // {
+    //     name: "Laura Morton",
+    //     image: LauraMorton,
+    //     link: "https://www.lauramortondesign.com/",
+    // }, 
     {
         name: "Lexa",
         image: Lexa,

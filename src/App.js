@@ -7,6 +7,8 @@ import About from "./pages/About";
 import Johnny from "./pages/Johnny"
 import Shoutouts from "./pages/Shoutouts";
 import Youtube from './pages/Youtube'
+import Merch from "./pages/Merch";
+import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
@@ -27,6 +29,8 @@ function App() {
           <Route path="*" exact element={<Home/>} />
         </Routes> */}
         <Home/>
+        <Merch/>
+        <Footer/>
       </Router>
     </div>
   );

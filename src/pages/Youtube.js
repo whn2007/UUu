@@ -329,7 +329,6 @@ function Youtube() {
           })}
         </div>
 
-        <Footer className = "footer"/>
     </div>
   )
 }

@@ -56,7 +56,6 @@ function Mission() {
         </div>
       </div>
 
-      <hr/>
 
       <div className="top">
         <div className="diamonds">
@@ -111,8 +110,6 @@ function Mission() {
         </div>
     </div>
       
-
-      <Footer className = "footer"/>
     </div>
   );
 }

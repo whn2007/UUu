@@ -30,22 +30,21 @@
     .polish{
         margin-top: 1em;
         margin-bottom: 2em;
+        text-align: center;
         .video{
             display: flex;
             justify-content: center;
-            margin: 1em 0em 1em 0em
+            margin: 1em 0em 4em 0em
         }
         h1{
             font-size: 3rem;
             margin:auto;
-            width: 80%;
-            color: $red;
             text-align: center;
         }
         h2{
             color: $red;
-            text-align: center;
             font-size: 2em;
+            margin-bottom: 1em;
         }
         p{
             font-size: 1.5em;
@@ -54,16 +53,21 @@
             margin: auto;
         }
         .comparison{
+            h2{
+                margin-top: 0;
+                margin-bottom: 0;
+            }
             img{
                 width: 30vw;
                 height: auto;
             }
             iframe{
                 width: 30vw;
+                margin-bottom: 1em;
             }
             display: flex;
             justify-content: space-evenly;
-            margin-bottom: 1em;
+            margin-bottom: 4em;
         }
     }
 
@@ -89,6 +93,7 @@
         text-align: center;
         width: 90%;
         margin:auto;
+        margin-bottom: 5em;
         th{
             vertical-align: top;
             border-left:solid black 1px;
@@ -104,9 +109,7 @@
             }
             p{
                 margin: 0em;
-                margin-bottom: 0.5em;
                 font-weight: normal;
-                padding: 0.5em 0.1em 0em 0.1em;
             }
         }
         tr{
@@ -129,8 +132,6 @@
             p{
                 margin: 0em;
                 font-weight: normal;
-                padding-top: 0.5em;
-                padding-bottom: 0.5em;
             }
         }
     }
@@ -142,11 +143,20 @@
             text-align: center;
         }
         .buttonContainer{
-            display: flex;
-            justify-content: center;
-            font-size: 8rem;
+            .scheduleButton{
+                display: flex;
+                justify-content: center;
+            }
+            margin: 0.5em;
             color: $red;
             align-items: center;
+            .alarm{
+                display: flex;
+                justify-content: center;
+                img{
+                    width: 10vw;
+                }
+            }
             a{
                 text-decoration: none;
             }
@@ -164,40 +174,6 @@
                     transition: 0.2s ease-in-out;
                 }
             }
-        }
-    }
-
-    .merch{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        h1{
-            margin: 0em;
-            text-align: center;
-            font-size: 3rem;
-            color: $red;
-        }
-        h2{
-            margin: 0.5em 4em 0.5em 4em;
-            text-align: center;
-            font-size: 1.5rem;
-            color: $black;
-        }
-        a{
-            color: $red;
-            &:hover{
-                color: $green;
-            }
-        }
-        img {
-            margin: 1em;
-            padding: 1em;
-            width: max(22em);
-            border: 1px solid $black;
-            border-radius: 1em;
         }
     }
 
@@ -222,7 +198,6 @@
 
         .polish{
             .video{
-                margin: auto;
                 margin-top: 1em;
                 height: auto;
             }
@@ -249,6 +224,13 @@
                     .exampleImage{
                         display: flex;
                         justify-content: center;
+                    }
+                }
+            }
+            .comparison{
+                .beforeAfter{
+                    img{
+                        height: 25vh;
                     }
                 }
             }
@@ -359,6 +341,13 @@
                     .exampleImage{
                         display: flex;
                         justify-content: center;
+                    }
+                }
+            }
+            .comparison{
+                .beforeAfter{
+                    img{
+                        height: 90vh;
                     }
                 }
             }
@@ -492,6 +481,13 @@
                     }
                 }
             }
+            .comparison{
+                .beforeAfter{
+                    img{
+                        height: 30vh;
+                    }
+                }
+            }
         }
 
         table{
@@ -596,6 +592,13 @@
                     display: flex;
                     iframe{
                         width: 40vw;
+                    }
+                }
+                .comparison{
+                    .beforeAfter{
+                        img{
+                            height: 85vh;
+                        }
                     }
                 }
             }

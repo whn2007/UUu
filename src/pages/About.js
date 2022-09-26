@@ -72,8 +72,6 @@ function About() {
          </p>
       </div>
       
-
-      <Footer className = "footer"/>
     </div>
   );
 }

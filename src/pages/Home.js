@@ -25,7 +25,7 @@ function Home() {
       <div className="polish">
         <h1>I make sure people talk about you behind your back exactly how you want them to 💯</h1>
         <div className="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/UgoQJbq3TWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        <h2>The 3 steps to polishing your brand:</h2>
+        <h1>The 3 steps to polishing your brand:</h1>
         <p><b>1. Aesthetics: What's people's first impression of you? 🎨</b></p>
         <div className="comparison">
           <div className="beforeAfter">
@@ -49,19 +49,19 @@ function Home() {
         <p><b>3. Marketing: Do people know who you are and what you do? 📣</b></p>
         <div className="comparison marketing">
           <div className="example exampleVideos">
-            <h2>Hip Hop On Da Pull Up</h2>
+            <h2>Hip-Hop On Da Pull Up</h2>
             <div className="exampleImage"><iframe width="560" height="315" src="https://www.youtube.com/embed/dEVqDIVtROI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
             <div className="exampleImage"><iframe width="560" height="315" src="https://www.youtube.com/embed/KanPx_fpEKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
             <div className="exampleImage"><iframe width="560" height="315" src="https://www.youtube.com/embed/XuitD1zT6Hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
           </div>
           <div className="example">
-            <h2>TikTok Analytics</h2>
+            <h2>@LordJayWu</h2>
             <div className="exampleImage"><img src={Stats}/></div>
           </div>  
         </div>
       </div>     
 
-      <div className="chat"><h1>Rates</h1></div>
+      <div className="chat"><h1>Rates 💸</h1></div>
 
       <table> 
         <tr>
@@ -91,11 +91,11 @@ function Home() {
       </table> 
 
       <div className="chat">
-        <h1>Schedule a Free Chat</h1>
+        <h1>Schedule a Free Chat 💬</h1>
 
         <div className="buttonContainer">
           <div className="alarm"><img src={Alarm}/><img src={Alarm}/><img src={Alarm}/></div>
-          <div className="scheduleButton">→<a href="https://chat.uuu.vip/" target='_blank'><div className="button"><h2>Schedule Now!</h2></div></a>←</div>
+          <div className="scheduleButton">→<a href="https://chat.uuu.vip/" target='_blank'><div className="button"><h2 className="noShadow">Schedule Now!</h2></div></a>←</div>
           <div className="alarm"><img src={UpsideDownAlarm}/><img src={UpsideDownAlarm}/><img src={UpsideDownAlarm}/></div>
         </div>
       </div>

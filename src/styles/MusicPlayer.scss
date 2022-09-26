@@ -1,0 +1,122 @@
+@import './variables.scss';
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.musicPlayer{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 20vw;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid gainsboro;
+    border-radius: 30px;
+    position:fixed;
+    right: 0.2em;
+    font-size: 1em;
+    img{
+        width: 100%;
+    }
+    audio{
+        width: 100%;
+    }
+    .top{
+        display: flex;
+        justify-content: space-between;
+        color: $red;
+        margin-bottom: 0.7em;
+        h2{
+            margin-left: 5vw;
+            margin-top: 0.5em;
+        }
+        .arrow{
+            cursor: pointer;
+            transform: scale(1.7);
+            margin-right: 1em;
+            margin-top: 1em;
+        }
+    }
+    #open{
+        .closed{
+            display: none;
+        }
+        .opened{
+            display: inherit;
+        }
+        .music{
+            display: inherit;
+        }
+    }
+    #close{
+        .closed{
+            display: inherit;
+        }
+        .opened{
+            display: none;
+        }
+        .music{
+            display: none;
+        }
+    }
+
+    //smartphone portrait
+    @media all and (min-width: 300px) and (max-width: 767px) and (orientation:portrait){
+        font-size: 0.5em;
+        width: 30vw;
+        .top{
+            .arrow{
+                margin-top: 0.2em;
+                transform: scale(1);
+            }
+        }
+    }
+
+    //smartphone landscape
+    @media all and (min-width: 600px) and (max-width: 1023px) and (orientation:landscape) {
+        font-size: 0.5em;
+        .top{
+            .arrow{
+                margin-top: 0.2em;
+                transform: scale(1);
+            }
+        }
+    }
+
+    //tablet portrait
+    @media all and (min-width: 768px) and (max-width: 1023px) and (orientation:portrait){
+        font-size: 1em;
+        width: 30vw;
+        .top{
+            .arrow{
+                margin-top: 0.8em;
+                transform: scale(1.5);
+            }
+        }
+    }
+
+    //everything else
+    @media all and (min-width: 1024px) and (orientation:landscape) {
+        .top{
+            font-size: 1em;
+            .arrow{
+                cursor: pointer;
+                transform: scale(1.7);
+                margin-right: 1em;
+                margin-top: 1em;
+            }
+        }
+    }
+}
+
+#open{
+    top: 30%;
+}
+#close{
+    top: 50%;
+}
+

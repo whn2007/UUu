@@ -8,9 +8,12 @@ import Johnny from "./pages/Johnny"
 import Shoutouts from "./pages/Shoutouts";
 import Youtube from './pages/Youtube'
 import MusicPlayer from "./components/MusicPlayer";
+import Chat from "./pages/Chat";
 import Merch from "./pages/Merch";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+
+
 
 function App() {
   return (
@@ -29,6 +32,7 @@ function App() {
           <Route path="*" exact element={<Home/>} />
         </Routes> */}
         <Home/>
+        <Chat/>
         <Merch/>
         <MusicPlayer/>
         <Footer/>

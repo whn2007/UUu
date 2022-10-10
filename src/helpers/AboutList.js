@@ -1,4 +1,4 @@
-import JohnnyWu from "../assets/profilepics/jaywuzer.webp"
+import JohnnyWu from "../assets/profilepics/johnnywu.webp"
 import WilliamNguyen from "../assets/profilepics/williamnguyen.webp";
 import Apex from '../assets/profilepics/apex.webp'
 import RunDavidMC from "../assets/profilepics/rundavidmc.webp";

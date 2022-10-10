@@ -31,9 +31,9 @@ function Johnny() {
         <h2>"Your life achievements will be bullet points in mine."</h2>
         <p>
         • Professional Driver — September 22nd, 2022 <br/>
+        • Released EP, Imitation, the Highest Form of Flattery — September 11th, 2022 <br/> 
         • Hoop Bus Celebrity Basketball Player — August 21st, 2022 <br/>
         • 1M views on a TikTok video — August 3rd, 2022 <br/>  
-        • Released EP, Imitation, the Highest Form of Flattery — September 11th, 2022 <br/> 
         • Released Mixtape, Imitation, the Highest Form of Flattery — July 31st, 2022 <br/>  
         • 10k TikTok followers within 6 days of account creation — July 25th, 2022 <br/>
         • Survived being locked up for 12 days — July 14th, 2022 <br/>

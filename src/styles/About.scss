@@ -5,7 +5,7 @@
     padding: 0;
 
     .aboutHeader{
-        margin-top: 2em;
+        margin-top: 4em;
         margin-bottom: 1em;
         display: flex;
         justify-content: center;
@@ -162,30 +162,10 @@
     
     }
 
-    .chat{
-        h2{
-            color: $red;
-            text-align: center;
-            font-size: 1.7em;
-            margin: 0;
-        }
-        p{
-            font-size: 1.3em;
-            line-height: 2em;
-            margin: 1em 3em 1em 3em;
-            color: black;
-            justify-content: center;
-        }
-        a{
-            color: $red;
-            &:hover{
-                color:$green;
-            }
-        }
-    }
     
     @media all and (min-width: 300px) and (max-width: 767px) {
         .aboutHeader{
+            margin-top: 3em;
             margin-bottom: 1em;
             .aboutTitle{
                 margin-top: 1em;
@@ -272,16 +252,6 @@
                 p{
                     font-size: 0.7rem;
                 }
-            }
-        }
-        .chat{
-            h2{
-                font-size: 0.9em;
-                margin: 0em 1em 0em 1em;
-            }
-            p{
-                font-size: 0.8em;
-                margin: 0.8em 2em 0.8em 2em;
             }
         }
     }
@@ -375,17 +345,6 @@
                 }
             }
         }
-
-        .chat{
-            h2{
-                font-size: 1.5em;
-                margin: 0em 1em 0em 1em;
-            }
-            p{
-                font-size: 1.3em;
-                margin: 1em 1.5em 1em 1.5em;
-            }
-        }
     }
 
     @media all and (min-width: 1024px){
@@ -407,16 +366,6 @@
                 p{
                     font-size: 1.5rem;
                 }
-            }
-        }
-        .chat{
-            h2{
-                font-size: 1.7em;
-                margin: 0em 1em 0em 1em;
-            }
-            p{
-                font-size: 1.3em;
-                margin: 1em 1.5em 1em 1.5em;
             }
         }
     }

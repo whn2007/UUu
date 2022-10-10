@@ -72,21 +72,21 @@ function Home() {
         </tr>
         <tr>
           <td><h1>Aesthetics</h1><p>(e.g. Design, Logo, UI)</p></td>
+          <td><p>Free for all</p></td>
           <td><p>$100 (Individuals), $1,000 (Small Businesses), $10,000 (Large Businesses)</p></td>
           <td><p>$1,000 (Individuals), $10,000 (Small Businesses), $100,000 (Large Businesses)</p></td>
-          <td><p>$10,000 (Individuals), $100,000 (Small Businesses), $1,000,000 (Large Businesses)</p></td>
         </tr>
         <tr>
           <td><h1>User Experience</h1><p>(e.g. Copy, Customer Service. Quality Control)</p></td>
+          <td><p>Free for all</p></td>
           <td><p>$100 (Individuals), $1,000 (Small Businesses), $10,000 (Large Businesses)</p></td>
           <td><p>$1,000 (Individuals), $10,000 (Small Businesses), $100,000 (Large Businesses)</p></td>
-          <td><p>$10,000 (Individuals), $100,000 (Small Businesses), $1,000,000 (Large Businesses)</p></td>
         </tr>
         <tr>
           <td><h1>Marketing</h1><p>(e.g. Guerilla Marketing, Influencer Marketing, Social Media Marketing)</p></td>
+          <td><p>Free for all</p></td>
           <td><p>$100 (Individuals), $1,000 (Small Businesses), $10,000 (Large Businesses)</p></td>
           <td><p>$1,000 (Individuals), $10,000 (Small Businesses), $100,000 (Large Businesses)</p></td>
-          <td><p>$10,000 (Individuals), $100,000 (Small Businesses), $1,000,000 (Large Businesses)</p></td>
         </tr>
       </table> 
 

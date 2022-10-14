@@ -253,11 +253,6 @@ export const RestaurantsList = [
         link: "https://www.padrecitosf.com/",
     }, 
     {
-        name: "Pi On Sunset",
-        image: PiOnSunet,
-        link: "http://pionsunset.cafe/",
-    }, 
-    {
         name: "Rawsome Treats",
         image: Rawesome,
         link: "http://www.rawsometreats.com/",

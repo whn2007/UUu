@@ -14,6 +14,7 @@ import MarkSmith from '../assets/villains/marksmith.webp'
 import RyoMiller from '../assets/villains/ryomiller.webp'
 import NatalieJohnson from '../assets/villains/nataliejohnson.webp'
 import CameronMagruder from '../assets/villains/cameronmagruder.webp'
+import MichaelWilson from '../assets/villains/michaelwilson.webp'
 
 export const VillainList = [
     {
@@ -85,6 +86,11 @@ export const VillainList = [
         name: 'Mark Smith',
         image: MarkSmith,
         link: 'https://www.linkedin.com/in/namesakemark'
+    },
+    {
+        name: 'Michael Wilson',
+        image: MichaelWilson,
+        link: 'https://twitter.com/TheWalllstreet'
     },
     {
         name: 'Ryo Miller',
